@@ -18,17 +18,9 @@ permalink: "/tools/js-info-new"
         right: 5px;
         opacity: 1.0;
     }
-    th {
-        font-size: 20px;
-        padding-bottom: 10px;
-        text-decoration: underline;
-    }
-    td {
-        font-size: 16px;
-        vertical-align: top;
-    }
-    td.label {
-        width: 110px;
+    
+    jsinfo.table {
+        width: 100%;
     }
 </style>
 
@@ -57,7 +49,7 @@ permalink: "/tools/js-info-new"
 
 ## Window
 
-<table>
+<table class="jsinfo">
     <tbody>
         <tr>
             <td class="label">closed: </td>
@@ -124,7 +116,7 @@ permalink: "/tools/js-info-new"
 
 ## Navigator
 
-<table>
+<table class="jsinfo">
     <tbody>
         <tr>
             <td class="label">appCodeName: </td>
@@ -164,7 +156,7 @@ permalink: "/tools/js-info-new"
 
 ## Screen
 
-<table>
+<table class="jsinfo">
     <tbody>
         <tr>
             <td class="label">availHeight: </td>
@@ -195,7 +187,7 @@ permalink: "/tools/js-info-new"
 
 ## History
 
-<table>
+<table class="jsinfo">
     <tbody>
         <tr>
             <td class="label">length: </td>
@@ -206,7 +198,7 @@ permalink: "/tools/js-info-new"
 
 ## Location
 
-<table>
+<table class="jsinfo">
     <tbody>
         <tr>
             <td class="label">hash: </td>
