@@ -27,25 +27,25 @@ permalink: "/info/github/labels"
 ## Complex scheme v2
 
 - components (#bfd4f2)
-    - "comp: ?"</li>
+    - "comp: ?"
 - effort (#d4c5f9)
-    - "effort (1): easy (mins)"</li>
-    - "effort (2): medium (hour-s)"</li>
-    - "effort (3): hard (day-s)"</li>
+    - "effort (1): easy (mins)"
+    - "effort (2): medium (hour-s)"
+    - "effort (3): hard (day-s)"
 - pull request
-    - "pull request: clean up" (#ff7700)</li>
-    - "pull request: mergable" (#00dd00)</li>
+    - "pull request: clean up" (#ff7700)
+    - "pull request: mergable" (#00dd00)
 - states
-    - "state (0): duplicate" (#006b75)</li>
-    - "state (0): ExtDependency" (#006b75)</li>
-    - "state (0): WontFix" (#006b75)</li>
-    - "state (1): discuss" (#ff3333)</li>
-    - "state (2): WIP" (#ff7700)</li>
-    - "state (3): review" (#ffdd00)</li>
-    - "state (4): LGTM" (#00dd00)</li>
-- types (#5319e7)&nbsp;<span class="cpv" style="background-color: #5319e7;"></span>
-    - "type: bug"</li>
-    - "type: chore"</li>
+    - "state (0): duplicate" (#006b75)
+    - "state (0): ExtDependency" (#006b75)
+    - "state (0): WontFix" (#006b75)
+    - "state (1): discuss" (#ff3333)
+    - "state (2): WIP" (#ff7700)
+    - "state (3): review" (#ffdd00)
+    - "state (4): LGTM" (#00dd00)
+- types (#5319e7)&nbsp;<span class="cpv" style="background-color: #5319e7;">&nbsp;</span>
+    - "type: bug"
+    - "type: chore"
     - "type: feature"
 
 
@@ -105,38 +105,47 @@ permalink: "/info/github/labels"
 <div class="table-responsive">
     <table class="table table-striped table-sm">
         <tr>
+            <th>Color</th>
             <th>Hex (RGB)</th>
             <th>Usage</th>
         </tr>
         <tr>
+            <td style="background-color: #bfd4f2;">&nbsp;</td>
             <td>#bfd4f2</td>
             <td>(components)</td>
         </tr>
         <tr>
+            <td style="background-color: #d4c5f9;">&nbsp;</td>
             <td>#d4c5f9</td>
             <td>(effort)</td>
         </tr>
         <tr>
+            <td style="background-color: #006b75;">&nbsp;</td>
             <td>#006b75</td>
             <td>(state 0)</td>
         </tr>
         <tr>
+            <td style="background-color: #ff3333;">&nbsp;</td>
             <td>#ff3333</td>
             <td>(state 1)</td>
         </tr>
         <tr>
+            <td style="background-color: #ff7700;">&nbsp;</td>
             <td>#ff7700</td>
             <td>(state 2 / clean up)</td>
         </tr>
         <tr>
+            <td style="background-color: #ffdd00;">&nbsp;</td>
             <td>#ffdd00</td>
             <td>(state 3)</td>
         </tr>
         <tr>
+            <td style="background-color: #00dd00;">&nbsp;</td>
             <td>#00dd00</td>
             <td>(state 4 / mergable)</td>
         </tr>
         <tr>
+            <td style="background-color: #5319e7;">&nbsp;</td>
             <td>#5319e7</td>
             <td>(types)</td>
         </tr>
