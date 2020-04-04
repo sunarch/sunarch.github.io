@@ -42,6 +42,14 @@ permalink: "/tools/js-info-new"
         [ "location",
             ["hash", "host", "hostname", "href", "pathname", "port", "protocol", "search"] ]
     ];
+        
+    var jai_2 = {
+        "window":    ["closed", "defaultStatus", "innerHeight", "innerWidth", "name", "opener", "outerHeight", "outerWidth", "pageXOffset", "pageYOffset", "screenLeft", "screenTop", "screenX", "screenY", "status"],
+        "navigator": ["appCodeName", "appName", "appVersion", "cookieEnabled", "platform", "userAgent"],
+        "screen":    ["availHeight", "availWidth", "colorDepth", "height", "pixelDepth", "width"],
+        "history":   ["length"],
+        "location":  ["hash", "host", "hostname", "href", "pathname", "port", "protocol", "search"]
+    };
 
     function refresh() {
         document.getElementById("errormessage").style.display = "none";
@@ -51,12 +59,25 @@ permalink: "/tools/js-info-new"
             }
         }
     }
+    
+    function refresh_2() {
+        document.getElementById("errormessage").style.display = "none";
+        
+        categ = jai_2.keys() // categories
+        
+        for (n1=0; n1<=categ.length-1; n1=n1+1) {
+            for (n2=1; n2<=jai[n1][1].length-1; n2=n2+1) {
+                value = eval(categ[n1] + "." + jai_2[categ[n1]][n2]);
+                document.getElementById(categ[n1] + "_" + jai_2[categ[n1]][n2]).innerHTML = String(value);
+            }
+        }
+    }
 
 </script>
 
 <h3 id="errormessage">JavaScript is not enabled in your browser!</h3>
 
-<input type="button" class="refreshbutton" onClick="refresh()" value="Refresh" />
+<input type="button" class="refreshbutton" onClick="refresh_2()" value="Refresh" />
 
 ## Window
 
@@ -247,5 +268,5 @@ permalink: "/tools/js-info-new"
 </table>
 
 <script type="text/javascript" language="JavaScript">
-    refresh();
+    //refresh();
 </script>
