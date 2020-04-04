@@ -1,3 +1,6 @@
+// Define the `sunarchApp` module
+var sunarchApp = angular.module('sunarchApp', []);
+
 // Define the `JSInfoController` controller on the `sunarchApp` module
 sunarchApp.controller('JSInfoController', function JSInfoController($scope) {
 
