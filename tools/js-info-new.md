@@ -62,7 +62,7 @@ permalink: "/tools/js-info-new"
     function refresh() {
         document.getElementById("errormessage").style.display = "none";
         for (n1=0; n1<=jai.length-1; n1=n1+1) {
-            for (n2=1; n2<=jai[n1][1].length-1; n2=n2+1) {
+            for (n2=0; n2<=jai[n1][1].length-1; n2=n2+1) {
                 document.getElementById(jai[n1][0]+"_"+jai[n1][1][n2]).innerHTML = String(eval(jai[n1][0]+"."+jai[n1][1][n2]));
             }
         }
@@ -72,7 +72,7 @@ permalink: "/tools/js-info-new"
         document.getElementById("errormessage").style.display = "none";
         
         for (n1=0; n1<=categ.length-1; n1=n1+1) {
-            for (n2=1; n2<=jai[n1][1].length-1; n2=n2+1) {
+            for (n2=0; n2<=jai[n1][1].length-1; n2=n2+1) {
                 value = eval(categ[n1] + "." + jai_2[categ[n1]][n2]);
                 document.getElementById(categ[n1] + "_" + jai_2[categ[n1]][n2]).innerHTML = String(value);
             }
