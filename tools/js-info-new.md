@@ -43,7 +43,7 @@ permalink: "/tools/js-info-new"
             ["hash", "host", "hostname", "href", "pathname", "port", "protocol", "search"] ]
     ];
         
-    jai_2 = {
+    var jai_2 = {
         "window":    ["closed", "defaultStatus", "innerHeight", "innerWidth", 
                       "name", "opener", "outerHeight", "outerWidth", 
                       "pageXOffset", "pageYOffset", "screenLeft", "screenTop", 
@@ -57,7 +57,7 @@ permalink: "/tools/js-info-new"
                       "pathname", "port", "protocol", "search"]
     };
     
-    categ = jai_2.keys() // categories
+    categ = Object.keys(jai_2) // categories
 
     function refresh() {
         document.getElementById("errormessage").style.display = "none";
