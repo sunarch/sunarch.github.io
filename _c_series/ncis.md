@@ -1,0 +1,35 @@
+---
+layout: "series"
+# title is set to d_title in layout
+# description is set to "series page | catalog" in layout
+permalink: "/catalog/media/series/list/ncis"
+
+d_title: "NCIS: Naval Criminal Investigative Service"
+
+d_type: ""
+d_available: ""
+
+d_sort_level: "second"
+d_sort_category: "live-action"
+
+d_watch_status: "finished in part"
+d_watch_done_seasons: "15" # fifteen
+d_watch_done_episodes: "24" # twenty-four
+d_watch_done_comment: "F" # season finale
+
+d_air_status: "ongoing"
+d_air_season: "season 17" # seventeen
+
+d_ep_per_season: "19-25"
+
+imdb_link: "https://www.imdb.com/title/tt0364845/"
+imdb_year_start: "2003"
+imdb_year_finish: "" # ongoing
+imdb_seasons: "17"
+imdb_episodes: "398"
+imdb_runtime: "1h"
+imdb_genre: "Action, Crime, Drama"
+imdb_creators: [{name: "Donald P. Bellisario", link: "https://www.imdb.com/name/nm0069074/"}, {name: "Don McGill", link: "https://www.imdb.com/name/nm1453745/"}]
+imdb_image: "https://m.media-amazon.com/images/M/MV5BYjVlMjZhYzYtOGQxNC00OTQxLTk2NzEtMWFmMmNhODA4YjYzXkEyXkFqcGdeQXVyNjQ3MDgwNjY@._V1_UX182_CR0,0,182,268_AL_.jpg"
+imdb_summary: "The cases of the Naval Criminal Investigative Service's Washington, D.C. Major Case Response Team, led by Special Agent Leroy Jethro Gibbs."
+---

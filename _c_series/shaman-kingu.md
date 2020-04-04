@@ -1,0 +1,35 @@
+---
+layout: "series"
+# title is set to d_title in layout
+# description is set to "series page | catalog" in layout
+permalink: "/catalog/media/series/list/shaman-kingu"
+
+d_title: "Shaman Kingu"
+
+d_type: ""
+d_available: ""
+
+d_sort_level: "second"
+d_sort_category: "animation"
+
+d_watch_status: "finished in part"
+d_watch_done_seasons: "01" # one
+d_watch_done_episodes: "64" # sixty-four
+d_watch_done_comment: "F" # season finale
+
+d_air_status: "ended"
+d_air_season: "season 02" # two
+
+d_ep_per_season: "39-64"
+
+imdb_link: "https://www.imdb.com/title/tt0367409/"
+imdb_year_start: "2001"
+imdb_year_finish: "2005"
+imdb_seasons: "2"
+imdb_episodes: "78"
+imdb_runtime: "23min"
+imdb_genre: "Animation, Action, Adventure"
+imdb_creators: [{name: "", link: ""}] # -
+imdb_image: "https://m.media-amazon.com/images/M/MV5BYTk4OGY4MjgtYThiNy00OWExLWE2YzMtOTg4N2ExNmJjODk4XkEyXkFqcGdeQXVyMjc4OTQ1OTA@._V1_UY268_CR3,0,182,268_AL_.jpg"
+imdb_summary: "SHAMAN KING follows the adventures of a 13-year-old shaman and his teammate a samurai warrior spirit, who traverse the world fighting evil spirits and misguided shamans on their journey to be the next Shaman King."
+---

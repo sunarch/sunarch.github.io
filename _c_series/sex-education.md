@@ -1,0 +1,35 @@
+---
+layout: "series"
+# title is set to d_title in layout
+# description is set to "series page | catalog" in layout
+permalink: "/catalog/media/series/list/sex-education"
+
+d_title: "Sex Education"
+
+d_type: "Netflix Original (Comedy)"
+d_available: "Netflix"
+
+d_sort_level: "second"
+d_sort_category: "live-action"
+
+d_watch_status: "watching"
+d_watch_done_seasons: "02" # two
+d_watch_done_episodes: "08" # eight
+d_watch_done_comment: "F" # season finale
+
+d_air_status: "available"
+d_air_season: "season 02" # two
+
+d_ep_per_season: "8"
+
+imdb_link: "https://www.imdb.com/title/tt7767422/"
+imdb_year_start: "2019"
+imdb_year_finish: "" # ongoing
+imdb_seasons: "3"
+imdb_episodes: "17"
+imdb_runtime: "45min"
+imdb_genre: "Comedy, Drama"
+imdb_creators: [{name: "Laurie Nunn", link: "https://www.imdb.com/name/nm5677403/"}]
+imdb_image: "https://m.media-amazon.com/images/M/MV5BZjgyMzFiMDgtNWNmMS00ZDEyLTkzYzgtMjMzZjk4YjhjZWUxXkEyXkFqcGdeQXVyNDg4MjkzNDk@._V1_UY268_CR16,0,182,268_AL_.jpg"
+imdb_summary: "A teenage boy with a sex therapist mother teams up with a high school classmate to set up an underground sex therapy clinic at school."
+---

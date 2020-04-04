@@ -1,0 +1,35 @@
+---
+layout: "series"
+# title is set to d_title in layout
+# description is set to "series page | catalog" in layout
+permalink: "/catalog/media/series/list/house-of-cards"
+
+d_title: "House of Cards"
+
+d_type: "Netflix Original (Drama)"
+d_available: "Netflix"
+
+d_sort_level: "second"
+d_sort_category: "live-action"
+
+d_watch_status: "finished"
+d_watch_done_seasons: "06"# six
+d_watch_done_episodes: "08" # eight
+d_watch_done_comment: "F" # season / series finale
+
+d_air_status: "ended"
+d_air_season: "season 06" # six
+
+d_ep_per_season: "8-13"
+
+imdb_link: "https://www.imdb.com/title/tt1856010/"
+imdb_year_start: "2013"
+imdb_year_finish: "2018"
+imdb_seasons: "6"
+imdb_episodes: "73"
+imdb_runtime: "51min"
+imdb_genre: "Drama"
+imdb_creators: [{name: "Beau Willimon", link: "https://www.imdb.com/name/nm2802722/"}]
+imdb_image: "https://m.media-amazon.com/images/M/MV5BODM1MDU2NjY5NF5BMl5BanBnXkFtZTgwMDkxNTcwNjM@._V1_UX182_CR0,0,182,268_AL_.jpg"
+imdb_summary: "A Congressman works with his equally conniving wife to exact revenge on the people who betrayed him."
+---

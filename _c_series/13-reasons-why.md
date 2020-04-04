@@ -1,0 +1,35 @@
+---
+layout: "series"
+# title is set to d_title in layout
+# description is set to "series page | catalog" in layout
+permalink: "/catalog/media/series/list/13-reasons-why"
+
+d_title: "13 Reasons Why"
+
+d_type: "Netflix Original (Drama)"
+d_available: "Netflix"
+
+d_sort_level: "other"
+d_sort_category: "live-action"
+
+d_watch_status: "watching"
+d_watch_done_seasons: "03" # three
+d_watch_done_episodes: "13" # thirteen
+d_watch_done_comment: "F" # season finale
+
+d_air_status: "renewed"
+d_air_season: "season 04 (last)" # four
+
+d_ep_per_season: "13"
+
+imdb_link: "https://www.imdb.com/title/tt1837492/"
+imdb_year_start: "2017"
+imdb_year_finish: "" # ongoing
+imdb_seasons: "4"
+imdb_episodes: "49"
+imdb_runtime: "1h"
+imdb_genre: "Drama, Mystery"
+imdb_creators: [{name: "Brian Yorkey", link: "https://www.imdb.com/name/nm5039329/"}]
+imdb_image: "https://m.media-amazon.com/images/M/MV5BMTA2OTQxNzQtMDQ5OC00NDczLWFhYjEtN2UyMmIwNGZlZDM4XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_UX182_CR0,0,182,268_AL_.jpg"
+imdb_summary: "Follows teenager Clay Jensen, in his quest to uncover the story behind his classmate and crush, Hannah, and her decision to end her life."
+---
