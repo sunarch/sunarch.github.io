@@ -19,11 +19,11 @@ permalink: "/tools/js-info-new"
         opacity: 1.0;
     }
     
-    jsinfo.table {
+    table.jsinfo {
         display: table;
         width: 100%;
     }
-    jsinfo.table td {
+    table.jsinfo td {
         width: 50%;
     }
 </style>
