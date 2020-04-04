@@ -6,4 +6,3 @@ layout: "default"
 
 - [info](info/index.md)
 - [tools](tools/index.md)
-- [catalog](catalog/index.md)
