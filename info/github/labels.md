@@ -7,12 +7,6 @@ permalink: "/info/github/labels"
 
 [< GitHub](index.md)
 
-<style>
-.cpv {
-	width: 3pt;
-}
-</style>
-
 ## Simple scheme v1
 
 - types
@@ -43,7 +37,7 @@ permalink: "/info/github/labels"
     - "state (2): WIP" (#ff7700)
     - "state (3): review" (#ffdd00)
     - "state (4): LGTM" (#00dd00)
-- types (#5319e7)&nbsp;<span class="cpv" style="background-color: #5319e7;">&nbsp;</span>
+- types (#5319e7)
     - "type: bug"
     - "type: chore"
     - "type: feature"
