@@ -76,63 +76,63 @@ permalink: "/tools/js-info"
     <tbody>
         <tr>
             <td>closed</td>
-            <td><div id="window_closed"></div></td>
+            <td id="window_closed"></td>
         </tr>
         <tr>
             <td>defaultStatus</td>
-            <td><div id="window_defaultStatus"></div></td>
+            <td id="window_defaultStatus"></td>
         </tr>
         <tr>
             <td>innerHeight</td>
-            <td><div id="window_innerHeight"></div></td>
+            <td id="window_innerHeight"></td>
         </tr>
         <tr>
             <td>innerWidth</td>
-            <td><div id="window_innerWidth"></div></td>
+            <td id="window_innerWidth"></td>
         </tr>
         <tr>
             <td>name</td>
-            <td><div id="window_name"></div></td>
+            <td id="window_name"></td>
         </tr>
         <tr>
             <td>opener</td>
-            <td><div id="window_opener"></div></td>
+            <td id="window_opener"></td>
         </tr>
         <tr>
             <td>outerHeight</td>
-            <td><div id="window_outerHeight"></div></td>
+            <td id="window_outerHeight"></td>
         </tr>
         <tr>
             <td>outerWidth</td>
-            <td><div id="window_outerWidth"></div></td>
+            <td id="window_outerWidth"></td>
         </tr>
         <tr>
             <td>pageXOffset</td>
-            <td><div id="window_pageXOffset"></div></td>
+            <td id="window_pageXOffset"></td>
         </tr>
         <tr>
             <td>pageYOffset</td>
-            <td><div id="window_pageYOffset"></div></td>
+            <td id="window_pageYOffset"></td>
         </tr>
         <tr>
             <td>screenLeft</td>
-            <td><div id="window_screenLeft"></div></td>
+            <td id="window_screenLeft"></td>
         </tr>
         <tr>
             <td>screenTop</td>
-            <td><div id="window_screenTop"></div></td>
+            <td id="window_screenTop"></td>
         </tr>
         <tr>
             <td>screenX</td>
-            <td><div id="window_screenX"></div></td>
+            <td id="window_screenX"></td>
         </tr>
         <tr>
             <td>screenY</td>
-            <td><div id="window_screenY"></div></td>
+            <td id="window_screenY"></td>
         </tr>
         <tr>
             <td>status</td>
-            <td><div id="window_status"></div></td>
+            <td id="window_status"></td>
         </tr>
     </tbody>
 </table>
@@ -143,27 +143,27 @@ permalink: "/tools/js-info"
     <tbody>
         <tr>
             <td>appCodeName</td>
-            <td><div id="navigator_appCodeName"></div></td>
+            <td id="navigator_appCodeName"></td>
         </tr>
         <tr>
             <td>appName</td>
-            <td><div id="navigator_appName"></div></td>
+            <td id="navigator_appName"></td>
         </tr>
         <tr>
             <td>appVersion</td>
-            <td><div id="navigator_appVersion"></div></td>
+            <td id="navigator_appVersion"></td>
         </tr>
         <tr>
             <td>cookieEnabled</td>
-            <td><div id="navigator_cookieEnabled"></div></td>
+            <td id="navigator_cookieEnabled"></td>
         </tr>
         <tr>
             <td>platform</td>
-            <td><div id="navigator_platform"></div></td>
+            <td id="navigator_platform"></td>
         </tr>
         <tr>
             <td>userAgent</td>
-            <td><div id="navigator_userAgent"></div></td>
+            <td id="navigator_userAgent"></td>
         </tr>
         <tr>
             <td>javaEnabled</td>
@@ -183,27 +183,27 @@ permalink: "/tools/js-info"
     <tbody>
         <tr>
             <td>availHeight: </td>
-            <td><div id="screen_availHeight"></div></td>
+            <td id="screen_availHeight"></td>
         </tr>
         <tr>
             <td>availWidth: </td>
-            <td><div id="screen_availWidth"></div></td>
+            <td id="screen_availWidth"></td>
         </tr>
         <tr>
             <td>colorDepth: </td>
-            <td><div id="screen_colorDepth"></div></td>
+            <td id="screen_colorDepth"></td>
         </tr>
         <tr>
             <td>height: </td>
-            <td><div id="screen_height"></div></td>
+            <td id="screen_height"></td>
         </tr>
         <tr>
             <td>pixelDepth: </td>
-            <td><div id="screen_pixelDepth"></div></td>
+            <td id="screen_pixelDepth"></td>
         </tr>
         <tr>
             <td>width: </td>
-            <td><div id="screen_width"></div></td>
+            <td id="screen_width"></td>
         </tr>
     </tbody>
 </table>
@@ -214,7 +214,7 @@ permalink: "/tools/js-info"
     <tbody>
         <tr>
             <td>length: </td>
-            <td><div id="history_length"></div></td>
+            <td id="history_length"></td>
         </tr>
     </tbody>
 </table>
@@ -225,35 +225,35 @@ permalink: "/tools/js-info"
     <tbody>
         <tr>
             <td>hash: </td>
-            <td><div id="location_hash"></div></td>
+            <td id="location_hash"></td>
         </tr>
         <tr>
             <td>host: </td>
-            <td><div id="location_host"></div></td>
+            <td id="location_host"></td>
         </tr>
         <tr>
             <td>hostname: </td>
-            <td><div id="location_hostname"></div></td>
+            <td id="location_hostname"></td>
         </tr>
         <tr>
             <td>href: </td>
-            <td><div id="location_href"></div></td>
+            <td id="location_href"></td>
         </tr>
         <tr>
             <td>pathname: </td>
-            <td><div id="location_pathname"></div></td>
+            <td id="location_pathname"></td>
         </tr>
         <tr>
             <td>port: </td>
-            <td><div id="location_port"></div></td>
+            <td id="location_port"></td>
         </tr>
         <tr>
             <td>protocol: </td>
-            <td><div id="location_protocol"></div></td>
+            <td id="location_protocol"></td>
         </tr>
         <tr>
             <td>search: </td>
-            <td><div id="location_search"></div></td>
+            <td id="location_search"></td>
         </tr>
     </tbody>
 </table>
