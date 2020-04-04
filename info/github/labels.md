@@ -7,65 +7,47 @@ permalink: "/info/github/labels"
 
 [< GitHub](index.md)
 
+<style>
+.cpv {
+	width: 3pt;
+}
+</style>
+
 ## Simple scheme v1
 
-<ul>
-    <li>types
-        <ul>
-            <li>bug (#ff0000)</li>
-            <li>chore (#00ffff)</li>
-            <li>feature (#0000ff)</li>
-        </ul>
-    </li>
-    <li>states
-        <ul>
-            <li>discuss (#ff00ff)</li>
-            <li>WIP (#ffff00)</li>
-            <li>LGTM (#00ff00)</li>
-        </ul>
-    </li>
-</ul>
+-types
+    - bug (#ff0000)
+    - chore (#00ffff)
+    - feature (#0000ff)
+- states
+    - discuss (#ff00ff)
+    - WIP (#ffff00)
+    - LGTM (#00ff00)
 
 ## Complex scheme v2
 
-<ul>
-    <li>components (#bfd4f2)
-        <ul>
-            <li>"comp: ?"</li>
-        </ul>
-    </li>
-    <li>effort (#d4c5f9)
-        <ul>
-            <li>"effort (1): easy (mins)"</li>
-            <li>"effort (2): medium (hour-s)"</li>
-            <li>"effort (3): hard (day-s)"</li>
-        </ul>
-    </li>
-    <li>pull request
-        <ul>
-            <li>"pull request: clean up" (#ff7700)</li>
-            <li>"pull request: mergable" (#00dd00)</li>
-        </ul>
-    </li>
-    <li>states
-        <ul>
-            <li>"state (0): duplicate" (#006b75)</li>
-            <li>"state (0): ExtDependency" (#006b75)</li>
-            <li>"state (0): WontFix" (#006b75)</li>
-            <li>"state (1): discuss" (#ff3333)</li>
-            <li>"state (2): WIP" (#ff7700)</li>
-            <li>"state (3): review" (#ffdd00)</li>
-            <li>"state (4): LGTM" (#00dd00)</li>
-        </ul>
-    </li>
-    <li>types (#5319e7)
-        <ul>
-            <li>"type: bug"</li>
-            <li>"type: chore"</li>
-            <li>"type: feature"</li>
-        </ul>
-    </li>
-</ul>
+- components (#bfd4f2)
+    - "comp: ?"</li>
+- effort (#d4c5f9)
+    - "effort (1): easy (mins)"</li>
+    - "effort (2): medium (hour-s)"</li>
+    - "effort (3): hard (day-s)"</li>
+- pull request
+    - "pull request: clean up" (#ff7700)</li>
+    - "pull request: mergable" (#00dd00)</li>
+- states
+    - "state (0): duplicate" (#006b75)</li>
+    - "state (0): ExtDependency" (#006b75)</li>
+    - "state (0): WontFix" (#006b75)</li>
+    - "state (1): discuss" (#ff3333)</li>
+    - "state (2): WIP" (#ff7700)</li>
+    - "state (3): review" (#ffdd00)</li>
+    - "state (4): LGTM" (#00dd00)</li>
+- types (#5319e7)&nbsp;<span class="cpv" style="background-color: #5319e7;"></span>
+    - "type: bug"</li>
+    - "type: chore"</li>
+    - "type: feature"
+
 
 ## List of colors
 
@@ -74,36 +56,43 @@ permalink: "/info/github/labels"
 <div class="table-responsive">
     <table class="table table-striped table-sm">
         <tr>
+            <th>Color</th>
             <th>Hex (RGB)</th>
             <th>Name</th>
             <th>Usage</th>
         </tr>
         <tr>
+            <td style="background-color: #ff0000;">&nbsp;</td>
             <td>#ff0000</td>
             <td>Red</td>
             <td>bug</td>
         </tr>
         <tr>
+            <td style="background-color: #00ff00;">&nbsp;</td>
             <td>#00ff00</td>
             <td>Lime</td>
             <td>LGTM</td>
         </tr>
         <tr>
+            <td style="background-color: #0000ff;">&nbsp;</td>
             <td>#0000ff</td>
             <td>Blue</td>
             <td>feature</td>
         </tr>
         <tr>
+            <td style="background-color: #ffff00;">&nbsp;</td>
             <td>#ffff00</td>
             <td>Yellow</td>
             <td>WIP</td>
         </tr>
         <tr>
+            <td style="background-color: #ff00ff;">&nbsp;</td>
             <td>#ff00ff</td>
             <td>Magenta / Fuchsia</td>
             <td>discuss</td>
         </tr>
         <tr>
+            <td style="background-color: #00ffff;">&nbsp;</td>
             <td>#00ffff</td>
             <td>Cyan / Aqua</td>
             <td>chore</td>
@@ -156,43 +145,26 @@ permalink: "/info/github/labels"
 
 ### List of all types
 
-<ul>
-    <li>components (#bfd4f2)
-        <ul>
-            <li>"comp: ?"</li>
-        </ul>
-    </li>
-    <li>effort (#d4c5f9)
-        <ul>
-            <li>"effort (1): easy (mins)"</li>
-            <li>"effort (2): medium (hour-s)"</li>
-            <li>"effort (3): hard (day-s)"</li>
-        </ul>
-    </li>
-    <li>pull request
-        <ul>
-            <li>"pull request: clean up" (#ff7700)</li>
-            <li>"pull request: mergable" (#00dd00)</li>
-        </ul>
-    </li>
-    <li>states
-        <ul>
-            <li>"state (0): duplicate" (#006b75)</li>
-            <li>"state (0): ExtDependency" (#006b75)</li>
-            <li>"state (0): WontFix" (#006b75)</li>
-            <li>"state (1): discuss" (#ff3333)</li>
-            <li>"state (2): WIP" (#ff7700)</li>
-            <li>"state (3): review" (#ffdd00)</li>
-            <li>"state (4): LGTM" (#00dd00)</li>
-        </ul>
-    </li>
-    <li>types (#5319e7)
-        <ul>
-            <li>"type: bug"</li>
-            <li>"type: chore"</li>
-            <li>"type: feature"</li>
-            <li>"type: refactor"</li>
-            <li>"type: RFC"</li>
-        </ul>
-    </li>
-</ul>
+- components (#bfd4f2)
+    - "comp: ?"
+- effort (#d4c5f9)
+    - "effort (1): easy (mins)"
+    - "effort (2): medium (hour-s)"
+    - "effort (3): hard (day-s)"
+- pull request
+    - "pull request: clean up" (#ff7700)
+    - "pull request: mergable" (#00dd00)
+- states
+    - "state (0): duplicate" (#006b75)
+    - "state (0): ExtDependency" (#006b75)
+    - "state (0): WontFix" (#006b75)
+    - "state (1): discuss" (#ff3333)
+    - "state (2): WIP" (#ff7700)
+    - "state (3): review" (#ffdd00)
+    - "state (4): LGTM" (#00dd00)
+- types (#5319e7)
+    - "type: bug"
+    - "type: chore"
+    - "type: feature"
+    - "type: refactor"
+    - "type: RFC"
