@@ -15,7 +15,7 @@ permalink: "/info/github/labels"
 
 ## Simple scheme v1
 
--types
+- types
     - bug (#ff0000)
     - chore (#00ffff)
     - feature (#0000ff)
