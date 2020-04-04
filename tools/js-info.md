@@ -29,21 +29,8 @@ permalink: "/tools/js-info"
 </style>
 
 <script type="text/javascript" language="JavaScript">
-
-    var jai = [
-        [ "window",
-            ["closed", "defaultStatus", "innerHeight", "innerWidth", "name", "opener", "outerHeight", "outerWidth", "pageXOffset", "pageYOffset", "screenLeft", "screenTop", "screenX", "screenY", "status"] ],
-        [ "navigator",
-            ["appCodeName", "appName", "appVersion", "cookieEnabled", "platform", "userAgent"] ],
-        [ "screen",
-            ["availHeight", "availWidth", "colorDepth", "height", "pixelDepth", "width"] ],
-        [ "history",
-            ["length"] ],
-        [ "location",
-            ["hash", "host", "hostname", "href", "pathname", "port", "protocol", "search"] ]
-    ];
         
-    var jai_2 = {
+    var jai = {
         "window":    ["closed", "defaultStatus", "innerHeight", "innerWidth", 
                       "name", "opener", "outerHeight", "outerWidth", 
                       "pageXOffset", "pageYOffset", "screenLeft", "screenTop", 
@@ -57,25 +44,20 @@ permalink: "/tools/js-info"
                       "pathname", "port", "protocol", "search"]
     };
     
-    categ = Object.keys(jai_2) // categories
-
+    category_list = Object.keys(jai) // categories
+    
     function refresh() {
         document.getElementById("errormessage").style.display = "none";
-        for (n1=0; n1<=jai.length-1; n1=n1+1) {
-            for (n2=0; n2<=jai[n1][1].length-1; n2=n2+1) {
-                document.getElementById(jai[n1][0]+"_"+jai[n1][1][n2]).innerHTML = String(eval(jai[n1][0]+"."+jai[n1][1][n2]));
-            }
-        }
-    }
-    
-    function refresh_2() {
-        document.getElementById("errormessage").style.display = "none";
         
-        for (n1=0; n1<=categ.length-1; n1=n1+1) {
-            for (n2=0; n2<=jai_2[categ[n1]].length-1; n2=n2+1) {
+        for (n1=0; n1<=category_list.length-1; n1=n1+1) {
+            category = category_list[n1];
+            item_list = jai[category];
             
-                tag_id = categ[n1] + "_" + jai_2[categ[n1]][n2]
-                value = eval(categ[n1] + "." + jai_2[categ[n1]][n2]);
+            for (n2=0; n2<=item_list.length-1; n2=n2+1) {
+                item = item_list[n2];
+            
+                tag_id = category + "_" + item;
+                value = eval(category + "." + item);
                 
                 document.getElementById(tag_id).innerHTML = String(value);
             }
@@ -86,7 +68,7 @@ permalink: "/tools/js-info"
 
 <h3 id="errormessage">JavaScript is not enabled in your browser!</h3>
 
-<input type="button" class="refreshbutton" onClick="refresh_2()" value="Refresh" />
+<input type="button" class="refreshbutton" onClick="refresh()" value="Refresh" />
 
 ## Window
 
@@ -277,5 +259,5 @@ permalink: "/tools/js-info"
 </table>
 
 <script type="text/javascript" language="JavaScript">
-    //refresh();
+    refresh();
 </script>
