@@ -7,5 +7,5 @@ permalink: "/tools"
 
 [< home](../index.md)
 
+- [JavaScript Info](js-info.md)
 - [JavaScript Info - old](js-info-old.html)
-- [JavaScript Info - new](js-info-new.md)

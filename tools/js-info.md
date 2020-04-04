@@ -2,7 +2,7 @@
 layout: "default"
 title: "JavaScript Accessed Information"
 description: "testing tool | sunarch"
-permalink: "/tools/js-info-new"
+permalink: "/tools/js-info"
 ---
 
 [< home](../index.md)
