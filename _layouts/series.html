@@ -1,0 +1,163 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: "en-US" }}">
+    <head>
+        <!--
+        {% if site.google_analytics %}
+          <script async src="https://www.googletagmanager.com/gtag/js?id={{ site.google_analytics }}"></script>
+          <script>
+            window.dataLayer = window.dataLayer || [];
+            function gtag(){dataLayer.push(arguments);}
+            gtag('js', new Date());
+            gtag('config', '{{ site.google_analytics }}');
+          </script>
+        {% endif %}
+        -->
+        <meta charset="UTF-8">
+
+        {% seo %}
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="theme-color" content="#157878">
+        <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+        <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+    </head>
+    <body>
+    <!--
+    <a id="skip-to-content" href="#content">Skip to the content.</a>
+    -->
+
+        <header class="page-header" role="banner">
+            <!--
+            <h1 class="project-name">{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
+            <h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
+            -->
+            <h1 class="project-name">{{ page.d_title }}</h1>
+            <h2 class="project-tagline">series page | catalog</h2>
+            <!--
+            {% if site.github.is_project_page %}
+                <a href="{{ site.github.repository_url }}" class="btn">View on GitHub</a>
+            {% endif %}
+            {% if site.show_downloads %}
+                <a href="{{ site.github.zip_url }}" class="btn">Download .zip</a>
+                <a href="{{ site.github.tar_url }}" class="btn">Download .tar.gz</a>
+            {% endif %}
+            -->
+        </header>
+
+        <main id="content" class="main-content" role="main">
+        
+            <p>
+                <a href="/catalog/media/series/category/all">&lt; all series</a>
+            </p>
+
+            <table style="display: table; width: 100%;">
+                <tbody>
+                    <tr>
+                        <td rowspan="7">
+                            <a href="{{ page.imdb_link }}" target="_blank">
+                                <img src="{{ page.imdb_image }}" alt="{{ page.d_title }}" />
+                            </a>
+                        </td>
+                        <td colspan="2" style="text-align: center; font-weight: bold;">IMDb</td>
+                    </tr>
+                    <tr>
+                        <td>years</td>
+                        <td>{{ page.imdb_year_start }}&nbsp;—&nbsp;{{ page.imdb_year_finish }}</td>
+                    </tr>
+                    <tr>
+                        <td>listed seasons / episodes</td>
+                        <td>{{ page.imdb_seasons }}&nbsp;/&nbsp;{{ page.imdb_episodes }}</td>
+                    </tr>
+                    <tr>
+                        <td>episodes per season</td>
+                        <td>{{ page.d_ep_per_season }}</td>
+                    </tr>
+                    <tr>
+                        <td>episode runtime</td>
+                        <td>{{ page.imdb_runtime }}</td>
+                    </tr>
+                    <tr>
+                        <td>genre</td>
+                        <td>{{ page.imdb_genre }}</td>
+                    </tr>
+                    <tr>
+                        <td>creators</td>
+                        <td>
+                            {% for creator in page.imdb_creators %}
+                                <a href="{{ creator.link }}" target="_blank">{{ creator.name }}</a>
+                                {% if creator != page.imdb_creators.last %}, {% endif %}
+                            {% endfor %}
+                        </td>
+                    </tr>
+                    <tr>
+                        <td colspan="3">{{ page.imdb_summary }}</td>
+                    </tr>
+                </tbody>
+            </table>
+
+            <h2>status</h2>
+            
+            <table style="display: table; width: 100%;">
+                <tbody>
+                    <tr>
+                        <td>{{ page.d_air_status }}</td>
+                        <td>{{ page.d_air_season }}</td>
+                    </tr>
+                </tbody>
+            </table>
+            
+            <h2>general</h2>
+          
+            <table style="display: table; width: 100%;">
+                <tbody>
+                    <tr>
+                        <td>type</td>
+                        <td>{{ page.d_type }}</td>
+                    </tr>
+                    <tr>
+                        <td>availablity</td>
+                        <td>{{ page.d_available }}</td>
+                    </tr>
+                </tbody>
+            </table>
+            
+            <h2>personal</h2>
+            
+            <table style="display: table; width: 100%;">
+                <tbody>
+                    <tr>
+                        <td>sorting level</td>
+                        <td>{{ page.d_sort_level }}</td>
+                    </tr>
+                    <tr>
+                        <td>sorting category</td>
+                        <td>{{ page.d_sort_category }}</td>
+                    </tr>
+                </tbody>
+            </table>
+            
+            <br/>
+            
+            <table style="display: table; width: 100%;">
+                <tbody>
+                    <tr>
+                        <td>watching status</td>
+                        <td>{{ page.d_watch_status }}</td>
+                    </tr>
+                    <tr>
+                        <td>seen</td>
+                        <td>s{{ page.d_watch_done_seasons }}e{{ page.d_watch_done_episodes }}&nbsp;{{ page.d_watch_done_comment }}</td>
+                    </tr>
+                </tbody>
+            </table>
+
+            {{ content }}
+
+            <footer class="site-footer">
+                {% if site.github.is_project_page %}
+                    <span class="site-footer-owner"><a href="{{ site.github.repository_url }}">{{ site.github.repository_name }}</a> is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a>.</span>
+                {% endif %}
+                <span class="site-footer-credits">This page was generated by <a href="https://pages.github.com">GitHub Pages</a>.</span>
+            </footer>
+        </main>
+    </body>
+</html>
