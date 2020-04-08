@@ -6,3 +6,13 @@ layout: "default"
 
 - [info](info/index.md)
 - [tools](tools/index.md)
+
+## subsites
+
+- [catalog](/catalog/)
+
+## contributing
+
+- [Arabisztika](https://arabisztika.github.io/)
+- [Filozófia](https://filozofia.github.io/)
+- [Vallástudomány](https://vallastudomany.github.io/)
