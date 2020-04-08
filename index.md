@@ -13,6 +13,4 @@ layout: "default"
 
 ## contributing
 
-- [Arabisztika](https://arabisztika.github.io/)
 - [Filozófia](https://filozofia.github.io/)
-- [Vallástudomány](https://vallastudomany.github.io/)
