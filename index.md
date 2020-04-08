@@ -7,7 +7,7 @@ layout: "default"
 - [info](info/index.md)
 - [tools](tools/index.md)
 
-## subsites
+## sub-sites
 
 - [catalog](/catalog/)
 
