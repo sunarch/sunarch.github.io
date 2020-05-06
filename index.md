@@ -9,8 +9,8 @@ layout: "default"
 
 ## sub-sites
 
-- [catalog](/catalog)
-- [easypass](/easypass)
+- [catalog](/catalog/)
+- [easypass](/easypass/)
 
 ## contributing
 
