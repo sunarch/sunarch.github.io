@@ -10,9 +10,9 @@ layout: "default"
 
 ## sub-sites
 
-- [catalog](/catalog/)
-- [easypass](/easypass/)
+- [web](/web) - static web projects
+- [easypass](/easypass) - diceware passphrase generator
 
 ## contributing
 
-- [Filozófia](https://filozofia.github.io/)
+- [Filozófia](https://filozofia.github.io)
