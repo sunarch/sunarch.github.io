@@ -8,3 +8,4 @@ permalink: "/info"
 [< home](../index.md)
 
 - [GitHub](github/index.md)
+- [licenses](licenses.md)
