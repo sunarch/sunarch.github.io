@@ -13,6 +13,7 @@ permalink: "/kb/op-sys/windows"
 ---
 
 ![Windows darkblue 2012 logo](https://upload.wikimedia.org/wikipedia/commons/8/8d/Windows_darkblue_2012.svg)
+
 *public domain from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Windows_darkblue_2012.svg)*
 
 ---

@@ -26,6 +26,7 @@ permalink: "/kb/op-sys/linux/distros/ubuntu"
 ---
 
 ![Ubuntu logo](https://upload.wikimedia.org/wikipedia/commons/3/3a/Logo-ubuntu_no%28r%29-black_orange-hex.svg)
+
 *public domain from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Logo-ubuntu_no(r)-black_orange-hex.svg)
 
 # locations

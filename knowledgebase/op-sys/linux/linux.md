@@ -33,4 +33,5 @@ permalink: "/kb/op-sys/linux"
 ---
 
 ![Tux the penguin](https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg)
+
 *CC0 [Larry Ewing](mailto:lewing@isc.tamu.edu), Simon Budig, Garrett LeSage from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Tux.svg)*
