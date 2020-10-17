@@ -4,10 +4,11 @@ layout: "default"
 #description: "home page on GitHub"
 ---
 
-- [info](info/info.md)
 - [tools](tools/index.md)
 
 - [knowledgebase](knowledgebase/knowledgebase.md)
+
+- [ideas](ideas/ideas.md)
 
 ## sub-sites
 
