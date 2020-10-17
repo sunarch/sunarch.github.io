@@ -2,7 +2,7 @@
 layout: "default"
 title: "operating systems"
 description: "knowledgebase | sunarch"
-permalink: "/kb/op-sys"
+permalink: "/kb/op-sys/android"
 ---
 
 [< operating systems](op-sys.md)

@@ -29,6 +29,8 @@ permalink: "/kb/op-sys/linux/distros/ubuntu"
 
 *public domain from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Logo-ubuntu_no(r)-black_orange-hex.svg)
 
+---
+
 # locations
 
 - autostart configuration files
