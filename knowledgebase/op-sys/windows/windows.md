@@ -5,7 +5,7 @@ description: "knowledgebase | sunarch"
 permalink: "/kb/op-sys/windows"
 ---
 
-[< operating systems](op-sys.md)
+[< operating systems](../op-sys.md)
 
 - [homepage](https://www.microsoft.com/en-us/windows/)
 - [Wikipedia](https://en.wikipedia.org/wiki/Microsoft_Windows)
@@ -30,7 +30,7 @@ permalink: "/kb/op-sys/windows"
 
 - [Wikipedia](https://en.wikipedia.org/wiki/Windows_10)
 
-- [upgrade download page (Hungarian](https://www.microsoft.com/hu-hu/software-download/windows10) (last checked: 2020-10-17)
+- [upgrade download page (Hungarian)](https://www.microsoft.com/hu-hu/software-download/windows10) (last checked: 2020-10-17)
 
 # server
 

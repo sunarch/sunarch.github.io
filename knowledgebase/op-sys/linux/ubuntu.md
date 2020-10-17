@@ -5,7 +5,7 @@ description: "knowledgebase | sunarch"
 permalink: "/kb/op-sys/linux/distros/ubuntu"
 ---
 
-[< Linux distributions](../distros.md)
+[< Linux distributions](distros.md)
 
 - based on Debian
 - [homepage](https://ubuntu.com)
