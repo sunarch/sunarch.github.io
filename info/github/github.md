@@ -5,7 +5,7 @@ description: "list of info | sunarch"
 permalink: "/info/github"
 ---
 
-[< info](../index.md)
+[< info](../info.md)
 
 - [GitHub Pages](github-pages.md)
 - [labels](labels.md)

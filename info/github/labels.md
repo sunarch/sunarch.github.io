@@ -5,7 +5,7 @@ description: "GitHub info | sunarch"
 permalink: "/info/github/labels"
 ---
 
-[< GitHub](index.md)
+[< GitHub](github.md)
 
 ## Simple scheme v1
 

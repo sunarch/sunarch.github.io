@@ -5,7 +5,7 @@ description: "sunarch"
 permalink: "/info/licenses"
 ---
 
-[< info](index.md)
+[< info](info.md)
 
 # current
 

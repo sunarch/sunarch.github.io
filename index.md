@@ -4,7 +4,7 @@ layout: "default"
 #description: "home page on GitHub"
 ---
 
-- [info](info/index.md)
+- [info](info/info.md)
 - [tools](tools/index.md)
 - [ideas](ideas/index.md)
 
