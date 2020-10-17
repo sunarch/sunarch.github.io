@@ -1,8 +1,8 @@
 ---
 layout: "default"
 title: "GitHub Pages"
-description: "list of info | sunarch"
-permalink: "/info/github/pages"
+description: "knowledgebase | sunarch"
+permalink: "/kb/github/pages"
 ---
 
 [< GitHub](github.md)

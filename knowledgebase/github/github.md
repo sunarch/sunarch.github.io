@@ -1,11 +1,11 @@
 ---
 layout: "default"
 title: "GitHub"
-description: "list of info | sunarch"
-permalink: "/info/github"
+description: "knowledgebase | sunarch"
+permalink: "/kb/github"
 ---
 
-[< info](../info.md)
+[< knowledgebase](../knowledgebase.md)
 
 - [GitHub Pages](github-pages.md)
 - [labels](labels.md)

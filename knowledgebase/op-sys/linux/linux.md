@@ -1,8 +1,8 @@
 ---
 layout: "default"
 title: "Linux"
-description: "info | sunarch"
-permalink: "/info/op-sys/linux"
+description: "knowledgebase | sunarch"
+permalink: "/kb/op-sys/linux"
 ---
 
 [< operating systems](../op-sys.md)

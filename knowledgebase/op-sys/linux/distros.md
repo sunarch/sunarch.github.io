@@ -1,8 +1,8 @@
 ---
 layout: "default"
 title: "Linux distributions"
-description: "info | sunarch"
-permalink: "/info/op-sys/linux/distros"
+description: "knowledgebase | sunarch"
+permalink: "/kb/op-sys/linux/distros"
 ---
 
 [< Linux](linux.md)

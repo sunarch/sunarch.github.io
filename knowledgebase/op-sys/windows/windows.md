@@ -1,8 +1,8 @@
 ---
 layout: "default"
 title: "operating systems"
-description: "info | sunarch"
-permalink: "/info/op-sys/windows"
+description: "knowledgebase | sunarch"
+permalink: "/kb/op-sys/windows"
 ---
 
 [< operating systems](op-sys.md)

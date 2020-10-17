@@ -1,11 +1,11 @@
 ---
 layout: "default"
 title: "licenses"
-description: "sunarch"
-permalink: "/info/licenses"
+description: "knowledgebase | sunarch"
+permalink: "/kb/licenses"
 ---
 
-[< info](info.md)
+[< knowledgebase](knowledgebase.md)
 
 # current
 

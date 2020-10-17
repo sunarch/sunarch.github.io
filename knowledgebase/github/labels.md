@@ -1,8 +1,8 @@
 ---
 layout: "default"
-title: "labels"
-description: "GitHub info | sunarch"
-permalink: "/info/github/labels"
+title: "labels (GitHub)"
+description: "knowledgebase | sunarch"
+permalink: "/kb/github/labels"
 ---
 
 [< GitHub](github.md)

@@ -1,11 +1,11 @@
 ---
 layout: "default"
 title: "operating systems"
-description: "info | sunarch"
-permalink: "/info/op-sys"
+description: "knowledgebase | sunarch"
+permalink: "/kb/op-sys"
 ---
 
-[< info](../info.md)
+[< knowledgebase](../knowledgebase.md)
 
 - [Linux](linux/linux.md)
 - [Android](android.md)

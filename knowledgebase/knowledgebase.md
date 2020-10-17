@@ -1,8 +1,8 @@
 ---
 layout: "default"
-title: "info"
-description: "list of categories | sunarch"
-permalink: "/info"
+title: "knowledgebase"
+description: "sunarch"
+permalink: "/kb"
 ---
 
 [< home](../index.md)

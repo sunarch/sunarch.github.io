@@ -6,7 +6,8 @@ layout: "default"
 
 - [info](info/info.md)
 - [tools](tools/index.md)
-- [ideas](ideas/index.md)
+
+- [knowledgebase](knowledgebase/knowledgebase.md)
 
 ## sub-sites
 
