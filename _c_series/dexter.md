@@ -28,6 +28,8 @@ imdb_type: "TV Series"
 imdb_creators: [{name: "James Manos Jr.", link: "https://www.imdb.com/name/nm0543612/"}]
 imdb_image: "https://m.media-amazon.com/images/M/MV5BMTM5MjkwMTI0MV5BMl5BanBnXkFtZTcwODQwMTc0OQ@@._V1_UY268_CR7,0,182,268_AL_.jpg"
 imdb_summary: "By day, mild-mannered Dexter is a blood-spatter analyst for the Miami police. But at night, he is a serial killer who only targets other murderers."
+
+wikipedia_link: ""
 ---
 <!--
 This Source Code Form is subject to the terms of the Mozilla Public

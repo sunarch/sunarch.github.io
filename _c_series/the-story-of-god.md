@@ -28,6 +28,8 @@ imdb_type: "TV Series"
 imdb_creators: [{name: "", link: ""}] # -
 imdb_image: "https://m.media-amazon.com/images/M/MV5BY2VhNmYzYmItNGFhNS00YTQ3LTgxYjItNzU4N2Y0MTAwMWU4XkEyXkFqcGdeQXVyMjEzMzAyNDg@._V1_UY268_CR0,0,182,268_AL_.jpg"
 imdb_summary: "Morgan Freeman presents his quest in order to find how most religions perceive life after death, what different civilizations thought about the act of creation and other big questions that mankind has continuously asked."
+
+wikipedia_link: ""
 ---
 <!--
 This Source Code Form is subject to the terms of the Mozilla Public

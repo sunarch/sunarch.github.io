@@ -28,6 +28,8 @@ imdb_type: "TV Series"
 imdb_creators: [{name: "Constance M. Burge", link: "https://www.imdb.com/name/nm0121154/"}]
 imdb_image: "https://m.media-amazon.com/images/M/MV5BNTIxNmUxMWQtNjc0Yy00NjM2LWFjMTMtNjA2MmEzOTFiMWRmXkEyXkFqcGdeQXVyNzA5NjUyNjM@._V1_UY268_CR0,0,182,268_AL_.jpg"
 imdb_summary: "Three sisters discover their destiny, to battle against the forces of evil, using their witchcraft. They are the Charmed Ones."
+
+wikipedia_link: ""
 ---
 <!--
 This Source Code Form is subject to the terms of the Mozilla Public

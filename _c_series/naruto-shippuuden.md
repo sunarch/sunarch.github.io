@@ -28,6 +28,8 @@ imdb_type: "TV Series"
 imdb_creators: [{name: "Masashi Kishimoto", link: "https://www.imdb.com/name/nm1618263/"}]
 imdb_image: "https://m.media-amazon.com/images/M/MV5BMTE5NzIwMGUtYTE1MS00MDUxLTgyZjctOWVkZDAxM2M4ZWQ4XkEyXkFqcGdeQXVyNjc2NjA5MTU@._V1_UX182_CR0,0,182,268_AL_.jpg"
 imdb_summary: "Naruto Uzumaki, is a loud, hyperactive, adolescent ninja who constantly searches for approval and recognition, as well as to become Hokage, who is acknowledged as the leader and strongest of all ninja in the village."
+
+wikipedia_link: ""
 ---
 <!--
 This Source Code Form is subject to the terms of the Mozilla Public

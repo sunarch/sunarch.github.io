@@ -28,6 +28,8 @@ imdb_type: "TV Series"
 imdb_creators: [{name: "David Crane", link: ""}, {name: "Marta Kauffman", link: ""}]
 imdb_image: "https://m.media-amazon.com/images/M/MV5BNDVkYjU0MzctMWRmZi00NTkxLTgwZWEtOWVhYjZlYjllYmU4XkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_UY268_CR0,0,182,268_AL_.jpg"
 imdb_summary: "Follows the personal and professional lives of six twenty to thirty-something-year-old friends living in Manhattan."
+
+wikipedia_link: ""
 ---
 <!--
 This Source Code Form is subject to the terms of the Mozilla Public

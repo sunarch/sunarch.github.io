@@ -28,6 +28,8 @@ imdb_type: "TV Series"
 imdb_creators: [{name: "", link: ""}] # N/A
 imdb_image: "https://m.media-amazon.com/images/M/MV5BNTk5YTk5MTItMzM2Yi00NjYyLWExNjUtYmRiZDFiMTBlYmMwXkEyXkFqcGdeQXVyNDU3ODAxMDA@._V1_UX182_CR0,0,182,268_AL_.jpg"
 imdb_summary: "Diana Bishop, historian and witch, accesses Ashmole 782 and knows she must solve its mysteries. She is offered help by the enigmatic Matthew Clairmont, but he's a vampire and witches should never trust vampires."
+
+wikipedia_link: ""
 ---
 <!--
 This Source Code Form is subject to the terms of the Mozilla Public

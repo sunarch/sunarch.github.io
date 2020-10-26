@@ -28,6 +28,8 @@ imdb_type: "TV Series"
 imdb_creators: [{name: "Julie Plec", link: "https://www.imdb.com/name/nm0687096/"}, {name: "Kevin Williamson", link: "https://www.imdb.com/name/nm0932078/"}]
 imdb_image: "https://m.media-amazon.com/images/M/MV5BMDk3YzgxNDQtNTEzOS00NDMyLWFlYmYtYTZlMDk1NDkxNmMyXkEyXkFqcGdeQXVyNzA5NjUyNjM@._V1_UY268_CR0,0,182,268_AL_.jpg"
 imdb_summary: "The lives, loves, dangers and disasters in the town, Mystic Falls, Virginia. Creatures of unspeakable horror lurk beneath this town as a teenage girl is suddenly torn between two vampire brothers."
+
+wikipedia_link: ""
 ---
 <!--
 This Source Code Form is subject to the terms of the Mozilla Public

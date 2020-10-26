@@ -28,6 +28,8 @@ imdb_type: "TV Series"
 imdb_creators: [{name: "Carter Bays", link: "https://www.imdb.com/name/nm0063215/"}, {name: "Craig Thomas", link: "https://www.imdb.com/name/nm0858657/"}]
 imdb_image: "https://m.media-amazon.com/images/M/MV5BZWJjMDEzZjUtYWE1Yy00M2ZiLThlMmItODljNTAzODFiMzc2XkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_UX182_CR0,0,182,268_AL_.jpg"
 imdb_summary: "A father recounts to his children - through a series of flashbacks - the journey he and his four best friends took leading up to him meeting their mother."
+
+wikipedia_link: ""
 ---
 <!--
 This Source Code Form is subject to the terms of the Mozilla Public

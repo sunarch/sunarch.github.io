@@ -28,6 +28,8 @@ imdb_type: "TV Series"
 imdb_creators: [{name: "Diane Ruggiero-Wright", link: "https://www.imdb.com/name/nm0749461/"}, {name: "Rob Thomas", link: "https://www.imdb.com/name/nm0859432/"}]
 imdb_image: "https://m.media-amazon.com/images/M/MV5BODdjNjRhOWUtMTA3NC00NTJmLTg4ZWUtZWJiNzNmMzZiN2NiXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_UX182_CR0,0,182,268_AL_.jpg"
 imdb_summary: "A medical resident finds that being a zombie has its perks, which she uses to assist the police."
+
+wikipedia_link: ""
 ---
 <!--
 This Source Code Form is subject to the terms of the Mozilla Public

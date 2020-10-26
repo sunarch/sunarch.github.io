@@ -28,6 +28,8 @@ imdb_type: "TV Series"
 imdb_creators: [{name: "Bruno Heller", link: "https://www.imdb.com/name/nm0375285/"}]
 imdb_image: "https://m.media-amazon.com/images/M/MV5BMTQ5OTgzOTczM15BMl5BanBnXkFtZTcwMDM2OTY4MQ@@._V1_UY268_CR9,0,182,268_AL_.jpg"
 imdb_summary: "A famous "psychic" outs himself as a fake, and starts working as a consultant for the California Bureau of Investigation so he can find "Red John", the madman who killed his wife and daughter."
+
+wikipedia_link: ""
 ---
 <!--
 This Source Code Form is subject to the terms of the Mozilla Public

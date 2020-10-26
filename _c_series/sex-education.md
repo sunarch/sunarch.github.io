@@ -28,6 +28,8 @@ imdb_type: "TV Series"
 imdb_creators: [{name: "Laurie Nunn", link: "https://www.imdb.com/name/nm5677403/"}]
 imdb_image: "https://m.media-amazon.com/images/M/MV5BZjgyMzFiMDgtNWNmMS00ZDEyLTkzYzgtMjMzZjk4YjhjZWUxXkEyXkFqcGdeQXVyNDg4MjkzNDk@._V1_UY268_CR16,0,182,268_AL_.jpg"
 imdb_summary: "A teenage boy with a sex therapist mother teams up with a high school classmate to set up an underground sex therapy clinic at school."
+
+wikipedia_link: ""
 ---
 <!--
 This Source Code Form is subject to the terms of the Mozilla Public

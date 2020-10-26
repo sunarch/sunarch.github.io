@@ -28,6 +28,8 @@ imdb_type: "TV Series"
 imdb_creators: [{name: "Jonathan Entwistle", link: "https://www.imdb.com/name/nm3536642/"}, {name: "Christy Hall", link: "https://www.imdb.com/name/nm8631159/"}]
 imdb_image: "https://m.media-amazon.com/images/M/MV5BMWM5YzhmNGMtZTI4Ny00MGM4LThkYjAtMDIyMTEwNTQyZmQ1XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_UX182_CR0,0,182,268_AL_.jpg"
 imdb_summary: "Sydney is a teenage girl navigating the trials and tribulations of high school while dealing with the complexities of her family, her budding sexuality, and mysterious superpowers just beginning to awaken deep within her."
+
+wikipedia_link: ""
 ---
 <!--
 This Source Code Form is subject to the terms of the Mozilla Public

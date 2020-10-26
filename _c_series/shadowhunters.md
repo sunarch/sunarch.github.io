@@ -27,6 +27,8 @@ imdb_type: "TV Series"
 imdb_creators: [{name: "Ed Decter", link: "https://www.imdb.com/name/nm0214036/?ref_=tt_ov_wr"}]
 imdb_image: "https://m.media-amazon.com/images/M/MV5BNTU1N2ViZDctYzQwOS00ZDYyLThkMDItNmEwYTIyZTI4NGFhXkEyXkFqcGdeQXVyNTM1NDMwNDM@._V1_UY268_CR0,0,182,268_AL_.jpg"
 imdb_summary: "After her mother disappears, Clary must venture into the dark world of demon hunting, and embrace her new role among the Shadowhunters."
+
+wikipedia_link: ""
 ---
 <!--
 This Source Code Form is subject to the terms of the Mozilla Public

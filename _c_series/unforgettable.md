@@ -28,6 +28,8 @@ imdb_type: "TV Series"
 imdb_creators: [{name: "John Bellucci", link: "https://www.imdb.com/name/nm0069257/"}, {name: "Ed Redlich", link: "https://www.imdb.com/name/nm0714959/"}]
 imdb_image: "https://m.media-amazon.com/images/M/MV5BMTYwMzU5NDM5Ml5BMl5BanBnXkFtZTcwMjkyOTYzNg@@._V1_UX182_CR0,0,182,268_AL_.jpg"
 imdb_summary: "Carrie Wells, a former police detective, has a rare ability to remember virtually everything she experiences including detailed visual recall. She returns to police work and uses her ability to solve crimes."
+
+wikipedia_link: ""
 ---
 <!--
 This Source Code Form is subject to the terms of the Mozilla Public

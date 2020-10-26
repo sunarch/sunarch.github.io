@@ -28,6 +28,8 @@ imdb_type: "TV Series"
 imdb_creators: [{name: "Frank Spotnitz", link: "https://www.imdb.com/name/nm0819487/"}]
 imdb_image: "https://m.media-amazon.com/images/M/MV5BZWEwNzQ4NzUtMWRmYS00NDdiLTg5NDItODA5M2M4YTM0ZTE2XkEyXkFqcGdeQXVyMTAzNjU2NjM1._V1_UX182_CR0,0,182,268_AL_.jpg"
 imdb_summary: "In a dystopian America dominated by Nazi Germany and Imperial Japan, a young woman discovers a mysterious film that may hold the key to toppling the totalitarian regimes."
+
+wikipedia_link: ""
 ---
 <!--
 This Source Code Form is subject to the terms of the Mozilla Public

@@ -28,6 +28,8 @@ imdb_type: "TV Series"
 imdb_creators: [{name: "Alex Gansa", link: "https://www.imdb.com/name/nm0304536/"}, {name: "Howard Gordon", link: "https://www.imdb.com/name/nm0330258/"}]
 imdb_image: "https://m.media-amazon.com/images/M/MV5BYjY2ODA0NjYtMzlkMi00ZjY5LThiNjUtNzZjYzgxNjc0MzQzXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_UX182_CR0,0,182,268_AL_.jpg"
 imdb_summary: "A bipolar CIA operative becomes convinced a prisoner of war has been turned by al-Qaeda and is planning to carry out a terrorist attack on American soil."
+
+wikipedia_link: ""
 ---
 <!--
 This Source Code Form is subject to the terms of the Mozilla Public

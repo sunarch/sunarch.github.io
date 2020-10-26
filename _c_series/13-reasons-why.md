@@ -28,6 +28,8 @@ imdb_type: "TV Series"
 imdb_creators: [{name: "Brian Yorkey", link: "https://www.imdb.com/name/nm5039329/"}]
 imdb_image: "https://m.media-amazon.com/images/M/MV5BMTA2OTQxNzQtMDQ5OC00NDczLWFhYjEtN2UyMmIwNGZlZDM4XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_UX182_CR0,0,182,268_AL_.jpg"
 imdb_summary: "Follows teenager Clay Jensen, in his quest to uncover the story behind his classmate and crush, Hannah, and her decision to end her life."
+
+wikipedia_link: ""
 ---
 <!--
 This Source Code Form is subject to the terms of the Mozilla Public

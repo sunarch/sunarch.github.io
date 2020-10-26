@@ -28,6 +28,8 @@ imdb_type: "TV Series"
 imdb_creators: [{name: "Jonathan M. Shiff", link: "https://www.imdb.com/name/nm0793291/?ref_=tt_ov_wr"}]
 imdb_image: "https://m.media-amazon.com/images/M/MV5BNjUwZWFmMmUtM2U1Zi00NmQ2LThkOTYtNDAyODMyYWE4NDUxXkEyXkFqcGdeQXVyMjM2Mzk0MDk@._V1_UY268_CR4,0,182,268_AL_.jpg"
 imdb_summary: "Three girls become mermaids after a mysterious island transforms them and gives them special powers."
+
+wikipedia_link: ""
 ---
 <!--
 This Source Code Form is subject to the terms of the Mozilla Public

@@ -28,6 +28,8 @@ imdb_type: "TV Series"
 imdb_creators: [{name: "Olan Rogers", link: "https://www.imdb.com/name/nm4541465/"}, {name: "David Sacks", link: "https://www.imdb.com/name/nm0755293/"}]
 imdb_image: "https://m.media-amazon.com/images/M/MV5BZWMwNTRiNWUtNzgxZC00NmYzLTgwZjUtODA5YjRlYjY0ZTVhXkEyXkFqcGdeQXVyODQyNDU2MTU@._V1_UX182_CR0,0,182,268_AL_.jpg"
 imdb_summary: "An astronaut named Gary and his planet-destroying sidekick called Mooncake embark on serialized journeys through space in order to unlock the mystery of where the universe actually ends and if it actually does exist."
+
+wikipedia_link: ""
 ---
 <!--
 This Source Code Form is subject to the terms of the Mozilla Public

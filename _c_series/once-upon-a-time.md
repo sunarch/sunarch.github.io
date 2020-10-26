@@ -28,6 +28,8 @@ imdb_type: "TV Series"
 imdb_creators: [{name: "Adam Horowitz", link: "https://www.imdb.com/name/nm0395271/"}, {name: "Edward Kitsis", link: "https://www.imdb.com/name/nm0457736/"}]
 imdb_image: "https://m.media-amazon.com/images/M/MV5BNjBmZmI0ZDktODI2MS00MDU1LTk0NDYtNGE0MDc0OWVkYzcwXkEyXkFqcGdeQXVyMzAzNTY3MDM@._V1_UX182_CR0,0,182,268_AL_.jpg"
 imdb_summary: "A young woman with a troubled past is drawn to a small town in Maine where fairy tales are to be believed."
+
+wikipedia_link: ""
 ---
 <!--
 This Source Code Form is subject to the terms of the Mozilla Public

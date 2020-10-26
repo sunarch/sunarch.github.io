@@ -34,6 +34,8 @@ yt_channel_img: "https://yt3.ggpht.com/a/AATXAJyy20hnz82FtQlZPdqKNCNs693SOYUJdC_
 yt_header_img: "https://yt3.ggpht.com/wYwVNDSMyGWXIyHm3YiwLqaxFFdy7cn_gZyFxfh9AhrS-VxWKRH8sB5nbXSs7pocRXmRsJ1K=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"
 yt_season_1_playlist: "https://www.youtube.com/playlist?list=PLINwjXK120_JpGB6mRJ0oJxOdFGjxekIp"
 yt_season_2_playlist: "https://www.youtube.com/playlist?list=PLINwjXK120_IgM8eDMz6eiM9Vpd4QbYHB"
+
+wikipedia_link: ""
 ---
 <!--
 This Source Code Form is subject to the terms of the Mozilla Public

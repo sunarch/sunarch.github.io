@@ -28,6 +28,8 @@ imdb_type: "TV Series"
 imdb_creators: [{name: "David Guggenheim", link: "https://www.imdb.com/name/nm1638756/"}]
 imdb_image: "https://m.media-amazon.com/images/M/MV5BZTdkMGNhZmYtNzAxMy00NWJkLThkN2MtNjVkNzY0NzVlMWQ4XkEyXkFqcGdeQXVyMTA0MDgzNTE1._V1_UX182_CR0,0,182,268_AL_.jpg"
 imdb_summary: "A low-level Cabinet member becomes President of the United States after a catastrophic attack kills everyone above him in the line of succession."
+
+wikipedia_link: ""
 ---
 <!--
 This Source Code Form is subject to the terms of the Mozilla Public

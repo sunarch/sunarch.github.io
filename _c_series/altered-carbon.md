@@ -28,6 +28,8 @@ imdb_type: "TV Series"
 imdb_creators: [{name: "Laeta Kalogridis", link: "https://www.imdb.com/name/nm0436164/"}]
 imdb_image: "https://m.media-amazon.com/images/M/MV5BNjIxMWMzMzctYmZkYy00OTkzLWFlMWUtMjc3ZDFmYzQ3YmVkXkEyXkFqcGdeQXVyNjU2ODM5MjU@._V1_UX182_CR0,0,182,268_AL_.jpg"
 imdb_summary: "Set in a future where consciousness is digitized and stored, a prisoner returns to life in a new body and must solve a mind-bending murder to win his freedom."
+
+wikipedia_link: ""
 ---
 <!--
 This Source Code Form is subject to the terms of the Mozilla Public

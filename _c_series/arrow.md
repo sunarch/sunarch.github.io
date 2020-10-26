@@ -28,6 +28,8 @@ imdb_type: "TV Series"
 imdb_creators: [{name: "Greg Berlanti", link: "https://www.imdb.com/name/nm0075528/"}, {name: "Marc Guggenheim", link: "https://www.imdb.com/name/nm0973233/"}, {name: "Andrew Kreisberg", link: "https://www.imdb.com/name/nm1132610/"}]
 imdb_image: "https://m.media-amazon.com/images/M/MV5BMTI0NTMwMDgtYTMzZC00YmJhLTg4NzMtMTc1NjI4MWY4NmQ4XkEyXkFqcGdeQXVyNTY3MTYzOTA@._V1_UY268_CR16,0,182,268_AL_.jpg"
 imdb_summary: "Spoiled billionaire playboy Oliver Queen is missing and presumed dead when his yacht is lost at sea. He returns five years later a changed man, determined to clean up the city as a hooded vigilante armed with a bow."
+
+wikipedia_link: ""
 ---
 <!--
 This Source Code Form is subject to the terms of the Mozilla Public

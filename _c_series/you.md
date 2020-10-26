@@ -28,6 +28,8 @@ imdb_type: "TV Series"
 imdb_creators: [{name: "Sera Gamble", link: "https://www.imdb.com/name/nm1571148/"}, {name: "Greg Berlanti", link: "https://www.imdb.com/name/nm0075528/"}]
 imdb_image: "https://m.media-amazon.com/images/M/MV5BZDJjOTg4OWYtYWIyOS00MjQ3LTg5ZDktYzU2N2RkNmYzNjZlXkEyXkFqcGdeQXVyMzQ2MDI5NjU@._V1_UY268_CR1,0,182,268_AL_.jpg"
 imdb_summary: "A dangerously charming, intensely obsessive young man goes to extreme measures to insert himself into the lives of those he is transfixed by."
+
+wikipedia_link: ""
 ---
 <!--
 This Source Code Form is subject to the terms of the Mozilla Public

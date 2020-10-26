@@ -28,6 +28,8 @@ imdb_type: "TV Series"
 imdb_creators: [{name: "Uwe Kersken", link: "https://www.imdb.com/name/nm0449987/"}]
 imdb_image: "https://m.media-amazon.com/images/M/MV5BMTkwODc4MTUwNF5BMl5BanBnXkFtZTcwMjI0OTQwMg@@._V1_UY268_CR25,0,182,268_AL_.jpg"
 imdb_summary: ""
+
+wikipedia_link: ""
 ---
 <!--
 This Source Code Form is subject to the terms of the Mozilla Public

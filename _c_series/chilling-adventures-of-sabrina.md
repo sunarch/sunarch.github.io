@@ -28,6 +28,8 @@ imdb_type: "TV Series"
 imdb_creators: [{name: "Roberto Aguirre-Sacasa", link: "https://www.imdb.com/name/nm2630745/?ref_=tt_ov_wr"}]
 imdb_image: "https://m.media-amazon.com/images/M/MV5BNDJjYzk0ZTktNzQ1ZC00MmQ0LTk1NTYtNmMwMGE4NDM5ZjAyXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_UY268_CR16,0,182,268_AL_.jpg"
 imdb_summary: "As her 16th birthday nears, Sabrina must choose between the witch world of her family and the human world of her friends. Based on the Archie comic."
+
+wikipedia_link: ""
 ---
 <!--
 This Source Code Form is subject to the terms of the Mozilla Public

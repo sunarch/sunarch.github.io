@@ -28,6 +28,8 @@ imdb_type: "TV Series"
 imdb_creators: [{name: "Bruce Miller", link: "https://www.imdb.com/name/nm0588005/"}]
 imdb_image: "https://m.media-amazon.com/images/M/MV5BMTU0MTI0MDAyM15BMl5BanBnXkFtZTgwMDg5MzYyNTM@._V1_UY268_CR0,0,182,268_AL_.jpg"
 imdb_summary: "Set in a dystopian future, a woman is forced to live as a concubine under a fundamentalist theocratic dictatorship."
+
+wikipedia_link: ""
 ---
 <!--
 This Source Code Form is subject to the terms of the Mozilla Public

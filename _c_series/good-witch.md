@@ -28,6 +28,8 @@ imdb_type: "TV Series"
 imdb_creators: [{name: "", link: ""}]
 imdb_image: "https://m.media-amazon.com/images/M/MV5BOTRlZDhjODUtMmFlOS00MzIwLThmNjAtNTY5ZjVlNzRlMTRlXkEyXkFqcGdeQXVyMTA0MDEwMTIw._V1_UX182_CR0,0,182,268_AL_.jpg"
 imdb_summary: "\"Good Witch\" will take viewers on a new magical journey with Cassie Nightingale and her daughter Grace. When Dr. Sam Radford moves in next door to Grey House with his son, they are charmed by the 'magical' mother-daughter duo."
+
+wikipedia_link: ""
 ---
 <!--
 This Source Code Form is subject to the terms of the Mozilla Public

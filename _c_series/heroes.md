@@ -28,6 +28,8 @@ imdb_type: "TV Series"
 imdb_creators: [{name: "Tim Kring", link: "https://www.imdb.com/name/nm0471352/?ref_=tt_ov_wr"}]
 imdb_image: "https://m.media-amazon.com/images/M/MV5BMjI3ODU0OTQ1MV5BMl5BanBnXkFtZTgwNzI0MTQ2MzE@._V1_UX182_CR0,0,182,268_AL_.jpg"
 imdb_summary: "Common people discover that they have super powers. Their lives intertwine as a devastating event must be prevented."
+
+wikipedia_link: ""
 ---
 <!--
 This Source Code Form is subject to the terms of the Mozilla Public

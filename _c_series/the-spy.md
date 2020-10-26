@@ -28,6 +28,8 @@ imdb_type: "TV Mini-Series"
 imdb_creators: [{name: "Gideon Raff", link: "https://www.imdb.com/name/nm1356268/"}]
 imdb_image: "https://m.media-amazon.com/images/M/MV5BM2ZmYjUxZDYtMmZlMi00YjlkLTkwNTItMjcxZDRlOTI3ZTNmXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_UX182_CR0,0,182,268_AL_.jpg"
 imdb_summary: "Based on the life of the Israeli spy, Eli Cohen. "
+
+wikipedia_link: ""
 ---
 <!--
 This Source Code Form is subject to the terms of the Mozilla Public

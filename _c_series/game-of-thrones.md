@@ -28,6 +28,8 @@ imdb_type: "TV Series"
 imdb_creators: [{name: "David Benioff", link: "https://www.imdb.com/name/nm1125275/"}, {name: "D.B. Weiss", link: "https://www.imdb.com/name/nm1888967/"}]
 imdb_image: "https://m.media-amazon.com/images/M/MV5BYTRiNDQwYzAtMzVlZS00NTI5LWJjYjUtMzkwNTUzMWMxZTllXkEyXkFqcGdeQXVyNDIzMzcwNjc@._V1_UY268_CR7,0,182,268_AL_.jpg"
 imdb_summary: "Nine noble families fight for control over the lands of Westeros, while an ancient enemy returns after being dormant for millennia."
+
+wikipedia_link: ""
 ---
 <!--
 This Source Code Form is subject to the terms of the Mozilla Public

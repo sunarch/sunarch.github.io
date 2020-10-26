@@ -28,6 +28,8 @@ imdb_type: "TV Series"
 imdb_creators: [{name: "", link: ""}] # -
 imdb_image: "https://m.media-amazon.com/images/M/MV5BMjYwYTc4N2EtODkwNC00N2EwLTk2MDEtYjY5MWRmZDBkZjM0XkEyXkFqcGdeQXVyNTI2NTY2MDI@._V1_UY268_CR7,0,182,268_AL_.jpg"
 imdb_summary: "Five teenage girls learn that they have been chosen to guard the walls between parallel universes. For this purpose, they have been given the powers of the elements."
+
+wikipedia_link: ""
 ---
 <!--
 This Source Code Form is subject to the terms of the Mozilla Public

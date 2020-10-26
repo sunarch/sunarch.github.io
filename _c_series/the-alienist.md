@@ -28,6 +28,8 @@ imdb_type: "TV Series"
 imdb_creators: [{name: "", link: ""}] # -
 imdb_image: "https://m.media-amazon.com/images/M/MV5BMTAyMDg5NjYzNTZeQTJeQWpwZ15BbWU4MDA2MTczMjQz._V1_UY268_CR4,0,182,268_AL_.jpg"
 imdb_summary: "Newspaper illustrator John Moore meets with criminal psychologist (alienist) Dr. Laszlo Kreizler to investigate a serial killer in New York during the late 19th century."
+
+wikipedia_link: ""
 ---
 <!--
 This Source Code Form is subject to the terms of the Mozilla Public

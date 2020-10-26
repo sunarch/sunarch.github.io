@@ -28,6 +28,8 @@ imdb_type: "TV Series"
 imdb_creators: [{name: "Nicolas Falacci", link: "https://www.imdb.com/name/nm0265826/"}, {name: "Cheryl Heuton", link: "https://www.imdb.com/name/nm1771424/"}]
 imdb_image: "https://m.media-amazon.com/images/M/MV5BMTkxMzY5NTY0Ml5BMl5BanBnXkFtZTcwMDcwOTM5MQ@@._V1_UY268_CR4,0,182,268_AL_.jpg"
 imdb_summary: "Working for the F.B.I., a mathematician uses equations to help solve various crimes."
+
+wikipedia_link: ""
 ---
 <!--
 This Source Code Form is subject to the terms of the Mozilla Public

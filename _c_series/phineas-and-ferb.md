@@ -28,6 +28,8 @@ imdb_type: "TV Series"
 imdb_creators: [{name: "Dan Povenmire", link: "https://www.imdb.com/name/nm0693933/"}, {name: "Jeff 'Swampy' Marsh", link: "https://www.imdb.com/name/nm0550578/"}]
 imdb_image: "https://m.media-amazon.com/images/M/MV5BMTc1NjcxNzg4MF5BMl5BanBnXkFtZTgwOTMzNzgyMDE@._V1_UY268_CR1,0,182,268_AL_.jpg"
 imdb_summary: "Phineas and Ferb invent, scheme, and stay one step ahead of their bratty sister. Meanwhile, their pet platypus plots against evil Dr. Doofenshmirtz."
+
+wikipedia_link: ""
 ---
 <!--
 This Source Code Form is subject to the terms of the Mozilla Public

@@ -28,6 +28,8 @@ imdb_type: "TV Series"
 imdb_creators: [{name: "Bryan Fuller", link: "https://www.imdb.com/name/nm0298188/"}]
 imdb_image: "https://m.media-amazon.com/images/M/MV5BNWU5YmJhNWEtZGVlOS00NmRhLThmNzUtYjAyMDA2MDg5ZTM4XkEyXkFqcGdeQXVyNDIzMzcwNjc@._V1_UY268_CR4,0,182,268_AL_.jpg"
 imdb_summary: "Explores the early relationship between the renowned psychiatrist and his patient, a young FBI criminal profiler, who is haunted by his ability to empathize with serial killers."
+
+wikipedia_link: ""
 ---
 <!--
 This Source Code Form is subject to the terms of the Mozilla Public

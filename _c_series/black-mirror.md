@@ -28,6 +28,8 @@ imdb_type: "TV Series"
 imdb_creators: [{name: "Charlie Brooker", link: "https://www.imdb.com/name/nm0111765/?ref_=tt_ov_wr"}]
 imdb_image: "https://m.media-amazon.com/images/M/MV5BYTM3YWVhMDMtNjczMy00NGEyLWJhZDctYjNhMTRkNDE0ZTI1XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_UX182_CR0,0,182,268_AL_.jpg"
 imdb_summary: "An anthology series exploring a twisted, high-tech multiverse where humanity's greatest innovations and darkest instincts collide."
+
+wikipedia_link: ""
 ---
 <!--
 This Source Code Form is subject to the terms of the Mozilla Public

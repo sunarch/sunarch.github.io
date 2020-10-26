@@ -28,6 +28,8 @@ imdb_type: "TV Series"
 imdb_creators: [{name: "Michael Dante DiMartino", link: "https://www.imdb.com/name/nm0227204/"}, {name: "Bryan Konietzko", link: "https://www.imdb.com/name/nm1665983/"}]
 imdb_image: "https://m.media-amazon.com/images/M/MV5BNTRmM2E5OWYtYmYzMi00MDRiLTg2ZTYtZGQyZTNhZDMxYTgzXkEyXkFqcGdeQXVyODUwNjEzMzg@._V1_UY268_CR0,0,182,268_AL_.jpg"
 imdb_summary: "Avatar Korra fights to keep Republic City safe from the evil forces of both the physical and spiritual worlds."
+
+wikipedia_link: ""
 ---
 <!--
 This Source Code Form is subject to the terms of the Mozilla Public

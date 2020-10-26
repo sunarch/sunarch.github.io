@@ -28,6 +28,8 @@ imdb_type: "TV Series"
 imdb_creators: [{name: "", link: ""}] # -
 imdb_image: "https://m.media-amazon.com/images/M/MV5BYTk4OGY4MjgtYThiNy00OWExLWE2YzMtOTg4N2ExNmJjODk4XkEyXkFqcGdeQXVyMjc4OTQ1OTA@._V1_UY268_CR3,0,182,268_AL_.jpg"
 imdb_summary: "SHAMAN KING follows the adventures of a 13-year-old shaman and his teammate a samurai warrior spirit, who traverse the world fighting evil spirits and misguided shamans on their journey to be the next Shaman King."
+
+wikipedia_link: ""
 ---
 <!--
 This Source Code Form is subject to the terms of the Mozilla Public

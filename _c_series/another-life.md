@@ -28,6 +28,8 @@ imdb_type: "TV Series"
 imdb_creators: [{name: "Aaron Martin", link: "https://www.imdb.com/name/nm0551861/"}]
 imdb_image: "https://m.media-amazon.com/images/M/MV5BMTNjOWNhYTQtNWEzOS00M2Q4LWEyOWMtZjU3ZjhhMTBmMWZjXkEyXkFqcGdeQXVyMjYwNDA2MDE@._V1_UX182_CR0,0,182,268_AL_.jpg"
 imdb_summary: "Astronaut Niko Breckenridge and her young crew face unimaginable danger as they go on a high-risk mission to explore the genesis of an alien artifact."
+
+wikipedia_link: ""
 ---
 <!--
 This Source Code Form is subject to the terms of the Mozilla Public

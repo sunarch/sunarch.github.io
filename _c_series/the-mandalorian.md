@@ -28,6 +28,8 @@ imdb_type: "TV Series"
 imdb_creators: [{name: "Jon Favreau", link: "https://www.imdb.com/name/nm0269463/"}]
 imdb_image: "https://m.media-amazon.com/images/M/MV5BMWI0OTJlYTItNzMwZi00YzRiLWJhMjItMWRlMDNhZjNiMzJkXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_UX182_CR0,0,182,268_AL_.jpg"
 imdb_summary: "The travels of a lone bounty hunter in the outer reaches of the galaxy, far from the authority of the New Republic."
+
+wikipedia_link: ""
 ---
 <!--
 This Source Code Form is subject to the terms of the Mozilla Public

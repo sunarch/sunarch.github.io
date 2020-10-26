@@ -28,6 +28,8 @@ imdb_type: "TV Series"
 imdb_creators: [{name: "Aaron Sorkin", link: "https://www.imdb.com/name/nm0815070/?ref_=tt_ov_wr"}]
 imdb_image: "https://m.media-amazon.com/images/M/MV5BNjk3ZWE3ZDctN2Q1YS00NzNhLWFjNmYtZTkwYWQxZmQ3NzM3XkEyXkFqcGdeQXVyNTE1NjY5Mg@@._V1_UX182_CR0,0,182,268_AL_.jpg"
 imdb_summary: "Inside the lives of staffers in the West Wing of the White House."
+
+wikipedia_link: ""
 ---
 <!--
 This Source Code Form is subject to the terms of the Mozilla Public

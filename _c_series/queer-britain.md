@@ -28,6 +28,8 @@ imdb_type: "TV Series"
 imdb_creators: [{name: "", link: ""}] # -
 imdb_image: "https://m.media-amazon.com/images/M/MV5BZjVmNjU1YTctYjVmNi00NDk3LTk3NGItNGNkYzA4ZGI2YjdkXkEyXkFqcGdeQXVyNjk2MjQ4OTQ@._V1_UY268_CR98,0,182,268_AL_.jpg"
 imdb_summary: "Presented by YouTuber and journalist Riyadh Khalaf, Queer Britain gets under the skin of queer culture and shines a light on the challenges faced by the LGBTQ+ community."
+
+wikipedia_link: ""
 ---
 <!--
 This Source Code Form is subject to the terms of the Mozilla Public

@@ -28,6 +28,8 @@ imdb_type: "TV Series"
 imdb_creators: [{name: "Irwin Allen", link: "https://www.imdb.com/name/nm0000740/"}, {name: "Matt Sazama", link: "https://www.imdb.com/name/nm1948885/"}, {name: "Burk Sharpless", link: "https://www.imdb.com/name/nm2332952/"}]
 imdb_image: "https://m.media-amazon.com/images/M/MV5BYzZkOTY4MDgtODI5Mi00ZjA4LWJkODgtYzBiOGE3MWNhZWFmXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_UX182_CR0,0,182,268_AL_.jpg"
 imdb_summary: "After crash-landing on an alien planet, the Robinson family fight against all odds to survive and escape, but they're surrounded by hidden dangers."
+
+wikipedia_link: ""
 ---
 <!--
 This Source Code Form is subject to the terms of the Mozilla Public

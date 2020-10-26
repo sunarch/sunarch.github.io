@@ -28,6 +28,8 @@ imdb_type: "TV Series"
 imdb_creators: [{name: "Matt Nix", link: "https://www.imdb.com/name/nm0633180/"}]
 imdb_image: "https://m.media-amazon.com/images/M/MV5BMjIxODM5MDUyMV5BMl5BanBnXkFtZTgwMjY4MjI1NjM@._V1_UX182_CR0,0,182,268_AL_.jpg"
 imdb_summary: "In a world where mutated humans are treated with distrust and fear, an institute for mutants battles to achieve peaceful co-existence with humanity."
+
+wikipedia_link: ""
 ---
 <!--
 This Source Code Form is subject to the terms of the Mozilla Public

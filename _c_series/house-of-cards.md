@@ -28,6 +28,8 @@ imdb_type: "TV Series"
 imdb_creators: [{name: "Beau Willimon", link: "https://www.imdb.com/name/nm2802722/"}]
 imdb_image: "https://m.media-amazon.com/images/M/MV5BODM1MDU2NjY5NF5BMl5BanBnXkFtZTgwMDkxNTcwNjM@._V1_UX182_CR0,0,182,268_AL_.jpg"
 imdb_summary: "A Congressman works with his equally conniving wife to exact revenge on the people who betrayed him."
+
+wikipedia_link: ""
 ---
 <!--
 This Source Code Form is subject to the terms of the Mozilla Public

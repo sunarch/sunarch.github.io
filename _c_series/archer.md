@@ -28,6 +28,8 @@ imdb_type: "TV Series"
 imdb_creators: [{name: "Adam Reed", link: "https://www.imdb.com/name/nm0994488/"}]
 imdb_image: "https://m.media-amazon.com/images/M/MV5BMTg3NTMwMzY2OF5BMl5BanBnXkFtZTgwMDcxMjQ0NDE@._V1_UX182_CR0,0,182,268_AL_.jpg"
 imdb_summary: "Covert black ops and espionage take a back seat to zany personalities and relationships between secret agents and drones."
+
+wikipedia_link: ""
 ---
 <!--
 This Source Code Form is subject to the terms of the Mozilla Public

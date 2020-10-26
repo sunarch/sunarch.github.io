@@ -28,6 +28,8 @@ imdb_type: "TV Series"
 imdb_creators: [{name: "Deborah Joy LeVine", link: "https://www.imdb.com/name/nm0505788/"}, {name: "Joe Shuster", link: "https://www.imdb.com/name/nm0795975/"}, {name: "Jerry Siegel", link: "https://www.imdb.com/name/nm0796950/"}]
 imdb_image: "https://m.media-amazon.com/images/M/MV5BZTU1ZGFjNzEtZWYzZC00ZmI0LTg2NmMtN2YyNTY4YzhlODIyXkEyXkFqcGdeQXVyMjExMjk0ODk@._V1_UY268_CR8,0,182,268_AL_.jpg"
 imdb_summary: "In addition to fighting evil, Superman has a burning romance with Lois Lane in both of his identities."
+
+wikipedia_link: ""
 ---
 <!--
 This Source Code Form is subject to the terms of the Mozilla Public

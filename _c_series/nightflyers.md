@@ -28,6 +28,8 @@ imdb_type: "TV Series"
 imdb_creators: [{name: "Jeff Buhler", link: "https://www.imdb.com/name/nm1161528/"}]
 imdb_image: "https://m.media-amazon.com/images/M/MV5BN2Y4NzIwZTUtYTMyMC00OGM1LWE1YjktYzhkZDBiM2UxMDc1XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UX182_CR0,0,182,268_AL_.jpg"
 imdb_summary: "A crew of scientists embark on a mission aboard a ship called the Nightflyer to investigate a mysterious alien signal, but soon begin to question if there is already something on-board the Nightflyer with them."
+
+wikipedia_link: ""
 ---
 <!--
 This Source Code Form is subject to the terms of the Mozilla Public

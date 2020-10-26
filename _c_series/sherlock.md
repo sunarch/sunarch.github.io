@@ -28,6 +28,8 @@ imdb_type: "TV Series"
 imdb_creators: [{name: "Mark Gatiss", link: "https://www.imdb.com/name/nm0309693/"}, {name: "Steven Moffat", link: "https://www.imdb.com/name/nm0595590/"}]
 imdb_image: "https://m.media-amazon.com/images/M/MV5BMWY3NTljMjEtYzRiMi00NWM2LTkzNjItZTVmZjE0MTdjMjJhL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNTQ4NTc5OTU@._V1_UX182_CR0,0,182,268_AL_.jpg"
 imdb_summary: "A modern update finds the famous sleuth and his doctor partner solving crime in 21st century London."
+
+wikipedia_link: ""
 ---
 <!--
 This Source Code Form is subject to the terms of the Mozilla Public

@@ -28,6 +28,8 @@ imdb_type: "TV Series"
 imdb_creators: [{name: "Tite Kubo", link: "https://www.imdb.com/name/nm1818197/"}]
 imdb_image: "https://m.media-amazon.com/images/M/MV5BZjE0YjVjODQtZGY2NS00MDcyLThhMDAtZGQwMTZiOWNmNjRiXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_UX182_CR0,0,182,268_AL_.jpg"
 imdb_summary: "High school student Kurosaki Ichigo is unlike any ordinary kid because he can see ghosts. After an accident with a hollow, he got a power.So begins Kurosaki Ichigo's training and duty as a Shinigami, Soul Reaper."
+
+wikipedia_link: ""
 ---
 <!--
 This Source Code Form is subject to the terms of the Mozilla Public

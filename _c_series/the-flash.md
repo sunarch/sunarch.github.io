@@ -28,6 +28,8 @@ imdb_type: "TV Series"
 imdb_creators: [{name: "Greg Berlanti", link: "https://www.imdb.com/name/nm0075528/"}, {name: "Geoff Johns", link: "https://www.imdb.com/name/nm0424315/"}, {name: "Andrew Kreisberg", link: "https://www.imdb.com/name/nm1132610/"}]
 imdb_image: "https://m.media-amazon.com/images/M/MV5BNTM4YThiMzktMDRlNi00NzAyLWI1YmQtNTdkMTNiN2Q0NzU1XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_UY268_CR16,0,182,268_AL_.jpg"
 imdb_summary: "After being struck by lightning, Barry Allen wakes up from his coma to discover he's been given the power of super speed, becoming the Flash, fighting crime in Central City. "
+
+wikipedia_link: ""
 ---
 <!--
 This Source Code Form is subject to the terms of the Mozilla Public
