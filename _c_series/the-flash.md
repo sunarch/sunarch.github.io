@@ -1,10 +1,9 @@
 ---
 layout: "series"
-# title is set to d_title in layout
 # description is set to "series page | catalog" in layout
 permalink: "/catalog/media/series/list/the-flash"
 
-d_title: "The Flash"
+title: "The Flash"
 
 d_type: "CW"
 d_available: ""

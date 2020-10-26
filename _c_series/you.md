@@ -1,10 +1,9 @@
 ---
 layout: "series"
-# title is set to d_title in layout
 # description is set to "series page | catalog" in layout
 permalink: "/catalog/media/series/list/you"
 
-d_title: "You"
+title: "You"
 
 d_type: "Lifetime (Netflix exclusive int’l distr.), Netflix Continuation (S2)"
 d_available: "Netflix"

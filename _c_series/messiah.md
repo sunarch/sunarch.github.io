@@ -1,10 +1,9 @@
 ---
 layout: "series"
-# title is set to d_title in layout
 # description is set to "series page | catalog" in layout
 permalink: "/catalog/media/series/list/messiah"
 
-d_title: "Messiah"
+title: "Messiah"
 
 d_type: "Netflix Original (Drama)"
 d_available: "Netflix"

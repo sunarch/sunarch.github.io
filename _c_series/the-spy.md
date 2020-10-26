@@ -1,10 +1,9 @@
 ---
 layout: "series"
-# title is set to d_title in layout
 # description is set to "series page | catalog" in layout
 permalink: "/catalog/media/series/list/the-spy"
 
-d_title: "The Spy"
+title: "The Spy"
 
 d_type: "Netflix / Canal+ (France)"
 d_available: "Netflix"

@@ -1,10 +1,9 @@
 ---
 layout: "series"
-# title is set to d_title in layout
 # description is set to "series page | catalog" in layout
 permalink: "/catalog/media/series/list/final-space"
 
-d_title: "Final Space"
+title: "Final Space"
 
 d_type: "TBS - Netflix exclusive int'l distribution"
 d_available: "Netflix"

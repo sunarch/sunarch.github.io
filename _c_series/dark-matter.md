@@ -1,10 +1,9 @@
 ---
 layout: "series"
-# title is set to d_title in layout
 # description is set to "series page | catalog" in layout
 permalink: "/catalog/media/series/list/dark-matter"
 
-d_title: "Dark Matter"
+title: "Dark Matter"
 
 d_type: "SyFy"
 d_available: ""

@@ -1,10 +1,9 @@
 ---
 layout: "series"
-# title is set to d_title in layout
 # description is set to "series page | catalog" in layout
 permalink: "/catalog/media/series/list/shadowhunters"
 
-d_title: "Shadowhunters: The Mortal Instruments"
+title: "Shadowhunters: The Mortal Instruments"
 
 d_type: ""
 d_available: "Netflix"

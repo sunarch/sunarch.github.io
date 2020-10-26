@@ -1,10 +1,9 @@
 ---
 layout: "series"
-# title is set to d_title in layout
 # description is set to "series page | catalog" in layout
 permalink: "/catalog/media/series/list/criminal-minds"
 
-d_title: "Criminal Minds"
+title: "Criminal Minds"
 
 d_type: "CBS"
 d_available: ""

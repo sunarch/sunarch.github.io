@@ -1,10 +1,9 @@
 ---
 layout: "series"
-# title is set to d_title in layout
 # description is set to "series page | catalog" in layout
 permalink: "/catalog/media/series/list/mom"
 
-d_title: "Mom"
+title: "Mom"
 
 d_type: "CBS"
 d_available: ""

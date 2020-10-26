@@ -37,7 +37,7 @@ file, You can obtain one at http://mozilla.org/MPL/2.0/.
         <tr>
             <td rowspan="4" style="width: 26%;">
                 <a href="{{ series.imdb_link }}" target="_blank">
-                    <img src="{{ series.imdb_image }}" alt="{{ series.d_title }}" />
+                    <img src="{{ series.imdb_image }}" alt="{{ series.title }}" />
                 </a>
             </td>
             <td>
@@ -45,7 +45,7 @@ file, You can obtain one at http://mozilla.org/MPL/2.0/.
                 {% if include.type != "interested" %}
                 <a href="{{ series.permalink }}" target="_self" style="">
                 {% endif %}
-                    <span style="font-weight: bold;">{{ series.d_title }}</span>
+                    <span style="font-weight: bold;">{{ series.title }}</span>
                 {% if include.type != "interested" %}
                 </a>
                 {% endif %}

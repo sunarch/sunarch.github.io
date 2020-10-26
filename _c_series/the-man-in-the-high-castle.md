@@ -1,10 +1,9 @@
 ---
 layout: "series"
-# title is set to d_title in layout
 # description is set to "series page | catalog" in layout
 permalink: "/catalog/media/series/list/the-man-in-the-high-castle"
 
-d_title: "The Man in the High Castle"
+title: "The Man in the High Castle"
 
 d_type: "Amazon Prime Original"
 d_available: "Amazon Prime"

@@ -1,10 +1,9 @@
 ---
 layout: "series"
-# title is set to d_title in layout
 # description is set to "series page | catalog" in layout
 permalink: "/catalog/media/series/list/avatar-the-last-airbender"
 
-d_title: "Avatar: The Last Airbender"
+title: "Avatar: The Last Airbender"
 
 d_type: "Nickelodeon"
 d_available: ""

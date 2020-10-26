@@ -1,10 +1,9 @@
 ---
 layout: "series"
-# title is set to d_title in layout
 # description is set to "series page | catalog" in layout
 permalink: "/catalog/media/series/list/the-mandalorian"
 
-d_title: "The Mandalorian"
+title: "The Mandalorian"
 
 d_type: "Disney+ Original"
 d_available: "Disney+"

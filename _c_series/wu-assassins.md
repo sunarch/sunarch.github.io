@@ -1,10 +1,9 @@
 ---
 layout: "series"
-# title is set to d_title in layout
 # description is set to "series page | catalog" in layout
 permalink: "/catalog/media/series/list/wu-assassins"
 
-d_title: "Wu Assassins"
+title: "Wu Assassins"
 
 d_type: ""
 d_available: "Netflix"

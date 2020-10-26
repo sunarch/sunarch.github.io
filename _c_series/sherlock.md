@@ -1,10 +1,9 @@
 ---
 layout: "series"
-# title is set to d_title in layout
 # description is set to "series page | catalog" in layout
 permalink: "/catalog/media/series/list/sherlock"
 
-d_title: "Sherlock"
+title: "Sherlock"
 
 d_type: "BBC"
 d_available: "Netflix"

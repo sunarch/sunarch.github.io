@@ -1,10 +1,9 @@
 ---
 layout: "series"
-# title is set to d_title in layout
 # description is set to "series page | catalog" in layout
 permalink: "/catalog/media/series/list/the-dragon-prince"
 
-d_title: "The Dragon Prince"
+title: "The Dragon Prince"
 
 d_type: "Netflix Original (Children and family / Animated)"
 d_available: "Netflix"

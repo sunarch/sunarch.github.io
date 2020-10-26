@@ -1,10 +1,9 @@
 ---
 layout: "series"
-# title is set to d_title in layout
 # description is set to "series page | catalog" in layout
 permalink: "/catalog/media/series/list/the-girls-guide-to-depravity"
 
-d_title: "The Girl's Guide to Depravity"
+title: "The Girl's Guide to Depravity"
 
 d_type: ""
 d_available: ""

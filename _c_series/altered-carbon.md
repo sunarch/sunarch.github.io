@@ -1,10 +1,9 @@
 ---
 layout: "series"
-# title is set to d_title in layout
 # description is set to "series page | catalog" in layout
 permalink: "/catalog/media/series/list/altered-carbon"
 
-d_title: "Altered Carbon"
+title: "Altered Carbon"
 
 d_type: "Netflix Original (Drama)"
 d_available: "Netflix"

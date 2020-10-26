@@ -1,10 +1,9 @@
 ---
 layout: "series"
-# title is set to d_title in layout
 # description is set to "series page | catalog" in layout
 permalink: "/catalog/media/series/list/the-handmaids-tale"
 
-d_title: "The Handmaid's Tale"
+title: "The Handmaid's Tale"
 
 d_type: "Hulu Original"
 d_available: "HBO GO"

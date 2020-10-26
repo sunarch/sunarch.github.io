@@ -1,10 +1,9 @@
 ---
 layout: "series"
-# title is set to d_title in layout
 # description is set to "series page | catalog" in layout
 permalink: "/catalog/media/series/list/how-to-get-away-with-murder"
 
-d_title: "How to Get Away with Murder"
+title: "How to Get Away with Murder"
 
 d_type: "ABC"
 d_available: "Netflix"

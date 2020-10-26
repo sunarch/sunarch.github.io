@@ -1,10 +1,9 @@
 ---
 layout: "series"
-# title is set to d_title in layout
 # description is set to "series page | catalog" in layout
 permalink: "/catalog/media/series/list/bojack-horseman"
 
-d_title: "BoJack Horseman"
+title: "BoJack Horseman"
 
 d_type: "Netflix Original (Animation - Adult animation)"
 d_available: "Netflix"

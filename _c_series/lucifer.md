@@ -1,10 +1,9 @@
 ---
 layout: "series"
-# title is set to d_title in layout
 # description is set to "series page | catalog" in layout
 permalink: "/catalog/media/series/list/lucifer"
 
-d_title: "Lucifer"
+title: "Lucifer"
 
 d_type: "Fox (S01-03), Netflix continuation"
 d_available: "Netflix"

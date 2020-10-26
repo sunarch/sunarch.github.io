@@ -1,10 +1,9 @@
 ---
 layout: "series"
-# title is set to d_title in layout
 # description is set to "series page | catalog" in layout
 permalink: "/catalog/media/series/list/the-legend-of-korra"
 
-d_title: "The Legend of Korra"
+title: "The Legend of Korra"
 
 d_type: "Nickelodeon"
 d_available: ""

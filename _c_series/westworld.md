@@ -1,10 +1,9 @@
 ---
 layout: "series"
-# title is set to d_title in layout
 # description is set to "series page | catalog" in layout
 permalink: "/catalog/media/series/list/westworld"
 
-d_title: "Westworld"
+title: "Westworld"
 
 d_type: "HBO"
 d_available: "HBO GO"

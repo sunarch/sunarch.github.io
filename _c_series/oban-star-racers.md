@@ -1,10 +1,9 @@
 ---
 layout: "series"
-# title is set to d_title in layout
 # description is set to "series page | catalog" in layout
 permalink: "/catalog/media/series/list/oban-star-racers"
 
-d_title: "Oban Star-Racers"
+title: "Oban Star-Racers"
 
 d_type: ""
 d_available: ""

@@ -1,10 +1,9 @@
 ---
 layout: "series"
-# title is set to d_title in layout
 # description is set to "series page | catalog" in layout
 permalink: "/catalog/media/series/list/mr-robot"
 
-d_title: "Mr. Robot"
+title: "Mr. Robot"
 
 d_type: "usa"
 d_available: "HBO GO"

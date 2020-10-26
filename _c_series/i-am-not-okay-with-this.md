@@ -1,10 +1,9 @@
 ---
 layout: "series"
-# title is set to d_title in layout
 # description is set to "series page | catalog" in layout
 permalink: "/catalog/media/series/list/i-am-not-okay-with-this"
 
-d_title: "I Am Not Okay With This"
+title: "I Am Not Okay With This"
 
 d_type: "Netflix Original (Comedy)"
 d_available: "Netflix"

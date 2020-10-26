@@ -1,10 +1,9 @@
 ---
 layout: "series"
-# title is set to d_title in layout
 # description is set to "series page | catalog" in layout
 permalink: "/catalog/media/series/list/die-deutschen"
 
-d_title: "Die Deutschen"
+title: "Die Deutschen"
 
 d_type: "ZDF"
 d_available: ""

@@ -1,10 +1,9 @@
 ---
 layout: "series"
-# title is set to d_title in layout
 # description is set to "series page | catalog" in layout
 permalink: "/catalog/media/series/list/troy-fall-of-a-city"
 
-d_title: "Troy: Fall of a City"
+title: "Troy: Fall of a City"
 
 d_type: "BBC"
 d_available: ""

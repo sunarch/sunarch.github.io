@@ -1,10 +1,9 @@
 ---
 layout: "series"
-# title is set to d_title in layout
 # description is set to "series page | catalog" in layout
 permalink: "/catalog/media/series/list/w-i-t-c-h"
 
-d_title: "W.I.T.C.H."
+title: "W.I.T.C.H."
 
 d_type: ""
 d_available: ""

@@ -1,10 +1,9 @@
 ---
 layout: "series"
-# title is set to d_title in layout
 # description is set to "series page | catalog" in layout
 permalink: "/catalog/media/series/list/designated-survivor"
 
-d_title: "Designated Survivor"
+title: "Designated Survivor"
 
 d_type: "ABC - Netflix exclusive int'l distribution"
 d_available: "Netflix"

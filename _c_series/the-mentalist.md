@@ -1,10 +1,9 @@
 ---
 layout: "series"
-# title is set to d_title in layout
 # description is set to "series page | catalog" in layout
 permalink: "/catalog/media/series/list/the-mentalist"
 
-d_title: "The Mentalist"
+title: "The Mentalist"
 
 d_type: ""
 d_available: ""

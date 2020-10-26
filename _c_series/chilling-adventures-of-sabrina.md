@@ -1,10 +1,9 @@
 ---
 layout: "series"
-# title is set to d_title in layout
 # description is set to "series page | catalog" in layout
 permalink: "/catalog/media/series/list/chilling-adventures-of-sabrina"
 
-d_title: "Chilling Adventures of Sabrina"
+title: "Chilling Adventures of Sabrina"
 
 d_type: "Netflix Original (Drama)"
 d_available: "Netflix"

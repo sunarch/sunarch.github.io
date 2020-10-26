@@ -1,10 +1,9 @@
 ---
 layout: "series"
-# title is set to d_title in layout
 # description is set to "series page | catalog" in layout
 permalink: "/catalog/media/series/list/izombie"
 
-d_title: "iZombie"
+title: "iZombie"
 
 d_type: "CW"
 d_available: "Netflix"

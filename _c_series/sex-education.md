@@ -1,10 +1,9 @@
 ---
 layout: "series"
-# title is set to d_title in layout
 # description is set to "series page | catalog" in layout
 permalink: "/catalog/media/series/list/sex-education"
 
-d_title: "Sex Education"
+title: "Sex Education"
 
 d_type: "Netflix Original (Comedy)"
 d_available: "Netflix"

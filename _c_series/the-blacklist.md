@@ -1,10 +1,9 @@
 ---
 layout: "series"
-# title is set to d_title in layout
 # description is set to "series page | catalog" in layout
 permalink: "/catalog/media/series/list/the-blacklist"
 
-d_title: "The Blacklist"
+title: "The Blacklist"
 
 d_type: "NBC"
 d_available: "Netflix"

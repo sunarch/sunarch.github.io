@@ -1,10 +1,9 @@
 ---
 layout: "series"
-# title is set to d_title in layout
 # description is set to "series page | catalog" in layout
 permalink: "/catalog/media/series/list/how-i-met-your-mother"
 
-d_title: "How I Met Your Mother"
+title: "How I Met Your Mother"
 
 d_type: ""
 d_available: ""

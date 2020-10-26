@@ -1,10 +1,9 @@
 ---
 layout: "series"
-# title is set to d_title in layout
 # description is set to "series page | catalog" in layout
 permalink: "/catalog/media/series/list/true-blood"
 
-d_title: "True Blood"
+title: "True Blood"
 
 d_type: ""
 d_available: ""

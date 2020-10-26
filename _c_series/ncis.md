@@ -1,10 +1,9 @@
 ---
 layout: "series"
-# title is set to d_title in layout
 # description is set to "series page | catalog" in layout
 permalink: "/catalog/media/series/list/ncis"
 
-d_title: "NCIS: Naval Criminal Investigative Service"
+title: "NCIS: Naval Criminal Investigative Service"
 
 d_type: ""
 d_available: ""

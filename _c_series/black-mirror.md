@@ -1,10 +1,9 @@
 ---
 layout: "series"
-# title is set to d_title in layout
 # description is set to "series page | catalog" in layout
 permalink: "/catalog/media/series/list/black-mirror"
 
-d_title: "Black Mirror"
+title: "Black Mirror"
 
 d_type: "Channel 4 (S01-02), Netflix continuation"
 d_available: "Netflix"

@@ -1,10 +1,9 @@
 ---
 layout: "series"
-# title is set to d_title in layout
 # description is set to "series page | catalog" in layout
 permalink: "/catalog/media/series/list/disenchantment"
 
-d_title: "Disenchantment"
+title: "Disenchantment"
 
 d_type: "Netflix Original (Animation)"
 d_available: "Netflix"

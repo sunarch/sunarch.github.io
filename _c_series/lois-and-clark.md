@@ -1,10 +1,9 @@
 ---
 layout: "series"
-# title is set to d_title in layout
 # description is set to "series page | catalog" in layout
 permalink: "/catalog/media/series/list/lois-and-clark"
 
-d_title: "Lois & Clark: The New Adventures of Superman"
+title: "Lois & Clark: The New Adventures of Superman"
 
 d_type: ""
 d_available: ""

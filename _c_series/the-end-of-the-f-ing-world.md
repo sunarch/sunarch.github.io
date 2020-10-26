@@ -1,10 +1,9 @@
 ---
 layout: "series"
-# title is set to d_title in layout
 # description is set to "series page | catalog" in layout
 permalink: "/catalog/media/series/list/the-end-of-the-f-ing-world"
 
-d_title: "The End of the F***ing World"
+title: "The End of the F***ing World"
 
 d_type: "Channel 4 / Netflix"
 d_available: "Netflix"

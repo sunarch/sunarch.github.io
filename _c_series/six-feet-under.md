@@ -1,10 +1,9 @@
 ---
 layout: "series"
-# title is set to d_title in layout
 # description is set to "series page | catalog" in layout
 permalink: "/media/series/list/six-feet-under"
 
-d_title: "Six Feet Under"
+title: "Six Feet Under"
 
 d_type: "HBO"
 d_available: ""

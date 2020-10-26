@@ -1,10 +1,9 @@
 ---
 layout: "series"
-# title is set to d_title in layout
 # description is set to "series page | catalog" in layout
 permalink: "/catalog/media/series/list/young-sheldon"
 
-d_title: "Young Sheldon"
+title: "Young Sheldon"
 
 d_type: "CBS"
 d_available: "HBO GO"

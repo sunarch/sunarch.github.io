@@ -1,10 +1,9 @@
 ---
 layout: "series"
-# title is set to d_title in layout
 # description is set to "series page | catalog" in layout
 permalink: "/catalog/media/series/list/death-note"
 
-d_title: "Death Note: Desu nôto"
+title: "Death Note: Desu nôto"
 
 d_type: ""
 d_available: ""
