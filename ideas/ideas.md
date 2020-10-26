@@ -15,6 +15,7 @@ file, You can obtain one at http://mozilla.org/MPL/2.0/.
 ## project names
 
 - resourcerer
+- humanobot
 
 ### random from GitHub
 
@@ -31,3 +32,7 @@ file, You can obtain one at http://mozilla.org/MPL/2.0/.
     - after the [Rockhopper penguin](https://en.wikipedia.org/wiki/Rockhopper_penguin)
 - Macaroni Linux
     - after the [Macaroni penguin](https://en.wikipedia.org/wiki/Macaroni_penguin)
+
+## products
+
+- [Snowglass HUD](snowglass-hud.md)
