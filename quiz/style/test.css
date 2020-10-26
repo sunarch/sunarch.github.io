@@ -1,0 +1,318 @@
+/*
+This Source Code Form is subject to the terms of the Mozilla Public
+License, v. 2.0. If a copy of the MPL was not distributed with this
+file, You can obtain one at http://mozilla.org/MPL/2.0/.
+*/
+
+
+html {
+    margin: 0;
+    padding: 4pt;
+}
+
+body {
+    margin: 0;
+    padding: 4pt;
+}
+
+header {
+    display: block;
+}
+
+#title {
+    display: block;
+}
+
+
+
+@media screen and (max-width: 999px) {
+    div.main {
+        margin: 0;
+        padding: 0;
+    }
+    #main-1-start {
+        width: 100%;
+    }
+    #main-2-test {
+        width: 100%;
+    }
+    #main-3-finish {
+        width: 100%;
+    }
+}
+@media screen and (min-width: 1000px) {
+    div.main {
+        margin-left: auto;
+        margin-right: auto;
+        padding: 0;
+    }
+    #main-1-start {
+        width: 20%;
+    }
+    #main-2-test {
+        width: 45%;
+    }
+    #main-3-finish {
+        width: 20%;
+    }
+}
+
+#main-1-start {
+    display: block;
+}
+#main-2-test {
+    display: none;
+}
+#main-3-finish {
+    display: none;
+}
+
+/* part: meta-controls -----------------------------------------------*/
+
+div.meta-controls-wrapper {
+    display: block;
+    position: static;
+
+    padding-top: 5pt;
+    padding-bottom: 5pt;
+}
+
+div.meta-controls-container {
+    display: block;
+
+    position: relative;
+    top: 0;
+    left: 0;
+
+    text-align: center;
+}
+
+button.meta-controls {
+    display: block;
+    margin-top: 5pt;
+    margin-bottom: 5pt;
+    width: 100%;
+}
+
+/* part: prompt ------------------------------------------------------*/
+
+div.prompt-wrapper {
+    display: block;
+    position: static;
+
+    padding-top: 5pt;
+    padding-bottom: 5pt;
+}
+
+div.prompt-container {
+    display: block;
+
+    position: relative;
+    top: 0;
+    left: 0;
+
+    text-align: center;
+}
+
+div.number-container {
+    display: block;
+
+    padding-top: 5pt;
+    padding-bottom: 5pt;
+
+    font-size: 12pt;
+}
+
+#number-current {
+    display: inline;
+}
+
+#number-total {
+    display: inline;
+}
+
+#prompt {
+    display: block;
+
+    padding-top: 5pt;
+    padding-bottom: 5pt;
+
+    font-size: 22pt;
+    font-weight: bold;
+}
+
+/* part: controls ----------------------------------------------------*/
+
+div.controls-wrapper {
+    display: block;
+    position: static;
+
+    padding-top: 5pt;
+    padding-bottom: 5pt;
+}
+
+div.controls-container {
+    display: block;
+
+    position: relative;
+    top: 0;
+    left: 0;
+
+    text-align: center;
+}
+
+@media screen and (max-width: 999px) {
+    div.controls-container {
+        height: 40pt;
+    }
+}
+@media screen and (min-width: 1000px) {
+    div.controls-container {
+        margin-top: 5pt;
+        margin-bottom: 7pt;
+        height: auto;
+    }
+}
+
+
+button.controls {
+    display: inline-block;
+    margin-left: 5pt;
+    margin-right: 5pt;
+}
+
+@media screen and (max-width: 999px) {
+    button.controls {
+        margin-left: 5pt;
+        margin-right: 5pt;
+        width: 44%;
+        height: 100%;
+        position: absolute;
+    }
+    button.controls:first-of-type { left: 0; }
+    button.controls:last-of-type { right: 0; }
+}
+@media screen and (min-width: 1000px) {
+    button.controls {
+        margin-left: 5pt;
+        margin-right: 5pt;
+        width: auto;
+        height: auto;
+    }
+}
+
+/* part: answer ------------------------------------------------------*/
+
+div.answer-wrapper {
+    display: block;
+    position: static;
+
+    padding-top: 5pt;
+    padding-bottom: 5pt;
+
+    visibility: hidden;
+}
+
+div.answer-container {
+    display: block;
+
+    position: relative;
+    top: 0;
+    left: 0;
+}
+
+div.picture-container {
+    display: block;
+
+    padding: 0;
+}
+
+@media screen and (max-width: 999px) {
+    div.picture-container {
+        margin: 0;
+    }
+}
+@media screen and (min-width: 1000px) {
+    div.picture-container {
+        margin: 10pt;
+    }
+}
+
+img.picture {
+    display: block;
+    margin: 0;
+    padding: 0;
+}
+
+@media screen and (max-width: 999px) {
+    img.picture {
+        width: 100%;
+    }
+}
+@media screen and (min-width: 1000px) {
+    img.picture {
+        width: 30%;
+    }
+}
+
+#answer {
+    display: block;
+
+    margin: 10pt;
+    padding: 0;
+
+    font-size: 18pt;
+    font-weight: bold;
+}
+
+@media screen and (max-width: 999px) {
+    #answer {
+        position: static;
+
+        text-align: center;
+    }
+}
+@media screen and (min-width: 1000px) {
+    #answer {
+        position: absolute;
+        top: 0;
+        right: 0;
+
+        width: 50%;
+        text-align: right;
+    }
+}
+
+div.weblink-container {
+    display: block;
+
+    margin: 10pt;
+    padding: 0;
+}
+
+@media screen and (max-width: 999px) {
+    div.weblink-container {
+        position: static;
+
+        text-align: center;
+    }
+}
+@media screen and (min-width: 1000px) {
+    div.weblink-container {
+        position: absolute;
+        bottom: 0;
+        right: 0;
+    }
+}
+
+a.weblink {
+    font-size: 12pt;
+}
+
+/* footer ------------------------------------------------------------*/
+
+footer {
+    display: block;
+    padding-top: 10pt;
+    padding-bottom: 5pt;
+}

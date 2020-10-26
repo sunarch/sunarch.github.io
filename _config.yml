@@ -1,3 +1,8 @@
+# This Source Code Form is subject to the terms of the Mozilla Public
+# License, v. 2.0. If a copy of the MPL was not distributed with this
+# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+
+
 plugins:
   - jekyll-relative-links
   - jekyll-redirect-from
@@ -19,7 +24,12 @@ description: home page on GitHub
 show_downloads: false
 #google_analytics: [Your Google Analytics tracking ID]
 
-#collections:
-#  label:
-#    output: true
-#    sort_by: field
+collections:
+
+  c_series:
+    output: true
+    sort_by: title
+
+  c_directors:
+    output: true
+    sort_by: last_name

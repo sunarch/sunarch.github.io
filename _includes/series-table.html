@@ -1,0 +1,81 @@
+<!--
+This Source Code Form is subject to the terms of the Mozilla Public
+License, v. 2.0. If a copy of the MPL was not distributed with this
+file, You can obtain one at http://mozilla.org/MPL/2.0/.
+-->
+<table style="display: table; width: 100%;">
+<tbody>
+{% assign display_row = false %}
+{% assign table_row_counter = 0 %}
+{% if include.type == "interested" %}
+    {% assign data_source = site.data.series-interested %}
+{% else %}
+    {% assign data_source = site.c_series %}
+{% endif %}
+{% for series in data_source %}
+    {% assign display_row = false %}
+    {% case include.type %}
+        {% when "category" %}
+            {% if series.d_sort_category == include.sort_category %}
+                {% assign display_row = true %}
+            {% endif %}
+        {% when "collection" %}
+            {% if series.d_sort_category == include.sort_category and series.d_sort_level == include.sort_level %}
+                {% assign display_row = true %}
+            {% endif %}
+        {% when "availability" %}
+            {% if series.d_available == include.availability %}
+                {% assign display_row = true %}
+            {% endif %}
+        {% when "all" %}
+            {% assign display_row = true %}
+        {% else %}
+            {% assign display_row = false %}
+    {% endcase %}
+    {% if display_row == true %}
+        {% assign table_row_counter = table_row_counter | plus: 1 %}
+        <tr>
+            <td rowspan="4" style="width: 26%;">
+                <a href="{{ series.imdb_link }}" target="_blank">
+                    <img src="{{ series.imdb_image }}" alt="{{ series.d_title }}" />
+                </a>
+            </td>
+            <td>
+                <span style="margin-right: 5pt;">{{ table_row_counter }}.</span>
+                {% if include.type != "interested" %}
+                <a href="{{ series.permalink }}" target="_self" style="">
+                {% endif %}
+                    <span style="font-weight: bold;">{{ series.d_title }}</span>
+                {% if include.type != "interested" %}
+                </a>
+                {% endif %}
+                <span style="margin-left: 5pt;">({{ series.imdb_year_start }}&nbsp;–&nbsp;{{ series.imdb_year_finish }})</span>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <span>{{ series.imdb_runtime }}</span>
+                <span style="margin-left: 5pt; margin-right: 5pt;">|</span>
+                <span>{{ series.imdb_genre }}</span>
+            </td>
+        </tr>
+        <tr>
+            <td>{{ series.imdb_seasons }}&nbsp;seasons with {{ series.d_ep_per_season }}&nbsp;episodes ({{ series.imdb_episodes }}&nbsp;total)</td>
+        </tr>
+        {% if include.type == "watching" %}
+        <tr>
+            <td>
+                <span>[&nbsp;s{{ series.d_watch_done_seasons }}e{{ series.d_watch_done_episodes }}&nbsp;{{ series.d_watch_done_comment }}&nbsp;]</span>
+                <span style="margin-left: 5pt; margin-right: 5pt;">|</span>
+                <span>{{ series.d_air_status }} — {{ series.d_air_season }}</span>
+            </td>
+        </tr>
+        {% else %}
+        <tr>
+            <td>{{ series.imdb_summary }}</td>
+        </tr>
+        {% endif %}
+    {% endif %}
+{% endfor %}
+</tbody>
+</table>

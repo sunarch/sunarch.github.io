@@ -1,0 +1,100 @@
+<!DOCTYPE html >
+<!--
+# This Source Code Form is subject to the terms of the Mozilla Public
+# License, v. 2.0. If a copy of the MPL was not distributed with this
+# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+-->
+<html>
+    <head>
+        <title>Tudásteszt</title>
+        <meta charset="UTF-8" />
+        <!-- meta tags -->
+        <!-- link tags -->
+        <!-- styles -->
+        <link rel="stylesheet" type="text/css" href="style/test.css">
+        <!-- scripts -->
+        <script type="text/javascript" src="script/class-test.js" ></script>
+        <script type="text/javascript" src="script/test.js" ></script>
+        <script type="text/javascript" src="script-data/presets/preset-1.js" ></script>
+    </head>
+
+    <body id="body" onLoad="load_test()" >
+
+        <header id="header" >
+            <div id="title" ></div>
+        </header>
+
+        <!--
+        <aside id="asideLeft" >
+
+        </aside>
+        <aside id="asideRight" >
+
+        </aside>
+         -->
+
+        <div id="main-1-start" class="main" >
+            <div class="meta-controls-wrapper" >
+                <div class="meta-controls-container" >
+                    <button class="meta-controls" onClick="test.start();" >Indítás</button>
+                </div>
+            </div>
+        </div>
+
+        <div id="main-2-test" class="main" >
+
+            <div class="prompt-wrapper" >
+                <div class="prompt-container" >
+
+                    <div class="number-container" >
+                        <div id="number-current" ></div> / <div id="number-total" ></div>
+                    </div>
+
+                    <div id="prompt" ></div>
+
+                </div>
+            </div>
+
+            <div class="controls-wrapper" >
+                <div class="controls-container" >
+
+                    <button class="controls" onClick="test.show_answer();">Válasz mutatása</button>
+                    <button class="controls" onClick="test.next();">Következő</button>
+
+                </div>
+            </div>
+
+            <div class="answer-wrapper" >
+                <div class="answer-container" >
+
+                    <div id="answer" ></div>
+
+                    <div class="picture-container" >
+                        <img id="picture" class="picture" alt="kép" src="" />
+                    </div>
+
+                    <div class="weblink-container" >
+                        <a id="weblink" class="weblink" target="_blank" href="" >További információk</a>
+                    </div>
+
+                </div>
+            </div>
+
+        </div>
+
+        <div id="main-3-finish" class="main" >
+            <div class="meta-controls-wrapper" >
+                <div class="meta-controls-container" >
+                    <button class="meta-controls" onClick="test.restart();" >Újraindítás</button>
+                    <button class="meta-controls" onClick="window.location = '/web/quiz';" >Vissza a főoldalra</button>
+                </div>
+            </div>
+        </div>
+
+        <footer id="footer" >
+            <a class="weblink" target="_self" href="/web/quiz" >Vissza a főoldalra</a>
+        </footer>
+
+    </body>
+
+</html>
