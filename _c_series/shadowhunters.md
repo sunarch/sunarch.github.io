@@ -11,6 +11,11 @@ d_available: "Netflix"
 
 d_sort_category: "live-action"
 
+d_watch_status: ""
+d_watch_done_seasons: ""
+d_watch_done_episodes: ""
+d_watch_done_comment: ""
+
 d_air_status: "ended"
 d_air_season: "season 03" # three
 

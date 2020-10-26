@@ -12,6 +12,11 @@ d_available: "Netflix"
 d_sort_level: "second"
 d_sort_category: "live-action"
 
+d_watch_status: ""
+d_watch_done_seasons: ""
+d_watch_done_episodes: ""
+d_watch_done_comment: ""
+
 d_air_status: "possible"
 d_air_season: "seasons 04, 05" # four, five
 

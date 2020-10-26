@@ -12,6 +12,11 @@ d_available: ""
 d_sort_level: "documentary"
 d_sort_category: "documentary"
 
+d_watch_status: ""
+d_watch_done_seasons: ""
+d_watch_done_episodes: ""
+d_watch_done_comment: ""
+
 d_air_status: "ended"
 d_air_season: "season 01" # one
 

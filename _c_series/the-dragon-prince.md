@@ -12,6 +12,11 @@ d_available: "Netflix"
 d_sort_level: "second"
 d_sort_category: "animation"
 
+d_watch_status: ""
+d_watch_done_seasons: ""
+d_watch_done_episodes: ""
+d_watch_done_comment: ""
+
 d_air_status: "pending"
 d_air_season: "season 04" # four
 
