@@ -12,6 +12,7 @@ permalink: "/kb/op-sys/linux/distros/ubuntu"
 - [Wikipedia](https://en.wikipedia.org/wiki/Ubuntu)
 - [Launchpad](https://code.launchpad.net/ubuntu)
 - [Ask Ubuntu](https://askubuntu.com) on [StackExchange](https://stackexchange.com)
+- [DistroWatch](https://distrowatch.com/table.php?distribution=Ubuntu)
 
 # releases
 

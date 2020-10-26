@@ -9,7 +9,7 @@ permalink: "/kb/op-sys/linux"
 
 ### subpages
 
-- [distributions](distros.md)
+- [distributions](distros/distros.md)
 
 ### links
 

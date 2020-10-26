@@ -5,70 +5,27 @@ description: "knowledgebase | sunarch"
 permalink: "/kb/op-sys/linux/distros"
 ---
 
-[< Linux](linux.md)
+[< Linux](../linux.md)
 
 - [Wikipedia: Linux distribution](https://en.wikipedia.org/wiki/Linux_distribution)
 - [Wikipedia: List of Linux distributions](https://en.wikipedia.org/wiki/List_of_Linux_distributions)
 - [LinuxTimeline](https://github.com/FabioLolix/linuxtimeline) by [Fabio Loli](https://github.com/FabioLolix) on [GitHub](https://github.com)
+- [DistroWatch](https://distrowatch.com/)
 
 # used
 
 - [Ubuntu](ubuntu.md)
+- [Linux Mint](mint.md)
+- [Manjaro](manjaro.md)
+- [Raspberry Pi OS](raspbian.md)
 
-## Elementary OS
+# other
 
-- based on Ubuntu <- Debian
-- [homepage](https://elementary.io)
-- [Wikipedia](https://en.wikipedia.org/wiki/Elementary_OS)
-- [GitHub](https://github.com/elementary/)
-
-## Raspberry Pi OS
-
-- based on Debian
-- by the [Raspberry Pi Foundation](https://www.raspberrypi.org)
-- [homepage](https://www.raspberrypi.org/downloads/raspberry-pi-os/)
-- [Wikipedia](https://en.wikipedia.org/wiki/Raspberry_Pi_OS)
-- formerly called Raspbian
-- [Raspbian homepage](http://raspbian.org)
-
-# potential (tried)
-
-## Linux Mint
-
-- based on Ubuntu (LTS) <- Debian
-- [homepage](https://www.linuxmint.com)
-- [Wikipedia](https://en.wikipedia.org/wiki/Linux_Mint)
-
-## Debian
-
-- [homepage](https://www.debian.org)
-- [Wikipedia](https://en.wikipedia.org/wiki/Debian)
-- [repository](https://sources.debian.org)
-
-## Fedora
-
-- based on Red Hat Enterprise
-- [homepage](https://getfedora.org)
-- [Wikipedia](https://en.wikipedia.org/wiki/Fedora_(operating_system))
-
-## Arch
-
-- [homepage](https://www.archlinux.org/)
-- [Wikipedia](https://en.wikipedia.org/wiki/Arch_Linux)
-- [repository](https://git.archlinux.org/)
-
-# potential (not tried)
-
-## Gentoo
-
-- [homepage](http://www.gentoo.org)
-- [Wikipedia](https://en.wikipedia.org/wiki/Gentoo_Linux)
-
-## Manjaro
-
-- based on Arch
-- [homepage](https://manjaro.org)
-- [Wikipedia](https://en.wikipedia.org/wiki/Manjaro)
+- [Elementary OS](elementary.md)
+- [Debian](debian.md)
+- [Arch Linux](arch.md)
+- [Gentoo](gentoo.md)
+- [Fedora](fedora.md)
 
 # distro tree extract
 
