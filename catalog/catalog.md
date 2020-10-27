@@ -12,5 +12,5 @@ file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 [< home](../index.md)
 
-- [media](media/index.md)
-- [games](games/index.md)
+- [media](media/media.md)
+- [games](games/games.md)

@@ -12,4 +12,4 @@ file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 [< catalog](../index.md)
 
-- [video games](video-games/index.md)
+- [video games](video-games/video-games.md)
