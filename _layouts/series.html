@@ -86,7 +86,7 @@ file, You can obtain one at http://mozilla.org/MPL/2.0/.
                     </tr>
                     <tr>
                         <td>genre</td>
-                        <td>{% for genre in series.imdb_genre %}{{ genre }}{% if genre != series.imdb_genre.last %}, {% endif %}{% endfor %}</td>
+                        <td>{% for genre in page.imdb_genre %}{{ genre }}{% if genre != page.imdb_genre.last %}, {% endif %}{% endfor %}</td>
                     </tr>
                     <tr>
                         <td>creators</td>
