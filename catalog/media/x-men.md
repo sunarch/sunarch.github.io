@@ -10,7 +10,7 @@ License, v. 2.0. If a copy of the MPL was not distributed with this
 file, You can obtain one at http://mozilla.org/MPL/2.0/.
 -->
 
-[< media](index.md)
+[< media](media.md)
 
 - [Fandom: X-Men Movies Wiki](https://xmenmovies.fandom.com/wiki/X-Men_Movies_Wiki)
 - [Wikipedia: X-Men (film series)](https://en.wikipedia.org/wiki/X-Men_%28film_series%29)
