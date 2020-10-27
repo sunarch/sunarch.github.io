@@ -27,7 +27,7 @@ imdb_year_finish: "" # ongoing
 imdb_seasons: "3"
 imdb_episodes: "27"
 imdb_runtime: "26min"
-imdb_genre: "Animation, Adventure, Family"
+imdb_genre: ["Animation", "Adventure", "Family"]
 imdb_type: "TV Series"
 imdb_creators: [{name: "Aaron Ehasz", link: "https://www.imdb.com/name/nm1132209/"}, {name: "Justin Richmond", link: "https://www.imdb.com/name/nm2541892/"}]
 imdb_image: "https://m.media-amazon.com/images/M/MV5BMjA5MjEwODU1MV5BMl5BanBnXkFtZTgwNzk0MzA5NTM@._V1_UY268_CR9,0,182,268_AL_.jpg"

@@ -27,7 +27,7 @@ imdb_year_finish: "2015"
 imdb_seasons: "7"
 imdb_episodes: "151"
 imdb_runtime: "43min"
-imdb_genre: "Crime, Drama, Mystery"
+imdb_genre: ["Crime", "Drama", "Mystery"]
 imdb_type: "TV Series"
 imdb_creators: [{name: "Bruno Heller", link: "https://www.imdb.com/name/nm0375285/"}]
 imdb_image: "https://m.media-amazon.com/images/M/MV5BMTQ5OTgzOTczM15BMl5BanBnXkFtZTcwMDM2OTY4MQ@@._V1_UY268_CR9,0,182,268_AL_.jpg"

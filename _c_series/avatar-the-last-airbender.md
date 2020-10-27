@@ -27,7 +27,7 @@ imdb_year_finish: "2008"
 imdb_seasons: "3"
 imdb_episodes: "66"
 imdb_runtime: "23min"
-imdb_genre: "Animation, Action, Adventure"
+imdb_genre: ["Animation", "Action", "Adventure"]
 imdb_type: "TV Series"
 imdb_creators: [{name: "Michael Dante DiMartino", link: "https://www.imdb.com/name/nm0227204/"}, {name: "Bryan Konietzko", link: "https://www.imdb.com/name/nm1665983/"}]
 imdb_image: "https://m.media-amazon.com/images/M/MV5BODc5YTBhMTItMjhkNi00ZTIxLWI0YjAtNTZmOTY0YjRlZGQ0XkEyXkFqcGdeQXVyODUwNjEzMzg@._V1_UX182_CR0,0,182,268_AL_.jpg"

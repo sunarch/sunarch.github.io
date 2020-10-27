@@ -27,7 +27,7 @@ imdb_year_finish: "" # ongoing
 imdb_seasons: "6"
 imdb_episodes: "90"
 imdb_runtime: "42min"
-imdb_genre: "Crime, Drama, Mystery"
+imdb_genre: ["Crime", "Drama", "Mystery"]
 imdb_type: "TV Series"
 imdb_creators: [{name: "Peter Nowalk", link: "https://www.imdb.com/name/nm3186529/"}]
 imdb_image: "https://m.media-amazon.com/images/M/MV5BZDQ5ZDRhMWItNjA5Ni00MDhiLTgwN2EtZjFkYzgzNjBhZTIyXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_UX182_CR0,0,182,268_AL_.jpg"

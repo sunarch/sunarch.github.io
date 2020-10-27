@@ -27,7 +27,7 @@ imdb_year_finish: "2017"
 imdb_seasons: "1"
 imdb_episodes: "6"
 imdb_runtime: "30min"
-imdb_genre: "-"
+imdb_genre: ["-"]
 imdb_type: "TV Series"
 imdb_creators: [{name: "", link: ""}] # -
 imdb_image: "https://m.media-amazon.com/images/M/MV5BZjVmNjU1YTctYjVmNi00NDk3LTk3NGItNGNkYzA4ZGI2YjdkXkEyXkFqcGdeQXVyNjk2MjQ4OTQ@._V1_UY268_CR98,0,182,268_AL_.jpg"

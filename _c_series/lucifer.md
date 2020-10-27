@@ -27,7 +27,7 @@ imdb_year_finish: "" # ongoing
 imdb_seasons: "5"
 imdb_episodes: "83"
 imdb_runtime: "42min"
-imdb_genre: "Crime, Drama, Fantasy"
+imdb_genre: ["Crime", "Drama", "Fantasy"]
 imdb_type: "TV Series"
 imdb_creators: [{name: "Tom Kapinos", link: "https://www.imdb.com/name/nm1093513/"}]
 imdb_image: "https://m.media-amazon.com/images/M/MV5BZTA2NTBkYWUtMzM4Zi00YzhlLTk4NWItY2U1ODczNDMyNDAzXkEyXkFqcGdeQXVyNDg4NjY5OTQ@._V1_UX182_CR0,0,182,268_AL_.jpg"

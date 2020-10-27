@@ -27,7 +27,7 @@ imdb_year_finish: "2019"
 imdb_seasons: "4"
 imdb_episodes: "40"
 imdb_runtime: "1h"
-imdb_genre: "Drama, Sci-Fi, Thriller"
+imdb_genre: ["Drama", "Sci-Fi", "Thriller"]
 imdb_type: "TV Series"
 imdb_creators: [{name: "Frank Spotnitz", link: "https://www.imdb.com/name/nm0819487/"}]
 imdb_image: "https://m.media-amazon.com/images/M/MV5BZWEwNzQ4NzUtMWRmYS00NDdiLTg5NDItODA5M2M4YTM0ZTE2XkEyXkFqcGdeQXVyMTAzNjU2NjM1._V1_UX182_CR0,0,182,268_AL_.jpg"

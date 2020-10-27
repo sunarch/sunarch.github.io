@@ -27,7 +27,7 @@ imdb_year_finish: "2019"
 imdb_seasons: "2"
 imdb_episodes: "29"
 imdb_runtime: "43min"
-imdb_genre: "Action, Drama, Fantasy"
+imdb_genre: ["Action", "Drama", "Fantasy"]
 imdb_type: "TV Series"
 imdb_creators: [{name: "Matt Nix", link: "https://www.imdb.com/name/nm0633180/"}]
 imdb_image: "https://m.media-amazon.com/images/M/MV5BMjIxODM5MDUyMV5BMl5BanBnXkFtZTgwMjY4MjI1NjM@._V1_UX182_CR0,0,182,268_AL_.jpg"

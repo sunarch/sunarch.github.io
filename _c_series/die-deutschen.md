@@ -27,7 +27,7 @@ imdb_year_finish: "" # ongoing?
 imdb_seasons: "2"
 imdb_episodes: "20"
 imdb_runtime: "?"
-imdb_genre: "Documentary, History"
+imdb_genre: ["Documentary", "History"]
 imdb_type: "TV Series"
 imdb_creators: [{name: "Uwe Kersken", link: "https://www.imdb.com/name/nm0449987/"}]
 imdb_image: "https://m.media-amazon.com/images/M/MV5BMTkwODc4MTUwNF5BMl5BanBnXkFtZTcwMjI0OTQwMg@@._V1_UY268_CR25,0,182,268_AL_.jpg"

@@ -27,7 +27,7 @@ imdb_year_finish: "2003"
 imdb_seasons: "1"
 imdb_episodes: "14"
 imdb_runtime: "44min"
-imdb_genre: "Adventure, Drama, Sci-Fi"
+imdb_genre: ["Adventure", "Drama", "Sci-Fi"]
 imdb_type: "TV Series"
 imdb_creators: [{name: "Joss Whedon", link: "https://www.imdb.com/name/nm0923736/"}]
 imdb_image: "https://m.media-amazon.com/images/M/MV5BNGEzYjIzZGUtNWI5YS00Y2IzLWIzMTQtMGJhNDljZDkzYzM0XkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_UY268_CR0,0,182,268_AL_.jpg"

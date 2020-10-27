@@ -27,7 +27,7 @@ imdb_year_finish: "2004"
 imdb_seasons: "10"
 imdb_episodes: "236"
 imdb_runtime: "22min"
-imdb_genre: "Comedy, Romance"
+imdb_genre: ["Comedy", "Romance"]
 imdb_type: "TV Series"
 imdb_creators: [{name: "David Crane", link: ""}, {name: "Marta Kauffman", link: ""}]
 imdb_image: "https://m.media-amazon.com/images/M/MV5BNDVkYjU0MzctMWRmZi00NTkxLTgwZWEtOWVhYjZlYjllYmU4XkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_UY268_CR0,0,182,268_AL_.jpg"

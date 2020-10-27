@@ -27,7 +27,7 @@ imdb_year_finish: "2019"
 imdb_seasons: "8"
 imdb_episodes: "73"
 imdb_runtime: "57min"
-imdb_genre: "Action, Adventure, Drama"
+imdb_genre: ["Action", "Adventure", "Drama"]
 imdb_type: "TV Series"
 imdb_creators: [{name: "David Benioff", link: "https://www.imdb.com/name/nm1125275/"}, {name: "D.B. Weiss", link: "https://www.imdb.com/name/nm1888967/"}]
 imdb_image: "https://m.media-amazon.com/images/M/MV5BYTRiNDQwYzAtMzVlZS00NTI5LWJjYjUtMzkwNTUzMWMxZTllXkEyXkFqcGdeQXVyNDIzMzcwNjc@._V1_UY268_CR7,0,182,268_AL_.jpg"

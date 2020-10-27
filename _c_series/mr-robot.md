@@ -27,7 +27,7 @@ imdb_year_finish: "2019"
 imdb_seasons: "4"
 imdb_episodes: "46"
 imdb_runtime: "49min"
-imdb_genre: "Crime, Drama, Thriller"
+imdb_genre: ["Crime", "Drama", "Thriller"]
 imdb_type: "TV Series"
 imdb_creators: [{name: "Sam Esmail", link: "https://www.imdb.com/name/nm1322753/"}]
 imdb_image: "https://m.media-amazon.com/images/M/MV5BMzgxMmQxZjQtNDdmMC00MjRlLTk1MDEtZDcwNTdmOTg0YzA2XkEyXkFqcGdeQXVyMzQ2MDI5NjU@._V1_UX182_CR0,0,182,268_AL_.jpg"

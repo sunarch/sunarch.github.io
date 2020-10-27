@@ -27,7 +27,7 @@ imdb_year_finish: "2006"
 imdb_seasons: "8"
 imdb_episodes: "179"
 imdb_runtime: "42min"
-imdb_genre: "Drama, Fantasy, Mystery"
+imdb_genre: ["Drama", "Fantasy", "Mystery"]
 imdb_type: "TV Series"
 imdb_creators: [{name: "Constance M. Burge", link: "https://www.imdb.com/name/nm0121154/"}]
 imdb_image: "https://m.media-amazon.com/images/M/MV5BNTIxNmUxMWQtNjc0Yy00NjM2LWFjMTMtNjA2MmEzOTFiMWRmXkEyXkFqcGdeQXVyNzA5NjUyNjM@._V1_UY268_CR0,0,182,268_AL_.jpg"

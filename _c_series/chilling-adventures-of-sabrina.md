@@ -27,7 +27,7 @@ imdb_year_finish: "" # ongoing
 imdb_seasons: "4"
 imdb_episodes: "36"
 imdb_runtime: "1h"
-imdb_genre: "Drama, Fantasy, Horror"
+imdb_genre: ["Drama", "Fantasy", "Horror"]
 imdb_type: "TV Series"
 imdb_creators: [{name: "Roberto Aguirre-Sacasa", link: "https://www.imdb.com/name/nm2630745/?ref_=tt_ov_wr"}]
 imdb_image: "https://m.media-amazon.com/images/M/MV5BNDJjYzk0ZTktNzQ1ZC00MmQ0LTk1NTYtNmMwMGE4NDM5ZjAyXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_UY268_CR16,0,182,268_AL_.jpg"

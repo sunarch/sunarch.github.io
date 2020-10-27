@@ -27,7 +27,7 @@ imdb_year_finish: "2015"
 imdb_seasons: "3"
 imdb_episodes: "39"
 imdb_runtime: "44min"
-imdb_genre: "Crime, Drama, Horror"
+imdb_genre: ["Crime", "Drama", "Horror"]
 imdb_type: "TV Series"
 imdb_creators: [{name: "Bryan Fuller", link: "https://www.imdb.com/name/nm0298188/"}]
 imdb_image: "https://m.media-amazon.com/images/M/MV5BNWU5YmJhNWEtZGVlOS00NmRhLThmNzUtYjAyMDA2MDg5ZTM4XkEyXkFqcGdeQXVyNDIzMzcwNjc@._V1_UY268_CR4,0,182,268_AL_.jpg"

@@ -27,7 +27,7 @@ imdb_year_finish: "" # ongoing?
 imdb_seasons: "2"
 imdb_episodes: "26"
 imdb_runtime: "30min"
-imdb_genre: "Comedy"
+imdb_genre: ["Comedy"]
 imdb_type: "TV Series"
 imdb_creators: [{name: "Heather Rutman", link: "https://www.imdb.com/name/nm1196241/"}]
 imdb_image: "https://m.media-amazon.com/images/M/MV5BMjA1MzcwMTc5OF5BMl5BanBnXkFtZTgwNDY2NzQwMjE@._V1_UX182_CR0,0,182,268_AL_.jpg"

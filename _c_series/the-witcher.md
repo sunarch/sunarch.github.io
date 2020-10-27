@@ -27,7 +27,7 @@ imdb_year_finish: "" # ongoing
 imdb_seasons: "2"
 imdb_episodes: "16"
 imdb_runtime: "1h"
-imdb_genre: "Action, Adventure, Drama"
+imdb_genre: ["Action", "Adventure", "Drama"]
 imdb_type: "TV Series"
 imdb_creators: [{name: "Lauren Schmidt", link: "https://www.imdb.com/name/nm1274355/"}]
 imdb_image: "https://m.media-amazon.com/images/M/MV5BOGE4MmVjMDgtMzIzYy00NjEwLWJlODMtMDI1MGY2ZDlhMzE2XkEyXkFqcGdeQXVyMzY0MTE3NzU@._V1_UX182_CR0,0,182,268_AL_.jpg"

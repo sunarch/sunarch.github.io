@@ -27,7 +27,7 @@ imdb_year_finish: "1997"
 imdb_seasons: "4"
 imdb_episodes: "87"
 imdb_runtime: "46min"
-imdb_genre: "Adventure, Comedy, Drama"
+imdb_genre: ["Adventure", "Comedy", "Drama"]
 imdb_type: "TV Series"
 imdb_creators: [{name: "Deborah Joy LeVine", link: "https://www.imdb.com/name/nm0505788/"}, {name: "Joe Shuster", link: "https://www.imdb.com/name/nm0795975/"}, {name: "Jerry Siegel", link: "https://www.imdb.com/name/nm0796950/"}]
 imdb_image: "https://m.media-amazon.com/images/M/MV5BZTU1ZGFjNzEtZWYzZC00ZmI0LTg2NmMtN2YyNTY4YzhlODIyXkEyXkFqcGdeQXVyMjExMjk0ODk@._V1_UY268_CR8,0,182,268_AL_.jpg"

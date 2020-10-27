@@ -27,7 +27,7 @@ imdb_year_finish: "2010"
 imdb_seasons: "4"
 imdb_episodes: "78"
 imdb_runtime: "45min"
-imdb_genre: "Drama, Fantasy, Sci-Fi"
+imdb_genre: ["Drama", "Fantasy", "Sci-Fi"]
 imdb_type: "TV Series"
 imdb_creators: [{name: "Tim Kring", link: "https://www.imdb.com/name/nm0471352/?ref_=tt_ov_wr"}]
 imdb_image: "https://m.media-amazon.com/images/M/MV5BMjI3ODU0OTQ1MV5BMl5BanBnXkFtZTgwNzI0MTQ2MzE@._V1_UX182_CR0,0,182,268_AL_.jpg"

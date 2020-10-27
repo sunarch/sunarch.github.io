@@ -27,7 +27,7 @@ imdb_year_finish: "2017"
 imdb_seasons: "1"
 imdb_episodes: "502"
 imdb_runtime: "24min"
-imdb_genre: "Animation, Action, Adventure"
+imdb_genre: ["Animation", "Action", "Adventure"]
 imdb_type: "TV Series"
 imdb_creators: [{name: "Masashi Kishimoto", link: "https://www.imdb.com/name/nm1618263/"}]
 imdb_image: "https://m.media-amazon.com/images/M/MV5BMTE5NzIwMGUtYTE1MS00MDUxLTgyZjctOWVkZDAxM2M4ZWQ4XkEyXkFqcGdeQXVyNjc2NjA5MTU@._V1_UX182_CR0,0,182,268_AL_.jpg"

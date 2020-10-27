@@ -27,7 +27,7 @@ imdb_year_finish: "2020"
 imdb_seasons: "1"
 imdb_episodes: "10"
 imdb_runtime: "43min"
-imdb_genre: "Drama, Mystery, Thriller"
+imdb_genre: ["Drama", "Mystery", "Thriller"]
 imdb_type: "TV Series"
 imdb_creators: [{name: "Michael Petroni", link: "https://www.imdb.com/name/nm0678104/"}]
 imdb_image: "https://m.media-amazon.com/images/M/MV5BN2E2NzRmZmYtZmJlOC00NmJmLWE2NzktOGZlYzdjNTM0ZmI4XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_UX182_CR0,0,182,268_AL_.jpg"

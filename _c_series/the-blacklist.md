@@ -27,7 +27,7 @@ imdb_year_finish: "" # ongoing
 imdb_seasons: "8"
 imdb_episodes: "152"
 imdb_runtime: "43min"
-imdb_genre: "Crime, Drama, Mystery"
+imdb_genre: ["Crime", "Drama", "Mystery"]
 imdb_type: "TV Series"
 imdb_creators: [{name: "Jon Bokenkamp", link: "https://www.imdb.com/name/nm0092578/"}]
 imdb_image: "https://m.media-amazon.com/images/M/MV5BZDU1OGI3NWItZTliOS00OWYxLTliNDktYTFjODcxNmE1NTNmXkEyXkFqcGdeQXVyODUxOTU0OTg@._V1_UX182_CR0,0,182,268_AL_.jpg"

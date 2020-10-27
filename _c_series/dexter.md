@@ -27,7 +27,7 @@ imdb_year_finish: "2013"
 imdb_seasons: "8"
 imdb_episodes: "96"
 imdb_runtime: "53min"
-imdb_genre: "Crime, Drama, Mystery"
+imdb_genre: ["Crime", "Drama", "Mystery"]
 imdb_type: "TV Series"
 imdb_creators: [{name: "James Manos Jr.", link: "https://www.imdb.com/name/nm0543612/"}]
 imdb_image: "https://m.media-amazon.com/images/M/MV5BMTM5MjkwMTI0MV5BMl5BanBnXkFtZTcwODQwMTc0OQ@@._V1_UY268_CR7,0,182,268_AL_.jpg"

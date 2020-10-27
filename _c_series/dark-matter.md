@@ -27,7 +27,7 @@ imdb_year_finish: "2017"
 imdb_seasons: "3"
 imdb_episodes: "39"
 imdb_runtime: "42min"
-imdb_genre: "Adventure, Drama, Mystery"
+imdb_genre: ["Adventure", "Drama", "Mystery"]
 imdb_type: "TV Series"
 imdb_creators: [{name: "Joseph Mallozzi", link: "https://www.imdb.com/name/nm0540695/"}, {name: "Paul Mullie", link: "https://www.imdb.com/name/nm0612283/"}]
 imdb_image: "https://m.media-amazon.com/images/M/MV5BYjI5OGMxNzYtZmZiYS00NDI1LWI4NWMtOTZmNjY1MjMzZjExXkEyXkFqcGdeQXVyNTgxMjE3OTQ@._V1_UX182_CR0,0,182,268_AL_.jpg"

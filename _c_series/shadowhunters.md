@@ -26,7 +26,7 @@ imdb_year_finish: "2019"
 imdb_seasons: "3"
 imdb_episodes: "55"
 imdb_runtime: "42min"
-imdb_genre: "Action, Drama, Fantasy"
+imdb_genre: ["Action", "Drama", "Fantasy"]
 imdb_type: "TV Series"
 imdb_creators: [{name: "Ed Decter", link: "https://www.imdb.com/name/nm0214036/?ref_=tt_ov_wr"}]
 imdb_image: "https://m.media-amazon.com/images/M/MV5BNTU1N2ViZDctYzQwOS00ZDYyLThkMDItNmEwYTIyZTI4NGFhXkEyXkFqcGdeQXVyNTM1NDMwNDM@._V1_UY268_CR0,0,182,268_AL_.jpg"

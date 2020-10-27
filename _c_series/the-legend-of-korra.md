@@ -27,7 +27,7 @@ imdb_year_finish: "2014"
 imdb_seasons: "4"
 imdb_episodes: "52"
 imdb_runtime: "23min"
-imdb_genre: "Animation, Action, Adventure"
+imdb_genre: ["Animation", "Action", "Adventure"]
 imdb_type: "TV Series"
 imdb_creators: [{name: "Michael Dante DiMartino", link: "https://www.imdb.com/name/nm0227204/"}, {name: "Bryan Konietzko", link: "https://www.imdb.com/name/nm1665983/"}]
 imdb_image: "https://m.media-amazon.com/images/M/MV5BNTRmM2E5OWYtYmYzMi00MDRiLTg2ZTYtZGQyZTNhZDMxYTgzXkEyXkFqcGdeQXVyODUwNjEzMzg@._V1_UY268_CR0,0,182,268_AL_.jpg"

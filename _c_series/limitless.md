@@ -27,7 +27,7 @@ imdb_year_finish: "2016"
 imdb_seasons: "1"
 imdb_episodes: "22"
 imdb_runtime: "42min"
-imdb_genre: "Comedy, Crime, Drama"
+imdb_genre: ["Comedy", "Crime", "Drama"]
 imdb_type: "TV Series"
 imdb_creators: [{name: "Craig Sweeny", link: "https://www.imdb.com/name/nm1153843/?ref_=tt_ov_wr"}]
 imdb_image: "https://m.media-amazon.com/images/M/MV5BMTA4ODE4NjA5ODleQTJeQWpwZ15BbWU4MDUxMTQ0NTYx._V1_UX182_CR0,0,182,268_AL_.jpg"

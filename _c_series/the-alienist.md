@@ -27,7 +27,7 @@ imdb_year_finish: ""
 imdb_seasons: "2"
 imdb_episodes: "11"
 imdb_runtime: "1h"
-imdb_genre: "Drama, Mystery"
+imdb_genre: ["Drama", "Mystery"]
 imdb_type: "TV Series"
 imdb_creators: [{name: "", link: ""}] # -
 imdb_image: "https://m.media-amazon.com/images/M/MV5BMTAyMDg5NjYzNTZeQTJeQWpwZ15BbWU4MDA2MTczMjQz._V1_UY268_CR4,0,182,268_AL_.jpg"

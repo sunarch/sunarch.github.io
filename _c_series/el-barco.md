@@ -27,7 +27,7 @@ imdb_year_finish: "2013"
 imdb_seasons: "3"
 imdb_episodes: "44"
 imdb_runtime: "1h 15min"
-imdb_genre: "Adventure, Drama, Mystery"
+imdb_genre: ["Adventure", "Drama", "Mystery"]
 imdb_type: "TV Series"
 imdb_creators: [{name: "Iván Escobar", link: "https://www.imdb.com/name/nm2049884/"}, {name: "Álex Pina", link: "https://www.imdb.com/name/nm1210565/"}]
 imdb_image: "https://m.media-amazon.com/images/M/MV5BY2U4ZTYwMjgtZjRmNS00MzYwLWI2NmQtYmQ4YmE3MTcxOWE3XkEyXkFqcGdeQXVyMTA0MjU0Ng@@._V1_UY268_CR4,0,182,268_AL_.jpg"

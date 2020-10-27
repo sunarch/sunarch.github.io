@@ -27,7 +27,7 @@ imdb_year_finish: "" # ongoing?
 imdb_seasons: "1"
 imdb_episodes: "8"
 imdb_runtime: "1h"
-imdb_genre: "Action, Adventure, Fantasy"
+imdb_genre: ["Action", "Adventure", "Fantasy"]
 imdb_type: "TV Series"
 imdb_creators: [{name: "David Farr", link: "https://www.imdb.com/name/nm1016333/"}]
 imdb_image: "https://m.media-amazon.com/images/M/MV5BZmQ1YWY0ZmQtZTNmNi00NDE5LWE2MDktMjc5NjM4N2IxNTI4XkEyXkFqcGdeQXVyODQyNDI4ODg@._V1_UY268_CR0,0,182,268_AL_.jpg"

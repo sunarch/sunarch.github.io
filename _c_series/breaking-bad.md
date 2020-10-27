@@ -27,7 +27,7 @@ imdb_year_finish: "2013"
 imdb_seasons: "5"
 imdb_episodes: "62"
 imdb_runtime: "49min"
-imdb_genre: "Crime, Drama, Thriller"
+imdb_genre: ["Crime", "Drama", "Thriller"]
 imdb_type: "TV Series"
 imdb_creators: [{name: "Vince Gilligan", link: "https://www.imdb.com/name/nm0319213/"}]
 imdb_image: "https://m.media-amazon.com/images/M/MV5BMjhiMzgxZTctNDc1Ni00OTIxLTlhMTYtZTA3ZWFkODRkNmE2XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UY268_CR5,0,182,268_AL_.jpg"

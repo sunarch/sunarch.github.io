@@ -27,7 +27,7 @@ imdb_year_finish: "2010"
 imdb_seasons: "3"
 imdb_episodes: "78"
 imdb_runtime: "23min"
-imdb_genre: "Drama, Family, Fantasy"
+imdb_genre: ["Drama", "Family", "Fantasy"]
 imdb_type: "TV Series"
 imdb_creators: [{name: "Jonathan M. Shiff", link: "https://www.imdb.com/name/nm0793291/?ref_=tt_ov_wr"}]
 imdb_image: "https://m.media-amazon.com/images/M/MV5BNjUwZWFmMmUtM2U1Zi00NmQ2LThkOTYtNDAyODMyYWE4NDUxXkEyXkFqcGdeQXVyMjM2Mzk0MDk@._V1_UY268_CR4,0,182,268_AL_.jpg"

@@ -27,7 +27,7 @@ imdb_year_finish: "" # ongoing
 imdb_seasons: "3"
 imdb_episodes: "17"
 imdb_runtime: "45min"
-imdb_genre: "Comedy, Drama"
+imdb_genre: ["Comedy", "Drama"]
 imdb_type: "TV Series"
 imdb_creators: [{name: "Laurie Nunn", link: "https://www.imdb.com/name/nm5677403/"}]
 imdb_image: "https://m.media-amazon.com/images/M/MV5BZjgyMzFiMDgtNWNmMS00ZDEyLTkzYzgtMjMzZjk4YjhjZWUxXkEyXkFqcGdeQXVyNDg4MjkzNDk@._V1_UY268_CR16,0,182,268_AL_.jpg"

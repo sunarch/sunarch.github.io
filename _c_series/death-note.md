@@ -27,7 +27,7 @@ imdb_year_finish: "2007"
 imdb_seasons: "1"
 imdb_episodes: "37"
 imdb_runtime: "24min"
-imdb_genre: "Animation, Crime, Drama"
+imdb_genre: ["Animation", "Crime", "Drama"]
 imdb_type: "TV Series"
 imdb_creators: [{name: "", link: ""}] # -
 imdb_image: "https://m.media-amazon.com/images/M/MV5BODkzMjhjYTQtYmQyOS00NmZlLTg3Y2UtYjkzN2JkNmRjY2FhXkEyXkFqcGdeQXVyNTM4MDQ5MDc@._V1_UY268_CR1,0,182,268_AL_.jpg"

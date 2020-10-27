@@ -27,7 +27,7 @@ imdb_year_finish: "" # ongoing?
 imdb_seasons: "7"
 imdb_episodes: "137"
 imdb_runtime: "43min"
-imdb_genre: "Action, Adventure, Drama"
+imdb_genre: ["Action", "Adventure", "Drama"]
 imdb_type: "TV Series"
 imdb_creators: [{name: "Greg Berlanti", link: "https://www.imdb.com/name/nm0075528/"}, {name: "Geoff Johns", link: "https://www.imdb.com/name/nm0424315/"}, {name: "Andrew Kreisberg", link: "https://www.imdb.com/name/nm1132610/"}]
 imdb_image: "https://m.media-amazon.com/images/M/MV5BNTM4YThiMzktMDRlNi00NzAyLWI1YmQtNTdkMTNiN2Q0NzU1XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_UY268_CR16,0,182,268_AL_.jpg"

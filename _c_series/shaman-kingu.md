@@ -27,7 +27,7 @@ imdb_year_finish: "2005"
 imdb_seasons: "2"
 imdb_episodes: "78"
 imdb_runtime: "23min"
-imdb_genre: "Animation, Action, Adventure"
+imdb_genre: ["Animation", "Action", "Adventure"]
 imdb_type: "TV Series"
 imdb_creators: [{name: "", link: ""}] # -
 imdb_image: "https://m.media-amazon.com/images/M/MV5BYTk4OGY4MjgtYThiNy00OWExLWE2YzMtOTg4N2ExNmJjODk4XkEyXkFqcGdeQXVyMjc4OTQ1OTA@._V1_UY268_CR3,0,182,268_AL_.jpg"

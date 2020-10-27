@@ -27,7 +27,7 @@ imdb_year_finish: "2018"
 imdb_seasons: "6"
 imdb_episodes: "73"
 imdb_runtime: "51min"
-imdb_genre: "Drama"
+imdb_genre: ["Drama"]
 imdb_type: "TV Series"
 imdb_creators: [{name: "Beau Willimon", link: "https://www.imdb.com/name/nm2802722/"}]
 imdb_image: "https://m.media-amazon.com/images/M/MV5BODM1MDU2NjY5NF5BMl5BanBnXkFtZTgwMDkxNTcwNjM@._V1_UX182_CR0,0,182,268_AL_.jpg"

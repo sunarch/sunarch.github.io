@@ -27,7 +27,7 @@ imdb_year_finish: "" # ongoing?
 imdb_seasons: "6"
 imdb_episodes: "110"
 imdb_runtime: "43min"
-imdb_genre: "Action, Adventure, Drama"
+imdb_genre: ["Action", "Adventure", "Drama"]
 imdb_type: "TV Series"
 imdb_creators: [{name: "Ali Adler", link: "https://www.imdb.com/name/nm0012100/"}, {name: "Greg Berlanti", link: "https://www.imdb.com/name/nm0075528/"}, {name: "Andrew Kreisberg", link: "https://www.imdb.com/name/nm1132610/"}]
 imdb_image: "https://m.media-amazon.com/images/M/MV5BZGUxMDkwNTUtNTJlNC00ZWYxLWIxZjAtNjBmOTNkYjZjMTU0XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_UX182_CR0,0,182,268_AL_.jpg"

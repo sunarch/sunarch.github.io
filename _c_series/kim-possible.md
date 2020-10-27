@@ -27,7 +27,7 @@ imdb_year_finish: "2007"
 imdb_seasons: "4"
 imdb_episodes: "86"
 imdb_runtime: "30min"
-imdb_genre: "Animation, Action, Adventure"
+imdb_genre: ["Animation", "Action", "Adventure"]
 imdb_type: "TV Series"
 imdb_creators: [{name: "Mark McCorkle", link: "https://www.imdb.com/name/nm0566407/"}, {name: "Robert Schooley", link: "https://www.imdb.com/name/nm0774792/?ref_=tt_ov_wr"}]
 imdb_image: "https://m.media-amazon.com/images/M/MV5BODNkOWYwYjYtMWZhZS00NjdlLTg1YWEtMjNiMGFkYTgzNjZkXkEyXkFqcGdeQXVyNzMwOTY2NTI@._V1_UX182_CR0,0,182,268_AL_.jpg"

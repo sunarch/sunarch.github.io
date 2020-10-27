@@ -27,7 +27,7 @@ imdb_year_finish: "2006"
 imdb_seasons: "1"
 imdb_episodes: "26"
 imdb_runtime: "25min"
-imdb_genre: "Animation, Action, Adventure"
+imdb_genre: ["Animation", "Action", "Adventure"]
 imdb_type: "TV Series"
 imdb_creators: [{name: "Savin Yeatman-Eiffel", link: "https://www.imdb.com/name/nm1111368/"}]
 imdb_image: "https://m.media-amazon.com/images/M/MV5BMTQxMDEyNzAyOF5BMl5BanBnXkFtZTcwNjI1NDA1Ng@@._V1_UY268_CR3,0,182,268_AL_.jpg"

@@ -27,7 +27,7 @@ imdb_year_finish: "2013"
 imdb_seasons: "2"
 imdb_episodes: "25"
 imdb_runtime: "42min"
-imdb_genre: "Drama"
+imdb_genre: ["Drama"]
 imdb_type: "TV Series"
 imdb_creators: [{name: "Jordan Budde", link: "https://www.imdb.com/name/nm0118938/"}, {name: "Suzanne Martin", link: "https://www.imdb.com/name/nm0553104/"}]
 imdb_image: "https://m.media-amazon.com/images/M/MV5BMTU4NzI2NzY1OF5BMl5BanBnXkFtZTcwOTYyMDcwOQ@@._V1_UY268_CR1,0,182,268_AL_.jpg"

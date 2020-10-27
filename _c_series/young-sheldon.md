@@ -27,7 +27,7 @@ imdb_year_finish: "" # ongoing
 imdb_seasons: "4"
 imdb_episodes: "65"
 imdb_runtime: "30min"
-imdb_genre: "Comedy"
+imdb_genre: ["Comedy"]
 imdb_type: "TV Series"
 imdb_creators: [{name: "Steven Molaro", link: "https://www.imdb.com/name/nm0596429/"}, {name: "Chuck Lorre", link: "https://www.imdb.com/name/nm0521143/"}]
 imdb_image: "https://m.media-amazon.com/images/M/MV5BZDg3MGNhYjItZGU2Yi00MzU4LWE4NGUtYjA2OTVjNGUyMjE4XkEyXkFqcGdeQXVyNjg4NzAyOTA@._V1_UX182_CR0,0,182,268_AL_.jpg"

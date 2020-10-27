@@ -27,7 +27,7 @@ imdb_year_finish: "2010"
 imdb_seasons: "5"
 imdb_episodes: "107"
 imdb_runtime: "1h"
-imdb_genre: "Drama, Fantasy"
+imdb_genre: ["Drama", "Fantasy"]
 imdb_type: "TV Series"
 imdb_creators: [{name: "John Gray", link: "https://www.imdb.com/name/nm0336726/"}]
 imdb_image: "https://m.media-amazon.com/images/M/MV5BMTUzODQ0Nzg3OV5BMl5BanBnXkFtZTYwNDI0NDg2._V1_UY268_CR7,0,182,268_AL_.jpg"

@@ -27,7 +27,7 @@ imdb_year_finish: "" # ongoing
 imdb_seasons: "3"
 imdb_episodes: "21"
 imdb_runtime: "1h"
-imdb_genre: "Adventure, Drama, Family"
+imdb_genre: ["Adventure", "Drama", "Family"]
 imdb_type: "TV Series"
 imdb_creators: [{name: "Irwin Allen", link: "https://www.imdb.com/name/nm0000740/"}, {name: "Matt Sazama", link: "https://www.imdb.com/name/nm1948885/"}, {name: "Burk Sharpless", link: "https://www.imdb.com/name/nm2332952/"}]
 imdb_image: "https://m.media-amazon.com/images/M/MV5BYzZkOTY4MDgtODI5Mi00ZjA4LWJkODgtYzBiOGE3MWNhZWFmXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_UX182_CR0,0,182,268_AL_.jpg"

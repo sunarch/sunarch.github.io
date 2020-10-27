@@ -27,7 +27,7 @@ imdb_year_finish: "2016"
 imdb_seasons: "4"
 imdb_episodes: "61"
 imdb_runtime: "1h"
-imdb_genre: "Crime, Drama, Mystery"
+imdb_genre: ["Crime", "Drama", "Mystery"]
 imdb_type: "TV Series"
 imdb_creators: [{name: "John Bellucci", link: "https://www.imdb.com/name/nm0069257/"}, {name: "Ed Redlich", link: "https://www.imdb.com/name/nm0714959/"}]
 imdb_image: "https://m.media-amazon.com/images/M/MV5BMTYwMzU5NDM5Ml5BMl5BanBnXkFtZTcwMjkyOTYzNg@@._V1_UX182_CR0,0,182,268_AL_.jpg"

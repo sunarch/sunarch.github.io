@@ -27,7 +27,7 @@ imdb_year_finish: "2007"
 imdb_seasons: "1"
 imdb_episodes: "2220"
 imdb_runtime: "24min"
-imdb_genre: "Animation, Action, Adventure"
+imdb_genre: ["Animation", "Action", "Adventure"]
 imdb_type: "TV Series"
 imdb_creators: [{name: "Masashi Kishimoto", link: "https://www.imdb.com/name/nm1618263/"}]
 imdb_image: "https://m.media-amazon.com/images/M/MV5BZmQ5NGFiNWEtMmMyMC00MDdiLTg4YjktOGY5Yzc2MDUxMTE1XkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_UY268_CR0,0,182,268_AL_.jpg"

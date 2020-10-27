@@ -27,7 +27,7 @@ imdb_year_finish: "2014"
 imdb_seasons: "9"
 imdb_episodes: "208"
 imdb_runtime: "22min"
-imdb_genre: "Comedy, Romance"
+imdb_genre: ["Comedy", "Romance"]
 imdb_type: "TV Series"
 imdb_creators: [{name: "Carter Bays", link: "https://www.imdb.com/name/nm0063215/"}, {name: "Craig Thomas", link: "https://www.imdb.com/name/nm0858657/"}]
 imdb_image: "https://m.media-amazon.com/images/M/MV5BZWJjMDEzZjUtYWE1Yy00M2ZiLThlMmItODljNTAzODFiMzc2XkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_UX182_CR0,0,182,268_AL_.jpg"

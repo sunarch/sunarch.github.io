@@ -27,7 +27,7 @@ imdb_year_finish: "" # ongoing
 imdb_seasons: "6"
 imdb_episodes: "59"
 imdb_runtime: "48min"
-imdb_genre: "Comedy, Drama, Fantasy"
+imdb_genre: ["Comedy", "Drama", "Fantasy"]
 imdb_type: "TV Series"
 imdb_creators: [{name: "", link: ""}]
 imdb_image: "https://m.media-amazon.com/images/M/MV5BOTRlZDhjODUtMmFlOS00MzIwLThmNjAtNTY5ZjVlNzRlMTRlXkEyXkFqcGdeQXVyMTA0MDEwMTIw._V1_UX182_CR0,0,182,268_AL_.jpg"

@@ -27,7 +27,7 @@ imdb_year_finish: "" # ongoing?
 imdb_seasons: "3"
 imdb_episodes: "15"
 imdb_runtime: "1h"
-imdb_genre: "Adventure, History"
+imdb_genre: ["Adventure", "History"]
 imdb_type: "TV Series"
 imdb_creators: [{name: "", link: ""}] # -
 imdb_image: "https://m.media-amazon.com/images/M/MV5BY2VhNmYzYmItNGFhNS00YTQ3LTgxYjItNzU4N2Y0MTAwMWU4XkEyXkFqcGdeQXVyMjEzMzAyNDg@._V1_UY268_CR0,0,182,268_AL_.jpg"

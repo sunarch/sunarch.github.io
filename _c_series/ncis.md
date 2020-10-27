@@ -27,7 +27,7 @@ imdb_year_finish: "" # ongoing
 imdb_seasons: "17"
 imdb_episodes: "398"
 imdb_runtime: "1h"
-imdb_genre: "Action, Crime, Drama"
+imdb_genre: ["Action", "Crime", "Drama"]
 imdb_type: "TV Series"
 imdb_creators: [{name: "Donald P. Bellisario", link: "https://www.imdb.com/name/nm0069074/"}, {name: "Don McGill", link: "https://www.imdb.com/name/nm1453745/"}]
 imdb_image: "https://m.media-amazon.com/images/M/MV5BYjVlMjZhYzYtOGQxNC00OTQxLTk2NzEtMWFmMmNhODA4YjYzXkEyXkFqcGdeQXVyNjQ3MDgwNjY@._V1_UX182_CR0,0,182,268_AL_.jpg"

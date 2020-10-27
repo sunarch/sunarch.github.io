@@ -27,7 +27,7 @@ imdb_year_finish: "" # ongoing
 imdb_seasons: "2"
 imdb_episodes: "29"
 imdb_runtime: "43min"
-imdb_genre: "Drama, Mystery"
+imdb_genre: ["Drama", "Mystery"]
 imdb_type: "TV Series"
 imdb_creators: [{name: "Jeff Rake", link: "https://www.imdb.com/name/nm0707517/"}]
 imdb_image: "https://m.media-amazon.com/images/M/MV5BZGIxNDUzMDktYTg1ZC00OGRiLTliNWUtZmY4NTE0MDU0YWU4XkEyXkFqcGdeQXVyODUxOTU0OTg@._V1_UX182_CR0,0,182,268_AL_.jpg"

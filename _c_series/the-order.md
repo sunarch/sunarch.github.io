@@ -27,7 +27,7 @@ imdb_year_finish: "" # ongoing
 imdb_seasons: "2"
 imdb_episodes: "20"
 imdb_runtime: "1h"
-imdb_genre: "Drama, Fantasy, Horror"
+imdb_genre: ["Drama", "Fantasy", "Horror"]
 imdb_type: "TV Series"
 imdb_creators: [{name: "Dennis Heaton", link: "https://www.imdb.com/name/nm0372773/"}, {name: "Shelley Eriksen", link: "https://www.imdb.com/name/nm0259275/"}]
 imdb_image: "https://m.media-amazon.com/images/M/MV5BMzdlOWM4OWMtNTVjMC00MTk5LWEwODEtMmQ0ZWZkZjJjNzIxXkEyXkFqcGdeQXVyOTc3ODM5NTQ@._V1_UX182_CR0,0,182,268_AL_.jpg"

@@ -27,7 +27,7 @@ imdb_year_finish: "" # ongoing
 imdb_seasons: "1"
 imdb_episodes: "7"
 imdb_runtime: "30min"
-imdb_genre: "Comedy"
+imdb_genre: ["Comedy"]
 imdb_type: "TV Series"
 imdb_creators: [{name: "Jonathan Entwistle", link: "https://www.imdb.com/name/nm3536642/"}, {name: "Christy Hall", link: "https://www.imdb.com/name/nm8631159/"}]
 imdb_image: "https://m.media-amazon.com/images/M/MV5BMWM5YzhmNGMtZTI4Ny00MGM4LThkYjAtMDIyMTEwNTQyZmQ1XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_UX182_CR0,0,182,268_AL_.jpg"

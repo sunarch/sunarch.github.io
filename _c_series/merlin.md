@@ -27,7 +27,7 @@ imdb_year_finish: "2012"
 imdb_seasons: "5"
 imdb_episodes: "65"
 imdb_runtime: "45min"
-imdb_genre: "Adventure, Drama, Fantasy"
+imdb_genre: ["Adventure", "Drama", "Fantasy"]
 imdb_type: "TV Series"
 imdb_creators: [{name: "Johnny Capps", link: "https://www.imdb.com/name/nm0999606/"}, {name: "Julian Jones", link: "https://www.imdb.com/name/nm0428483/"}, {name: "Jake Michie", link: "https://www.imdb.com/name/nm2350239/"}, {name: "Julian Murphy", link: "https://www.imdb.com/name/nm0614414/"}]
 imdb_image: "https://m.media-amazon.com/images/M/MV5BZTBjYjM3ZjItZTI1MS00ODZhLWFhZDgtODgxMmMzN2JlOTExXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_UY268_CR1,0,182,268_AL_.jpg"

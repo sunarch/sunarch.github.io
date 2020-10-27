@@ -27,7 +27,7 @@ imdb_year_finish: "2007"
 imdb_seasons: "2"
 imdb_episodes: "16"
 imdb_runtime: "1h"
-imdb_genre: "Crime, Drama, Mystery"
+imdb_genre: ["Crime", "Drama", "Mystery"]
 imdb_type: "TV Series"
 imdb_creators: [{name: "Matthew Graham", link: "https://www.imdb.com/name/nm0334213/"}, {name: "Tony Jordan", link: "https://www.imdb.com/name/nm0430210/"}, {name: "Ashley Pharoah", link: "https://www.imdb.com/name/nm0679683/"}]
 imdb_image: "https://m.media-amazon.com/images/M/MV5BZTY4Zjg2YzQtNGNjNC00YjdhLWE3OTMtYTM3YjRmNjBkZDE0XkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_UY268_CR0,0,182,268_AL_.jpg"

@@ -27,7 +27,7 @@ imdb_year_finish: "2012"
 imdb_seasons: "16"
 imdb_episodes: "366"
 imdb_runtime: "24min"
-imdb_genre: "Animation, Action, Adventure"
+imdb_genre: ["Animation", "Action", "Adventure"]
 imdb_type: "TV Series"
 imdb_creators: [{name: "Tite Kubo", link: "https://www.imdb.com/name/nm1818197/"}]
 imdb_image: "https://m.media-amazon.com/images/M/MV5BZjE0YjVjODQtZGY2NS00MDcyLThhMDAtZGQwMTZiOWNmNjRiXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_UX182_CR0,0,182,268_AL_.jpg"

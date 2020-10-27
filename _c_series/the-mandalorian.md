@@ -27,7 +27,7 @@ imdb_year_finish: "" # ongoing
 imdb_seasons: "2"
 imdb_episodes: "9"
 imdb_runtime: "30min"
-imdb_genre: "Action, Adventure, Sci-Fi"
+imdb_genre: ["Action", "Adventure", "Sci-Fi"]
 imdb_type: "TV Series"
 imdb_creators: [{name: "Jon Favreau", link: "https://www.imdb.com/name/nm0269463/"}]
 imdb_image: "https://m.media-amazon.com/images/M/MV5BMWI0OTJlYTItNzMwZi00YzRiLWJhMjItMWRlMDNhZjNiMzJkXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_UX182_CR0,0,182,268_AL_.jpg"

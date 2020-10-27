@@ -27,7 +27,7 @@ imdb_year_finish: "2010"
 imdb_seasons: "6"
 imdb_episodes: "119"
 imdb_runtime: "43min"
-imdb_genre: "Crime, Drama, Mystery"
+imdb_genre: ["Crime", "Drama", "Mystery"]
 imdb_type: "TV Series"
 imdb_creators: [{name: "Nicolas Falacci", link: "https://www.imdb.com/name/nm0265826/"}, {name: "Cheryl Heuton", link: "https://www.imdb.com/name/nm1771424/"}]
 imdb_image: "https://m.media-amazon.com/images/M/MV5BMTkxMzY5NTY0Ml5BMl5BanBnXkFtZTcwMDcwOTM5MQ@@._V1_UY268_CR4,0,182,268_AL_.jpg"

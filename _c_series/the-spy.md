@@ -27,7 +27,7 @@ imdb_year_finish: "2019"
 imdb_seasons: "1"
 imdb_episodes: "6"
 imdb_runtime: "53min"
-imdb_genre: "Drama, History"
+imdb_genre: ["Drama", "History"]
 imdb_type: "TV Mini-Series"
 imdb_creators: [{name: "Gideon Raff", link: "https://www.imdb.com/name/nm1356268/"}]
 imdb_image: "https://m.media-amazon.com/images/M/MV5BM2ZmYjUxZDYtMmZlMi00YjlkLTkwNTItMjcxZDRlOTI3ZTNmXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_UX182_CR0,0,182,268_AL_.jpg"

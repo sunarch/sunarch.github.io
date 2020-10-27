@@ -27,7 +27,7 @@ imdb_year_finish: "" # ongoing
 imdb_seasons: "2"
 imdb_episodes: "23"
 imdb_runtime: "30min"
-imdb_genre: "Animation, Action, Adventure"
+imdb_genre: ["Animation", "Action", "Adventure"]
 imdb_type: "TV Series"
 imdb_creators: [{name: "Olan Rogers", link: "https://www.imdb.com/name/nm4541465/"}, {name: "David Sacks", link: "https://www.imdb.com/name/nm0755293/"}]
 imdb_image: "https://m.media-amazon.com/images/M/MV5BZWMwNTRiNWUtNzgxZC00NmYzLTgwZjUtODA5YjRlYjY0ZTVhXkEyXkFqcGdeQXVyODQyNDU2MTU@._V1_UX182_CR0,0,182,268_AL_.jpg"

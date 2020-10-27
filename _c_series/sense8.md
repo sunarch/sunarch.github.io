@@ -27,7 +27,7 @@ imdb_year_finish: "2018"
 imdb_seasons: "2"
 imdb_episodes: "24"
 imdb_runtime: "1h"
-imdb_genre: "Drama, Mystery, Sci-Fi"
+imdb_genre: ["Drama", "Mystery", "Sci-Fi"]
 imdb_type: "TV Series"
 imdb_creators: [{name: "J. Michael Straczynski", link: "https://www.imdb.com/name/nm0833089/"}, {name: "Lana Wachowski", link: "https://www.imdb.com/name/nm0905154/"}, {name: "Lilly Wachowski", link: "https://www.imdb.com/name/nm0905152/"}]
 imdb_image: "https://m.media-amazon.com/images/M/MV5BMjA4MTEyMzcwMl5BMl5BanBnXkFtZTgwMTIwODczNTM@._V1_UX182_CR0,0,182,268_AL_.jpg"

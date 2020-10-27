@@ -27,7 +27,7 @@ imdb_year_finish: "2020"
 imdb_seasons: "15"
 imdb_episodes: "323"
 imdb_runtime: "42min"
-imdb_genre: "Crime, Drama, Mystery"
+imdb_genre: ["Crime", "Drama", "Mystery"]
 imdb_type: "TV Series"
 imdb_creators: [{name: "Jeff Davis", link: "https://www.imdb.com/name/nm1471491/"}]
 imdb_image: "https://m.media-amazon.com/images/M/MV5BNGE2ZmFkZTYtNjRiOS00ZjE3LThjOWMtZTViZjRmNDFjNTQwXkEyXkFqcGdeQXVyNjg4NzAyOTA@._V1_UX182_CR0,0,182,268_AL_.jpg"

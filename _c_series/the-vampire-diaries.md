@@ -27,7 +27,7 @@ imdb_year_finish: "2017"
 imdb_seasons: "8"
 imdb_episodes: "171"
 imdb_runtime: "43min"
-imdb_genre: "Drama, Fantasy, Horror"
+imdb_genre: ["Drama", "Fantasy", "Horror"]
 imdb_type: "TV Series"
 imdb_creators: [{name: "Julie Plec", link: "https://www.imdb.com/name/nm0687096/"}, {name: "Kevin Williamson", link: "https://www.imdb.com/name/nm0932078/"}]
 imdb_image: "https://m.media-amazon.com/images/M/MV5BMDk3YzgxNDQtNTEzOS00NDMyLWFlYmYtYTZlMDk1NDkxNmMyXkEyXkFqcGdeQXVyNzA5NjUyNjM@._V1_UY268_CR0,0,182,268_AL_.jpg"

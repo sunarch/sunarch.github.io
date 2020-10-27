@@ -27,7 +27,7 @@ imdb_year_finish: "2020"
 imdb_seasons: "4"
 imdb_episodes: "50"
 imdb_runtime: "22min"
-imdb_genre: "Comedy, Drama, Fantasy"
+imdb_genre: ["Comedy", "Drama", "Fantasy"]
 imdb_type: "TV Series"
 imdb_creators: [{name: "Michael Schur", link: "https://www.imdb.com/name/nm1321658/"}]
 imdb_image: "https://m.media-amazon.com/images/M/MV5BYmMxNjM0NmItNGU1Mi00OGMwLTkzMzctZmE3YjU1ZDE4NmFjXkEyXkFqcGdeQXVyODUxOTU0OTg@._V1_UX182_CR0,0,182,268_AL_.jpg"

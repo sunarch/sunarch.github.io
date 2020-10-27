@@ -27,7 +27,7 @@ imdb_year_finish: "" # ongoing
 imdb_seasons: "8"
 imdb_episodes: "152"
 imdb_runtime: "30min"
-imdb_genre: "Comedy, Drama, Romance"
+imdb_genre: ["Comedy", "Drama", "Romance"]
 imdb_type: "TV Series"
 imdb_creators: [{name: "Gemma Baker", link: "https://www.imdb.com/name/nm0743048/"}, {name: "Eddie Gorodetsky", link: "https://www.imdb.com/name/nm0331212/"}, {name: "Chuck Lorre", link: "https://www.imdb.com/name/nm0521143/"}]
 imdb_image: "https://m.media-amazon.com/images/M/MV5BNWI0ZjU4MzUtMTdmMy00OWVkLThhNWItNzQ4NDEyNTBiY2ZjXkEyXkFqcGdeQXVyNjg4NzAyOTA@._V1_UX182_CR0,0,182,268_AL_.jpg"

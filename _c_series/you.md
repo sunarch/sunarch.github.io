@@ -27,7 +27,7 @@ imdb_year_finish: "" # ongoing
 imdb_seasons: "3"
 imdb_episodes: "21"
 imdb_runtime: "45min"
-imdb_genre: "Crime, Drama, Romance"
+imdb_genre: ["Crime", "Drama", "Romance"]
 imdb_type: "TV Series"
 imdb_creators: [{name: "Sera Gamble", link: "https://www.imdb.com/name/nm1571148/"}, {name: "Greg Berlanti", link: "https://www.imdb.com/name/nm0075528/"}]
 imdb_image: "https://m.media-amazon.com/images/M/MV5BZDJjOTg4OWYtYWIyOS00MjQ3LTg5ZDktYzU2N2RkNmYzNjZlXkEyXkFqcGdeQXVyMzQ2MDI5NjU@._V1_UY268_CR1,0,182,268_AL_.jpg"

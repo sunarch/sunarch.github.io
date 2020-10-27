@@ -27,7 +27,7 @@ imdb_year_finish: "2006"
 imdb_seasons: "2"
 imdb_episodes: "52"
 imdb_runtime: "30min"
-imdb_genre: "Animation, Short, Action"
+imdb_genre: ["Animation", "Short", "Action"]
 imdb_type: "TV Series"
 imdb_creators: [{name: "", link: ""}] # -
 imdb_image: "https://m.media-amazon.com/images/M/MV5BMjYwYTc4N2EtODkwNC00N2EwLTk2MDEtYjY5MWRmZDBkZjM0XkEyXkFqcGdeQXVyNTI2NTY2MDI@._V1_UY268_CR7,0,182,268_AL_.jpg"
