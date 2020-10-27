@@ -12,7 +12,7 @@ file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 [< knowledgebase](knowledgebase.md)
 
-# current
+# used
 
 ## MPL-2.0
 
@@ -35,6 +35,17 @@ This Source Code Form is subject to the terms of the Mozilla Public
 License, v. 2.0. If a copy of the MPL was not distributed with this
 file, You can obtain one at http://mozilla.org/MPL/2.0/.
 ```
+
+## CC-BY-SA-4.0
+
+Creative Commons Attribution Share Alike 4.0 International
+
+- [Creative Commons (main)](https://creativecommons.org/licenses/by-sa/4.0/)
+- [Creative Commons (text)](https://creativecommons.org/licenses/by-sa/4.0/legalcode)
+- [SPDX](https://spdx.org/licenses/CC-BY-SA-4.0.html)
+- [Choose a License](https://choosealicense.com/licenses/cc-by-sa-4.0/)
+- [TLDRLegal](https://tldrlegal.com/license/creative-commons-attribution-sharealike-4.0-international-(cc-by-sa-4.0))
+- [GNU License List](https://www.gnu.org/licenses/license-list.html#ccbysa)
 
 # previous
 
