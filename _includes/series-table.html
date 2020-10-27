@@ -56,8 +56,7 @@ file, You can obtain one at http://mozilla.org/MPL/2.0/.
             <td>
                 <span>{{ series.imdb_runtime }}</span>
                 <span style="margin-left: 5pt; margin-right: 5pt;">|</span>
-                {% assign top_index_genres = (series.imdb_genre.size - 1) %}
-                <span>{% for i in (0..top_index_genres) %}{{ series.imdb_genre[i] }}{% if i != top_index_genres %}, {% endif %}{% endfor %}</span>
+                <span>{% for genre in series.imdb_genre %}{{ genre }}{% if genre != series.imdb_genre.last %}, {% endif %}{% endfor %}</span>
             </td>
         </tr>
         <tr>
