@@ -12,14 +12,14 @@ file, You can obtain one at http://mozilla.org/MPL/2.0/.
 ## web-projects
 
 - [knowledgebase](knowledgebase/knowledgebase.md)
-- [catalog](catalog/index.md)
-- [quiz](quiz/index.md)
-- [tools](tools/index.md)
+- [catalog](catalog/catalog.md)
+- [quiz](quiz/quiz.md)
+- [tools](tools/tools.md)
 
 ### planned
 
-- [physics](physics/index.md)
-- [nutrition](nutrition/index.md)
+- [physics](physics/physics.md)
+- [nutrition](nutrition/nutrition.md)
 
 ## projects
 
@@ -29,6 +29,6 @@ file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 - [ideas](ideas/ideas.md)
 
-## contributing
+## separated projects
 
-- [Filozófia](https://filozofia.github.io)
+- [filozófia](https://filozofia.github.io)
