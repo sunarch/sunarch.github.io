@@ -7,13 +7,16 @@ file, You can obtain one at http://mozilla.org/MPL/2.0/.
 <tbody>
 {% assign display_row = false %}
 {% assign table_row_counter = 0 %}
+
 {% if include.type == "interested" %}
     {% assign data_source = site.data.series-interested %}
 {% else %}
     {% assign data_source = site.series %}
 {% endif %}
+
 {% for series in data_source %}
     {% assign display_row = false %}
+
     {% case include.type %}
         {% when "category" %}
             {% if series.d_sort_category == include.sort_category %}
@@ -32,6 +35,7 @@ file, You can obtain one at http://mozilla.org/MPL/2.0/.
         {% else %}
             {% assign display_row = false %}
     {% endcase %}
+
     {% if display_row == true %}
         {% assign table_row_counter = table_row_counter | plus: 1 %}
         <tr>

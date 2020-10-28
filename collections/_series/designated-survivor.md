@@ -19,10 +19,10 @@ d_available_subtitle:
 d_sort_level: "other"
 d_sort_category: "live-action"
 
-d_watch_status: ""
-d_watch_done_seasons: ""
-d_watch_done_episodes: ""
-d_watch_done_comment: ""
+d_watch_status: "followed"
+d_watch_done_seasons: "01" # one
+d_watch_done_episodes: "01" # one
+d_watch_done_comment: "one"
 
 d_air_status: "ended"
 d_air_season: "season 03" # three
