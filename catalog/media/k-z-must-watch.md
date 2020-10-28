@@ -10,7 +10,7 @@ License, v. 2.0. If a copy of the MPL was not distributed with this
 file, You can obtain one at http://mozilla.org/MPL/2.0/.
 -->
 
-[< media](index.md)
+[< media](media.md)
 
 [Birdman]: https://m.media-amazon.com/images/M/MV5BODAzNDMxMzAxOV5BMl5BanBnXkFtZTgwMDMxMjA4MjE@._V1_UX182_CR0,0,182,268_AL_.jpg "Birdman or (The Unexpected Virtue of Ignorance)"
 [Children of Men]: https://m.media-amazon.com/images/M/MV5BMTQ5NTI2NTI4NF5BMl5BanBnXkFtZTcwNjk2NDA2OQ@@._V1_UX182_CR0,0,182,268_AL_.jpg "Children of Men"
