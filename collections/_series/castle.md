@@ -38,7 +38,7 @@ imdb_genre: ["Comedy", "Crime", "Drama"]
 imdb_type: "TV Series"
 imdb_creators: [{name: "Andrew W. Marlowe", link: "https://www.imdb.com/name/nm0549256/"}]
 imdb_image: "https://m.media-amazon.com/images/M/MV5BMjM2NjU0ODU0NF5BMl5BanBnXkFtZTgwMDAwMzg5NjE@._V1_UX182_CR0,0,182,268_AL_.jpg"
-imdb_summary: "After a serial killer imitates the plots of his novels, successful mystery novelist Richard "Rick" Castle receives permission from the Mayor of New York City to tag along with an NYPD homicide investigation team for research purposes."
+imdb_summary: "After a serial killer imitates the plots of his novels, successful mystery novelist Richard \"Rick\" Castle receives permission from the Mayor of New York City to tag along with an NYPD homicide investigation team for research purposes."
 
 wikipedia_link: ""
 ---

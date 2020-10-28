@@ -38,7 +38,7 @@ imdb_genre: ["Animation", "Comedy", "Drama"]
 imdb_type: "TV Series"
 imdb_creators: [{name: "Raphael Bob-Waksberg", link: "https://www.imdb.com/name/nm4369688/?ref_=tt_ov_wr"}]
 imdb_image: "https://m.media-amazon.com/images/M/MV5BYWQwMDNkM2MtODU4OS00OTY3LTgwOTItNjE2Yzc0MzRkMDllXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_UX182_CR0,0,182,268_AL_.jpg"
-imdb_summary: "BoJack Horseman was the star of the hit television show "Horsin' Around" in the '80s and '90s, now he's washed up, living in Hollywood, complaining about everything, and wearing colorful sweaters."
+imdb_summary: "BoJack Horseman was the star of the hit television show \"Horsin' Around\" in the '80s and '90s, now he's washed up, living in Hollywood, complaining about everything, and wearing colorful sweaters."
 
 wikipedia_link: ""
 ---

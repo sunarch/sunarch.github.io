@@ -38,7 +38,7 @@ imdb_genre: ["Comedy"]
 imdb_type: "TV Series"
 imdb_creators: [{name: "Heather Rutman", link: "https://www.imdb.com/name/nm1196241/"}]
 imdb_image: "https://m.media-amazon.com/images/M/MV5BMjA1MzcwMTc5OF5BMl5BanBnXkFtZTgwNDY2NzQwMjE@._V1_UX182_CR0,0,182,268_AL_.jpg"
-imdb_summary: "Sick of getting screwed, Sam and Lizzie decide to take their dating life into their own hands, following the rules they find in "The Girl's Guide to Depravity". Not just your average single girl's handbook, the girls take on Chicago well-armed to navigate life between bar stools and bed sheets. Rule #17: Don't cry, make him cry. Rule #12: The best way to get over a guy is to get underneath another guy. And rule #9: Always be the bigger bitch. Everything a girl needs to stay protected against finding love. But what about when love finds you?"
+imdb_summary: "Sick of getting screwed, Sam and Lizzie decide to take their dating life into their own hands, following the rules they find in \"The Girl's Guide to Depravity\". Not just your average single girl's handbook, the girls take on Chicago well-armed to navigate life between bar stools and bed sheets. Rule #17: Don't cry, make him cry. Rule #12: The best way to get over a guy is to get underneath another guy. And rule #9: Always be the bigger bitch. Everything a girl needs to stay protected against finding love. But what about when love finds you?"
 
 wikipedia_link: ""
 ---
