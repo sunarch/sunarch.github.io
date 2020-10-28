@@ -16,6 +16,8 @@ file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 [< catalog](../catalog.md)
 
+- [series tags](tags-series.md)
+
 ## series
 
 ### collections
