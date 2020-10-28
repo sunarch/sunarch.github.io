@@ -5,7 +5,8 @@ permalink: "/catalog/media/series/list/izombie"
 
 title: "iZombie"
 
-d_type: "CW"
+d_source:
+  - "CW"
 d_available: "Netflix"
 
 d_sort_level: "other"

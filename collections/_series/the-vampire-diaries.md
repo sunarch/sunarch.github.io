@@ -5,7 +5,8 @@ permalink: "/catalog/media/series/list/the-vampire-diaries"
 
 title: "The Vampire Diaries"
 
-d_type: ""
+d_source:
+  - ""
 d_available: ""
 
 d_sort_level: "other"

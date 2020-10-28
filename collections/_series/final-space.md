@@ -5,7 +5,9 @@ permalink: "/catalog/media/series/list/final-space"
 
 title: "Final Space"
 
-d_type: "TBS - Netflix exclusive int'l distribution"
+d_source:
+  - "TBS"
+  - "Netflix exclusive int'l distribution"
 d_available: "Netflix"
 
 d_sort_level: "other"

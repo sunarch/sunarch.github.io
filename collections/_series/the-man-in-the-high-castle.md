@@ -5,7 +5,8 @@ permalink: "/catalog/media/series/list/the-man-in-the-high-castle"
 
 title: "The Man in the High Castle"
 
-d_type: "Amazon Prime Original"
+d_source:
+  - "Amazon Prime Original"
 d_available: "Amazon Prime"
 
 d_sort_level: "second"

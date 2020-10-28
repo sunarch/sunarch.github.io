@@ -5,7 +5,8 @@ permalink: "/catalog/media/series/list/wu-assassins"
 
 title: "Wu Assassins"
 
-d_type: ""
+d_source:
+  - ""
 d_available: "Netflix"
 
 d_sort_level: "other"

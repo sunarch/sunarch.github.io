@@ -5,7 +5,8 @@ permalink: "/catalog/media/series/list/sherlock"
 
 title: "Sherlock"
 
-d_type: "BBC"
+d_source:
+  - "BBC"
 d_available: "Netflix"
 
 d_sort_level: "second"

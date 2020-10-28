@@ -5,7 +5,8 @@ permalink: "/catalog/media/series/list/disenchantment"
 
 title: "Disenchantment"
 
-d_type: "Netflix Original (Animation)"
+d_source:
+  - "Netflix Original (Animation)"
 d_available: "Netflix"
 
 d_sort_level: "other"

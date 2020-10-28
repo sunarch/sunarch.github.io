@@ -49,7 +49,7 @@ file, You can obtain one at http://mozilla.org/MPL/2.0/.
         </header>
 
         <main id="content" class="main-content" role="main">
-        
+
             <p>
                 <a href="/catalog/media/series/category/all">&lt; all series</a>
             </p>
@@ -104,7 +104,7 @@ file, You can obtain one at http://mozilla.org/MPL/2.0/.
             </table>
 
             <h2>status</h2>
-            
+
             <table style="display: table; width: 100%;">
                 <tbody>
                     <tr>
@@ -113,14 +113,14 @@ file, You can obtain one at http://mozilla.org/MPL/2.0/.
                     </tr>
                 </tbody>
             </table>
-            
+
             <h2>general</h2>
-          
+
             <table style="display: table; width: 100%;">
                 <tbody>
                     <tr>
-                        <td>type</td>
-                        <td>{{ page.d_type }}</td>
+                        <td>source</td>
+                        <td>{% for source in page.d_source %}{{ source }}{% if source != page.d_source.last %}, {% endif %}{% endfor %}</td>
                     </tr>
                     <tr>
                         <td>availablity</td>
@@ -128,9 +128,9 @@ file, You can obtain one at http://mozilla.org/MPL/2.0/.
                     </tr>
                 </tbody>
             </table>
-            
+
             <h2>personal</h2>
-            
+
             <table style="display: table; width: 100%;">
                 <tbody>
                     <tr>

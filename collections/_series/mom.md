@@ -5,7 +5,8 @@ permalink: "/catalog/media/series/list/mom"
 
 title: "Mom"
 
-d_type: "CBS"
+d_source:
+  - "CBS"
 d_available: ""
 
 d_sort_level: "second"

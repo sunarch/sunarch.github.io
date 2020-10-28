@@ -5,7 +5,8 @@ permalink: "/catalog/media/series/list/the-good-place"
 
 title: "The Good Place"
 
-d_type: "NBC"
+d_source:
+  - "NBC"
 d_available: "Netflix"
 
 d_sort_level: "second"

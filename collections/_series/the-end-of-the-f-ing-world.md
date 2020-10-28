@@ -5,7 +5,9 @@ permalink: "/catalog/media/series/list/the-end-of-the-f-ing-world"
 
 title: "The End of the F***ing World"
 
-d_type: "Channel 4 / Netflix"
+d_source:
+  - "Channel 4"
+  - "Netflix"
 d_available: "Netflix"
 
 d_sort_level: "other"

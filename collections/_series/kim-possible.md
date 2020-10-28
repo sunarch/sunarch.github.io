@@ -5,7 +5,8 @@ permalink: "/catalog/media/series/list/kim-possible"
 
 title: "Kim Possible"
 
-d_type: ""
+d_source:
+  - ""
 d_available: ""
 
 d_sort_level: "other"

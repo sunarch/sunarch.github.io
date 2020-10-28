@@ -5,7 +5,8 @@ permalink: "/catalog/media/series/list/dexter"
 
 title: "Dexter"
 
-d_type: "Showtime"
+d_source:
+  - "Showtime"
 d_available: ""
 
 d_sort_level: "other"

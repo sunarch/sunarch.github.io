@@ -5,7 +5,8 @@ permalink: "/catalog/media/series/list/the-flash"
 
 title: "The Flash"
 
-d_type: "CW"
+d_source:
+  - "CW"
 d_available: ""
 
 d_sort_level: "other"

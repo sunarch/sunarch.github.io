@@ -5,7 +5,8 @@ permalink: "/catalog/media/series/list/breaking-bad"
 
 title: "Breaking Bad"
 
-d_type: ""
+d_source:
+  - ""
 d_available: ""
 
 d_sort_level: "second"

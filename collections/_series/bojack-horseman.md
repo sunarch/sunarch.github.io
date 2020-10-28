@@ -5,7 +5,8 @@ permalink: "/catalog/media/series/list/bojack-horseman"
 
 title: "BoJack Horseman"
 
-d_type: "Netflix Original (Animation - Adult animation)"
+d_source:
+  - "Netflix Original (Animation - Adult animation)"
 d_available: "Netflix"
 
 d_sort_level: "second"

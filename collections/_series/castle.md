@@ -5,7 +5,8 @@ permalink: "/catalog/media/series/list/castle"
 
 title: "Castle"
 
-d_type: "abc"
+d_source:
+  - "abc"
 d_available: ""
 
 d_sort_level: "second"

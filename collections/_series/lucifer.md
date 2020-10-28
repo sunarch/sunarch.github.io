@@ -5,7 +5,9 @@ permalink: "/catalog/media/series/list/lucifer"
 
 title: "Lucifer"
 
-d_type: "Fox (S01-03), Netflix continuation"
+d_source:
+  - "Fox (S01-03)"
+  - "Netflix continuation"
 d_available: "Netflix"
 
 d_sort_level: "second"

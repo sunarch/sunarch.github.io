@@ -5,7 +5,8 @@ permalink: "/catalog/media/series/list/life-on-mars"
 
 title: "Life on Mars"
 
-d_type: ""
+d_source:
+  - ""
 d_available: ""
 
 d_sort_level: "other"

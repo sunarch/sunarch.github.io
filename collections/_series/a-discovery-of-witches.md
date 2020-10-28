@@ -5,7 +5,8 @@ permalink: "/catalog/media/series/list/a-discovery-of-witches"
 
 title: "A Discovery of Witches"
 
-d_type: "Sky One"
+d_source:
+  - "Sky One"
 d_available: "HBO GO"
 
 d_sort_level: "other"

@@ -5,7 +5,8 @@ permalink: "/catalog/media/series/list/w-i-t-c-h"
 
 title: "W.I.T.C.H."
 
-d_type: ""
+d_source:
+  - ""
 d_available: ""
 
 d_sort_level: "second"

@@ -5,7 +5,8 @@ permalink: "/catalog/media/series/list/ncis"
 
 title: "NCIS: Naval Criminal Investigative Service"
 
-d_type: ""
+d_source:
+  - ""
 d_available: ""
 
 d_sort_level: "second"

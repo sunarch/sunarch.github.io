@@ -5,7 +5,8 @@ permalink: "/catalog/media/series/list/the-girls-guide-to-depravity"
 
 title: "The Girl's Guide to Depravity"
 
-d_type: ""
+d_source:
+  - ""
 d_available: ""
 
 d_sort_level: "other"

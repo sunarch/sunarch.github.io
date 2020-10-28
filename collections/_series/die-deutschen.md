@@ -5,7 +5,8 @@ permalink: "/catalog/media/series/list/die-deutschen"
 
 title: "Die Deutschen"
 
-d_type: "ZDF"
+d_source:
+  - "ZDF"
 d_available: ""
 
 d_sort_level: "documentary"

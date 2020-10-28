@@ -5,7 +5,8 @@ permalink: "/catalog/media/series/list/game-of-thrones"
 
 title: "Game of Thrones"
 
-d_type: "HBO"
+d_source:
+  - "HBO"
 d_available: "HBO GO"
 
 d_sort_level: "second"

@@ -5,7 +5,8 @@ permalink: "/catalog/media/series/list/once-upon-a-time"
 
 title: "Once Upon a Time"
 
-d_type: "abc"
+d_source:
+  - "abc"
 d_available: ""
 
 d_sort_level: "other"

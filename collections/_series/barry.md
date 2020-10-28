@@ -5,7 +5,8 @@ permalink: "/catalog/media/series/list/barry"
 
 title: "Barry"
 
-d_type: "HBO"
+d_source:
+  - "HBO"
 d_available: "HBO GO"
 
 d_sort_level: "other"

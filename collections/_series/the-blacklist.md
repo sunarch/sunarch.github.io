@@ -5,7 +5,8 @@ permalink: "/catalog/media/series/list/the-blacklist"
 
 title: "The Blacklist"
 
-d_type: "NBC"
+d_source:
+  - "NBC"
 d_available: "Netflix"
 
 d_sort_level: "other"

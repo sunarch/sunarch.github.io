@@ -5,7 +5,8 @@ permalink: "/catalog/media/series/list/westworld"
 
 title: "Westworld"
 
-d_type: "HBO"
+d_source:
+  - "HBO"
 d_available: "HBO GO"
 
 d_sort_level: "second"

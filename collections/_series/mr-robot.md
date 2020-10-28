@@ -5,7 +5,8 @@ permalink: "/catalog/media/series/list/mr-robot"
 
 title: "Mr. Robot"
 
-d_type: "usa"
+d_source:
+  - "usa"
 d_available: "HBO GO"
 
 d_sort_level: "second"

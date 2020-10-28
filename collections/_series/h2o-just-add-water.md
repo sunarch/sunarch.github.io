@@ -5,7 +5,8 @@ permalink: "/catalog/media/series/list/h2o-just-add-water"
 
 title: "H2O: Just Add Water"
 
-d_type: ""
+d_source:
+  - ""
 d_available: ""
 
 d_sort_level: "other"

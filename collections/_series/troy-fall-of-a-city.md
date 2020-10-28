@@ -5,7 +5,8 @@ permalink: "/catalog/media/series/list/troy-fall-of-a-city"
 
 title: "Troy: Fall of a City"
 
-d_type: "BBC"
+d_source:
+  - "BBC"
 d_available: ""
 
 d_sort_level: "other"

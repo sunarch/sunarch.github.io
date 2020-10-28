@@ -5,7 +5,10 @@ permalink: "/catalog/media/series/list/you"
 
 title: "You"
 
-d_type: "Lifetime (Netflix exclusive int’l distr.), Netflix Continuation (S2)"
+d_source:
+  - "Lifetime"
+  - "Netflix exclusive int’l distribution"
+  - "Netflix Continuation (S2)"
 d_available: "Netflix"
 
 d_sort_level: "other"

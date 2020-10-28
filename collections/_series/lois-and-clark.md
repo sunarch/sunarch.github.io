@@ -5,7 +5,8 @@ permalink: "/catalog/media/series/list/lois-and-clark"
 
 title: "Lois & Clark: The New Adventures of Superman"
 
-d_type: ""
+d_source:
+  - ""
 d_available: ""
 
 d_sort_level: "other"

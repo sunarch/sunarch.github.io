@@ -5,7 +5,8 @@ permalink: "/catalog/media/series/list/arrow"
 
 title: "Arrow"
 
-d_type: "CW"
+d_source:
+  - "CW"
 d_available: ""
 
 d_sort_level: "other"

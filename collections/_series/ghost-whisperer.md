@@ -5,7 +5,8 @@ permalink: "/catalog/media/series/list/ghost-whisperer"
 
 title: "Ghost Whisperer"
 
-d_type: ""
+d_source:
+  - ""
 d_available: ""
 
 d_sort_level: "other"

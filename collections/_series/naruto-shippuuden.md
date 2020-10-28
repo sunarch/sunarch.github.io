@@ -5,7 +5,8 @@ permalink: "/catalog/media/series/list/naruto-shippuuden"
 
 title: "Naruto: Shippûden"
 
-d_type: ""
+d_source:
+  - ""
 d_available: "Crunchyroll"
 
 d_sort_level: "second"

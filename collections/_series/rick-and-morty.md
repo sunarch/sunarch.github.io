@@ -5,7 +5,8 @@ permalink: "/catalog/media/series/list/rick-and-morty"
 
 title: "Rick and Morty"
 
-d_type: "Adult Swim"
+d_source:
+  - "Adult Swim"
 d_available: "Netflix"
 
 d_sort_level: "second"

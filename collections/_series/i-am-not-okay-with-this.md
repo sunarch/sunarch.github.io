@@ -5,7 +5,8 @@ permalink: "/catalog/media/series/list/i-am-not-okay-with-this"
 
 title: "I Am Not Okay With This"
 
-d_type: "Netflix Original (Comedy)"
+d_source:
+  - "Netflix Original (Comedy)"
 d_available: "Netflix"
 
 d_sort_level: "other"

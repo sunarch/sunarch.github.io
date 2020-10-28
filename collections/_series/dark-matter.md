@@ -5,7 +5,8 @@ permalink: "/catalog/media/series/list/dark-matter"
 
 title: "Dark Matter"
 
-d_type: "SyFy"
+d_source:
+  - "SyFy"
 d_available: ""
 
 d_sort_level: "second"

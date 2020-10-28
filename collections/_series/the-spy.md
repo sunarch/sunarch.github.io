@@ -5,7 +5,9 @@ permalink: "/catalog/media/series/list/the-spy"
 
 title: "The Spy"
 
-d_type: "Netflix / Canal+ (France)"
+d_source:
+  - "Netflix"
+  - "Canal+ (France)"
 d_available: "Netflix"
 
 d_sort_level: "second"

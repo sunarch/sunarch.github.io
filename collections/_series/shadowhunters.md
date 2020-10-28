@@ -5,7 +5,8 @@ permalink: "/catalog/media/series/list/shadowhunters"
 
 title: "Shadowhunters: The Mortal Instruments"
 
-d_type: ""
+d_source:
+  - ""
 d_available: "Netflix"
 
 d_sort_category: "live-action"

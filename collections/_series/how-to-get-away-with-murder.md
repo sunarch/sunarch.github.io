@@ -5,7 +5,8 @@ permalink: "/catalog/media/series/list/how-to-get-away-with-murder"
 
 title: "How to Get Away with Murder"
 
-d_type: "ABC"
+d_source:
+  - "ABC"
 d_available: "Netflix"
 
 d_sort_level: "other"

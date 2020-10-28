@@ -5,7 +5,8 @@ permalink: "/catalog/media/series/list/unforgettable"
 
 title: "Unforgettable"
 
-d_type: "CBS"
+d_source:
+  - "CBS"
 d_available: ""
 
 d_sort_level: "other"

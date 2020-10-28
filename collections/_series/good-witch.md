@@ -5,7 +5,8 @@ permalink: "/catalog/media/series/list/good-witch"
 
 title: "Good Witch"
 
-d_type: ""
+d_source:
+  - ""
 d_available: "Netflix"
 
 d_sort_level: "other"

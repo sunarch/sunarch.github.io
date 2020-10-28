@@ -5,7 +5,8 @@ permalink: "/catalog/media/series/list/the-mandalorian"
 
 title: "The Mandalorian"
 
-d_type: "Disney+ Original"
+d_source:
+  - "Disney+ Original"
 d_available: "Disney+"
 
 d_sort_level: "second"

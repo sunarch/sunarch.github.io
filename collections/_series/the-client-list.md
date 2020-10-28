@@ -5,7 +5,8 @@ permalink: "/catalog/media/series/list/the-client-list"
 
 title: "The Client List"
 
-d_type: "Lifetime"
+d_source:
+  - "Lifetime"
 d_available: ""
 
 d_sort_level: "other"

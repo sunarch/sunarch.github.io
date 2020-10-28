@@ -5,7 +5,8 @@ permalink: "/catalog/media/series/list/young-sheldon"
 
 title: "Young Sheldon"
 
-d_type: "CBS"
+d_source:
+  - "CBS"
 d_available: "HBO GO"
 
 d_sort_level: "other"

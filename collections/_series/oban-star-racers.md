@@ -5,7 +5,8 @@ permalink: "/catalog/media/series/list/oban-star-racers"
 
 title: "Oban Star-Racers"
 
-d_type: ""
+d_source:
+  - ""
 d_available: ""
 
 d_sort_level: "second"

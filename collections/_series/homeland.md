@@ -5,7 +5,8 @@ permalink: "/catalog/media/series/list/homeland"
 
 title: "Homeland"
 
-d_type: "Showtime"
+d_source:
+  - "Showtime"
 d_available: "Netflix"
 
 d_sort_level: "other"

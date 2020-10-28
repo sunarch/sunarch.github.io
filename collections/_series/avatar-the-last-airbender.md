@@ -5,7 +5,8 @@ permalink: "/catalog/media/series/list/avatar-the-last-airbender"
 
 title: "Avatar: The Last Airbender"
 
-d_type: "Nickelodeon"
+d_source:
+  - "Nickelodeon"
 d_available: ""
 
 d_sort_level: "top"

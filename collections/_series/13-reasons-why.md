@@ -5,7 +5,8 @@ permalink: "/catalog/media/series/list/13-reasons-why"
 
 title: "13 Reasons Why"
 
-d_type: "Netflix Original (Drama)"
+d_source:
+  - "Netflix Original (Drama)"
 d_available: "Netflix"
 
 d_sort_level: "other"

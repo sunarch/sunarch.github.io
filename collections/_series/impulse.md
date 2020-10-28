@@ -5,7 +5,8 @@ permalink: "/catalog/media/series/list/impulse"
 
 title: "Impulse"
 
-d_type: "YouTube Originals"
+d_source:
+  - "YouTube Originals"
 d_available: "YouTube"
 
 d_sort_level: "second"

@@ -5,7 +5,8 @@ permalink: "/catalog/media/series/list/the-west-wing"
 
 title: "The West Wing"
 
-d_type: ""
+d_source:
+  - ""
 d_available: ""
 
 d_sort_level: "top"

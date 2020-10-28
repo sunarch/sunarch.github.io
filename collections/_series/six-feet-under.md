@@ -5,7 +5,8 @@ permalink: "/media/series/list/six-feet-under"
 
 title: "Six Feet Under"
 
-d_type: "HBO"
+d_source:
+  - "HBO"
 d_available: ""
 
 d_sort_level: "other"

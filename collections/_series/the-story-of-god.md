@@ -5,7 +5,8 @@ permalink: "/catalog/media/series/list/the-story-of-god"
 
 title: "The Story of God with Morgan Freeman"
 
-d_type: ""
+d_source:
+  - ""
 d_available: "Netflix"
 
 d_sort_level: "documentary"

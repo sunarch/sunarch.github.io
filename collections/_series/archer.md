@@ -5,7 +5,8 @@ permalink: "/catalog/media/series/list/archer"
 
 title: "Archer"
 
-d_type: "FX (FOX)"
+d_source:
+  - "FX (FOX)"
 d_available: "Netflix"
 
 d_sort_level: "second"

@@ -5,7 +5,8 @@ permalink: "/catalog/media/series/list/the-dragon-prince"
 
 title: "The Dragon Prince"
 
-d_type: "Netflix Original (Children and family / Animated)"
+d_source:
+  - "Netflix Original (Children and family / Animated)"
 d_available: "Netflix"
 
 d_sort_level: "second"

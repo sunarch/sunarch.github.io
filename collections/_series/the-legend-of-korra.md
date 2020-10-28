@@ -5,7 +5,8 @@ permalink: "/catalog/media/series/list/the-legend-of-korra"
 
 title: "The Legend of Korra"
 
-d_type: "Nickelodeon"
+d_source:
+  - "Nickelodeon"
 d_available: ""
 
 d_sort_level: "top"

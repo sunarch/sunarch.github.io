@@ -5,7 +5,8 @@ permalink: "/catalog/media/series/list/sex-education"
 
 title: "Sex Education"
 
-d_type: "Netflix Original (Comedy)"
+d_source:
+  - "Netflix Original (Comedy)"
 d_available: "Netflix"
 
 d_sort_level: "second"

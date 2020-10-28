@@ -5,7 +5,8 @@ permalink: "/catalog/media/series/list/naruto"
 
 title: "Naruto"
 
-d_type: ""
+d_source:
+  - ""
 d_available: ""
 
 d_sort_level: "second"

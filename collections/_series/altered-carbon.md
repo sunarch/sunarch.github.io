@@ -5,7 +5,8 @@ permalink: "/catalog/media/series/list/altered-carbon"
 
 title: "Altered Carbon"
 
-d_type: "Netflix Original (Drama)"
+d_source:
+  - "Netflix Original (Drama)"
 d_available: "Netflix"
 
 d_sort_level: "other"

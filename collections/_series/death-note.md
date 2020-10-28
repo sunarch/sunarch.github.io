@@ -5,7 +5,8 @@ permalink: "/catalog/media/series/list/death-note"
 
 title: "Death Note: Desu nôto"
 
-d_type: ""
+d_source:
+  - ""
 d_available: ""
 
 d_sort_level: "second"

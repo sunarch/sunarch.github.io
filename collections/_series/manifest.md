@@ -5,7 +5,8 @@ permalink: "/catalog/media/series/list/manifest"
 
 title: "Manifest"
 
-d_type: "NBC"
+d_source:
+  - "NBC"
 d_available: "HBO GO"
 
 d_sort_level: "other"

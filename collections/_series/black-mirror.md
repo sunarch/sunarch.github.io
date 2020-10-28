@@ -5,7 +5,9 @@ permalink: "/catalog/media/series/list/black-mirror"
 
 title: "Black Mirror"
 
-d_type: "Channel 4 (S01-02), Netflix continuation"
+d_source:
+  - "Channel 4 (S01-02)"
+  - "Netflix continuation"
 d_available: "Netflix"
 
 d_sort_level: "second"

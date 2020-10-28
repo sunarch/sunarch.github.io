@@ -5,7 +5,8 @@ permalink: "/catalog/media/series/list/how-i-met-your-mother"
 
 title: "How I Met Your Mother"
 
-d_type: ""
+d_source:
+  - ""
 d_available: ""
 
 d_sort_level: "second"

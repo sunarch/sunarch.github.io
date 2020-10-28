@@ -5,7 +5,8 @@ permalink: "/catalog/media/series/list/the-handmaids-tale"
 
 title: "The Handmaid's Tale"
 
-d_type: "Hulu Original"
+d_source:
+  - "Hulu Original"
 d_available: "HBO GO"
 
 d_sort_level: "second"
