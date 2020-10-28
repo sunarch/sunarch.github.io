@@ -9,6 +9,13 @@ d_source:
   - ""
 d_available: "Netflix"
 
+d_original_language: ""
+d_available_language:
+  - ""
+d_available_subtitle:
+  - ""
+
+d_sort_level: "other"
 d_sort_category: "live-action"
 
 d_watch_status: ""

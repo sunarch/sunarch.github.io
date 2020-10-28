@@ -9,6 +9,12 @@ d_source:
   - ""
 d_available: "Crunchyroll"
 
+d_original_language: ""
+d_available_language:
+  - ""
+d_available_subtitle:
+  - ""
+
 d_sort_level: "second"
 d_sort_category: "animation"
 

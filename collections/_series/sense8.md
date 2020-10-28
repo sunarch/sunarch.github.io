@@ -9,6 +9,12 @@ d_source:
   - "Netflix Original (Drama)"
 d_available: "Netflix"
 
+d_original_language: ""
+d_available_language:
+  - ""
+d_available_subtitle:
+  - ""
+
 d_sort_level: "second"
 d_sort_category: "live-action"
 

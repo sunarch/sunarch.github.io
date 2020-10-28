@@ -9,6 +9,12 @@ d_source:
   - "ZDF"
 d_available: ""
 
+d_original_language: ""
+d_available_language:
+  - ""
+d_available_subtitle:
+  - ""
+
 d_sort_level: "documentary"
 d_sort_category: "documentary"
 

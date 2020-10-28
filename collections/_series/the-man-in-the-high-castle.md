@@ -9,6 +9,12 @@ d_source:
   - "Amazon Prime Original"
 d_available: "Amazon Prime"
 
+d_original_language: ""
+d_available_language:
+  - ""
+d_available_subtitle:
+  - ""
+
 d_sort_level: "second"
 d_sort_category: "live-action"
 

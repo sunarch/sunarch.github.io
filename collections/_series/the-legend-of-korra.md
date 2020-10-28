@@ -9,6 +9,12 @@ d_source:
   - "Nickelodeon"
 d_available: ""
 
+d_original_language: ""
+d_available_language:
+  - ""
+d_available_subtitle:
+  - ""
+
 d_sort_level: "top"
 d_sort_category: "animation"
 
