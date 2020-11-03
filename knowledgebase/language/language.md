@@ -2,7 +2,7 @@
 layout: "default"
 title: "languages"
 description: "knowledgebase | sunarch"
-permalink: "/kb/language"
+permalink: "/kb/languages"
 ---
 <!--
 This Source Code Form is subject to the terms of the Mozilla Public
