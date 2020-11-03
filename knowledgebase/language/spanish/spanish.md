@@ -14,8 +14,8 @@ file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 # letters
 
-- Ñ [Latin Capital Letter N with Tilde](https://unicode-table.com/en/00D1/)
-- ñ [Latin Small Letter N with Tilde](https://unicode-table.com/en/00F1/)
+- Ñ -- [Latin Capital Letter N with Tilde](https://unicode-table.com/en/00D1/)
+- ñ -- [Latin Small Letter N with Tilde](https://unicode-table.com/en/00F1/)
 
 # links
 
