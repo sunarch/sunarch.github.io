@@ -1,8 +1,8 @@
 ---
 layout: "default"
-title: "D&D 5E adventures"
+title: "5E adventures in The Forgotten Realms"
 description: "knowledgebase | sunarch"
-permalink: "/kb/games/dnd/adventures"
+permalink: "/kb/games/dnd/adventures/forgotten-realms"
 ---
 <!--
 This Source Code Form is subject to the terms of the Mozilla Public
@@ -11,10 +11,6 @@ file, You can obtain one at http://mozilla.org/MPL/2.0/.
 -->
 
 [< D&D](dnd.md)
-
-- Wikipedia: [List of *Dungeons & Dragons* adventures](https://en.wikipedia.org/wiki/List_of_Dungeons_%26_Dragons_adventures#5th_edition)
-
-# Forgotten Realms
 
 - Fandom: [The Forgotten Realms Wiki](https://forgottenrealms.fandom.com/wiki/Main_Page)
 - Wikipedia: [Forgotten Realms](https://en.wikipedia.org/wiki/Forgotten_Realms)
@@ -123,31 +119,3 @@ file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 - levels: 1-12
 - published: September 15, 2020
-
-# Eberron
-
-- Wikipedia: [Eberron](https://en.wikipedia.org/wiki/Eberron)
-- Wikipedia: [List of Eberron modules and sourcebooks](https://en.wikipedia.org/wiki/List_of_Eberron_modules_and_sourcebooks#5th_edition)
-
-## standalone
-
-- *Wayfinder's Guide to Eberron* (July 2018, PDF)
-- *Eberron: Rising From The Last War* (November 2019, hardcover campaign book)
-    - Wikipedia: [Eberron: Rising from the Last War](https://en.wikipedia.org/wiki/Eberron:_Rising_from_the_Last_War)
-
-## D&D Adventurers League
-
-### Embers of the Last War
-
-- digitally published
-- September 2018 - December 2018
-- corresponds with the *Wayfinder's Guide to Eberron*
-- consists of 12 adventures
-
-### The Oracle of War
-
-- 2019 - ongoing
-- corresponds with *Eberron: Rising From The Last War*
-- consists of 20 adventures
-- takes characters from level 1 to 20
-- core storyline adventures are published on DM's Guild once every month
