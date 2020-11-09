@@ -20,4 +20,4 @@ file, You can obtain one at http://mozilla.org/MPL/2.0/.
 ### links
 
 - YouTube: [Dungeons & Dragons](https://www.youtube.com/c/DNDWizards)
-- [Wikipedia](https://en.wikipedia.org/wiki/Dungeons_%26_Dragons)
+- Wikipedia: [Dungeons & Dragons](https://en.wikipedia.org/wiki/Dungeons_%26_Dragons)
