@@ -12,10 +12,14 @@ file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 [< home](../index.md)
 
-- [GitHub](github/github.md)
+- [languages](language/language.md)
 
 - [licenses](licenses.md)
 
-- [operating systems](op-sys/op-sys.md)
+- [games](games/games.md)
 
-- [languages](language/language.md)
+### technical
+
+- [GitHub](github/github.md)
+
+- [operating systems](op-sys/op-sys.md)
