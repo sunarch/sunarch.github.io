@@ -14,6 +14,7 @@ file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 - Fandom: [The Forgotten Realms Wiki](https://forgottenrealms.fandom.com/wiki/Main_Page)
 - Wikipedia: [Forgotten Realms](https://en.wikipedia.org/wiki/Forgotten_Realms)
+- Wikipedia: [List of *Forgotten Realms* modules and sourcebooks](https://en.wikipedia.org/wiki/List_of_Forgotten_Realms_modules_and_sourcebooks#5th_edition_adventures)
 
 ## storyline: Starter Set
 
