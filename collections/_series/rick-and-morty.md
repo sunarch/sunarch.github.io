@@ -38,7 +38,7 @@ imdb_runtime: "23min"
 imdb_genre: ["Animation", "Adventure", "Comedy"]
 imdb_type: "TV Series"
 imdb_creators: [{name: "Dan Harmon", link: "https://www.imdb.com/name/nm1363595/"}, {name: "Justin Roiland", link: "https://www.imdb.com/name/nm1551598/"}]
-imdb_image: "https://m.media-amazon.com/images/M/MV5BMjRiNDRhNGUtMzRkZi00MThlLTg0ZDMtNjc5YzFjYmFjMmM4XkEyXkFqcGdeQXVyNzQ1ODk3MTQ@._V1_UY268_CR2,0,182,268_AL_.jpg"
+imdb_image: "https://m.media-amazon.com/images/M/MV5BZjRjOTFkOTktZWUzMi00YzMyLThkMmYtMjEwNmQyNzliYTNmXkEyXkFqcGdeQXVyNzQ1ODk3MTQ@._V1_UX182_CR0,0,182,268_AL_.jpg"
 imdb_summary: "An animated series that follows the exploits of a super scientist and his not-so-bright grandson."
 
 wikipedia_link: ""
