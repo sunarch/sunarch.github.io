@@ -29,6 +29,7 @@ file, You can obtain one at http://mozilla.org/MPL/2.0/.
     - gameplay playlists:
         - [Dungeons of Drakkenheim Campaign](https://www.youtube.com/playlist?list=PLQMqiULo_05O1l_x7wym1Th1DTdqiaO0P) : 52 episodes, Oct 5, 2018 - Dec 20, 2019
         - [Shadows of Drakkenheim Campaign](https://www.youtube.com/playlist?list=PLQMqiULo_05N8uRu5GmjeKonhMRJwU9sY) : Jan 17, 2020 - ongoing
+        - [Untold Tales of Drakkenheim](https://www.youtube.com/playlist?list=PLQMqiULo_05MlUWFLIdCwtaZg1qfW_AV6) : 12 episodes, Apr 5, 2020 - Jul 24, 2020
             <!-- seen: ep. 16, 17 -->
 
 ## How to be a Great Game Master
