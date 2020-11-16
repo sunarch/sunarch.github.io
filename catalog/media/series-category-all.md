@@ -12,4 +12,4 @@ file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 [< media](media.md)
 
-{% include series-table.html format="standard" category="all" type="all" filter="" %}
+{% include series-table.html format="compact" category="all" type="all" filter="" %}
