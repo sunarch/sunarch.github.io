@@ -7,7 +7,8 @@ title: "Troy: Fall of a City"
 
 d_source:
   - "BBC"
-d_available: ""
+d_available:
+  - ""
 
 d_original_language: ""
 d_available_language:

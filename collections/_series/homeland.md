@@ -7,7 +7,8 @@ title: "Homeland"
 
 d_source:
   - "Showtime"
-d_available: "Netflix"
+d_available:
+  - "Netflix"
 
 d_original_language: ""
 d_available_language:

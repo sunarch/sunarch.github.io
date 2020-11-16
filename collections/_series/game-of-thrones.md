@@ -7,7 +7,8 @@ title: "Game of Thrones"
 
 d_source:
   - "HBO"
-d_available: "HBO GO"
+d_available:
+  - "HBO GO"
 
 d_original_language: ""
 d_available_language:

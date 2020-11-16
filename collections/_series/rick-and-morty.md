@@ -7,7 +7,8 @@ title: "Rick and Morty"
 
 d_source:
   - "Adult Swim"
-d_available: "Netflix"
+d_available:
+  - "Netflix"
 
 d_original_language: ""
 d_available_language:

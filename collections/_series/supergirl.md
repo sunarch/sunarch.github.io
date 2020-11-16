@@ -7,7 +7,8 @@ title: "Supergirl"
 
 d_source:
   - "CW"
-d_available: ""
+d_available:
+  - ""
 
 d_original_language: ""
 d_available_language:

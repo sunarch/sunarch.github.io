@@ -7,7 +7,8 @@ title: "Naruto: Shippûden"
 
 d_source:
   - ""
-d_available: "Crunchyroll"
+d_available:
+  - "Crunchyroll"
 
 d_original_language: ""
 d_available_language:

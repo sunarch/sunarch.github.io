@@ -7,7 +7,8 @@ title: "Once Upon a Time"
 
 d_source:
   - "abc"
-d_available: ""
+d_available:
+  - ""
 
 d_original_language: ""
 d_available_language:

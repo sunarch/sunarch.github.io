@@ -7,7 +7,8 @@ title: "How to Get Away with Murder"
 
 d_source:
   - "ABC"
-d_available: "Netflix"
+d_available:
+  - "Netflix"
 
 d_original_language: ""
 d_available_language:

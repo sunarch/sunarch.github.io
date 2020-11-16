@@ -8,7 +8,8 @@ title: "Final Space"
 d_source:
   - "TBS"
   - "Netflix exclusive int'l distribution"
-d_available: "Netflix"
+d_available:
+  - "Netflix"
 
 d_original_language: ""
 d_available_language:

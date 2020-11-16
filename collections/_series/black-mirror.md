@@ -8,7 +8,8 @@ title: "Black Mirror"
 d_source:
   - "Channel 4 (S01-02)"
   - "Netflix continuation"
-d_available: "Netflix"
+d_available:
+  - "Netflix"
 
 d_original_language: ""
 d_available_language:

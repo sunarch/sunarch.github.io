@@ -7,7 +7,8 @@ title: "Lois & Clark: The New Adventures of Superman"
 
 d_source:
   - ""
-d_available: ""
+d_available:
+  - ""
 
 d_original_language: ""
 d_available_language:

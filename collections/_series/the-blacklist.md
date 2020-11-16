@@ -7,7 +7,8 @@ title: "The Blacklist"
 
 d_source:
   - "NBC"
-d_available: "Netflix"
+d_available:
+  - "Netflix"
 
 d_original_language: ""
 d_available_language:

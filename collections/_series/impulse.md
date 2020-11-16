@@ -7,7 +7,8 @@ title: "Impulse"
 
 d_source:
   - "YouTube Originals"
-d_available: "YouTube"
+d_available:
+  - "YouTube"
 
 d_original_language: ""
 d_available_language:

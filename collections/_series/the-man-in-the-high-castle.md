@@ -7,7 +7,8 @@ title: "The Man in the High Castle"
 
 d_source:
   - "Amazon Prime Original"
-d_available: "Amazon Prime"
+d_available:
+  - "Amazon Prime"
 
 d_original_language: ""
 d_available_language:

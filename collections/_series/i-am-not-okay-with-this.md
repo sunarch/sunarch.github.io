@@ -7,7 +7,8 @@ title: "I Am Not Okay With This"
 
 d_source:
   - "Netflix Original (Comedy)"
-d_available: "Netflix"
+d_available:
+  - "Netflix"
 
 d_original_language: ""
 d_available_language:

@@ -7,7 +7,8 @@ title: "Mr. Robot"
 
 d_source:
   - "usa"
-d_available: "HBO GO"
+d_available:
+  - "HBO GO"
 
 d_original_language: ""
 d_available_language:

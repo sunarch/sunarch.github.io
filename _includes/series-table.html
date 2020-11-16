@@ -102,7 +102,7 @@ file, You can obtain one at http://mozilla.org/MPL/2.0/.
                         <span style="margin-left: 5pt;">({{ series.imdb_year_start }}&nbsp;–&nbsp;{{ series.imdb_year_finish }})</span>
                     </td>
                     <td>
-                        {{ series.d_available }}
+                        {% for available in series.available %}{{ available }}{% if genre != series.available.last %}, {% endif %}{% endfor %}
                     </td>
                 </tr>
             

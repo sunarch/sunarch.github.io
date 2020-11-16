@@ -8,7 +8,8 @@ title: "Lucifer"
 d_source:
   - "Fox (S01-03)"
   - "Netflix continuation"
-d_available: "Netflix"
+d_available:
+  - "Netflix"
 
 d_original_language: ""
 d_available_language:

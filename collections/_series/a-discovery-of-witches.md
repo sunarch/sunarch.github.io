@@ -7,7 +7,8 @@ title: "A Discovery of Witches"
 
 d_source:
   - "Sky One"
-d_available: "HBO GO"
+d_available:
+  - "HBO GO"
 
 d_original_language: ""
 d_available_language:

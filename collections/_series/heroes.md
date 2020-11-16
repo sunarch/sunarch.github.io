@@ -7,7 +7,8 @@ title: "Heroes"
 
 d_source:
   - ""
-d_available: ""
+d_available:
+  - ""
 
 d_original_language: ""
 d_available_language:

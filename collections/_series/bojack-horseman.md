@@ -7,7 +7,8 @@ title: "BoJack Horseman"
 
 d_source:
   - "Netflix Original (Animation - Adult animation)"
-d_available: "Netflix"
+d_available:
+  - "Netflix"
 
 d_original_language: ""
 d_available_language:

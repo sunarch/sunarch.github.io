@@ -8,7 +8,8 @@ title: "The End of the F***ing World"
 d_source:
   - "Channel 4"
   - "Netflix"
-d_available: "Netflix"
+d_available:
+  - "Netflix"
 
 d_original_language: ""
 d_available_language:

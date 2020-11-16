@@ -7,7 +7,8 @@ title: "The Dragon Prince"
 
 d_source:
   - "Netflix Original (Children and family / Animated)"
-d_available: "Netflix"
+d_available:
+  - "Netflix"
 
 d_original_language: ""
 d_available_language:
