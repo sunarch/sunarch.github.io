@@ -15,8 +15,9 @@ d_available_language:
 d_available_subtitle:
   - ""
 
-d_sort_level: "top"
-d_sort_category: "animation"
+d_category: "animation"
+d_tags:
+  - "top"
 
 d_watch_status: ""
 d_watch_done_seasons: ""

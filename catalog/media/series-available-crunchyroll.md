@@ -12,4 +12,4 @@ file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 [< media](media.md)
 
-{% include series-table.html type="availability" availability="Crunchyroll" %}
+{% include series-table.html format="standard" category="all" type="availability" filter="Crunchyroll" %}

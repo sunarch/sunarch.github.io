@@ -16,8 +16,9 @@ d_available_language:
 d_available_subtitle:
   - ""
 
-d_sort_level: "second"
-d_sort_category: "live-action"
+d_category: "live-action"
+d_tags:
+  - "second"
 
 d_watch_status: ""
 d_watch_done_seasons: ""

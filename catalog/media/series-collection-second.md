@@ -14,8 +14,8 @@ file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 ## live-action
 
-{% include series-table.html type="collection" sort_level="second" sort_category="live-action" %}
+{% include series-table.html format="standard" category="live-action" type="collection" filter="second" %}
 
 ## animation
 
-{% include series-table.html type="collection" sort_level="second" sort_category="animation" %}
+{% include series-table.html format="standard" category="animation" type="collection" filter="second" %}

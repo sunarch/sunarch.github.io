@@ -138,18 +138,12 @@ file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
             <h2>personal</h2>
 
-            <table style="display: table; width: 100%;">
-                <tbody>
-                    <tr>
-                        <td>sorting level</td>
-                        <td>{{ page.d_sort_level }}</td>
-                    </tr>
-                    <tr>
-                        <td>sorting category</td>
-                        <td>{{ page.d_sort_category }}</td>
-                    </tr>
-                </tbody>
-            </table>
+            <ul>
+                <li>category: {{ page.d_category }}</li>
+                {% for tag in page.d_tags %}
+                <li>{{ tag }}</li>
+                {% endfor %}
+            </ul>
 
             {{ content }}
 

@@ -15,28 +15,34 @@ file, You can obtain one at http://mozilla.org/MPL/2.0/.
 {% endif %}
 
 {% for series in data_source %}
-    {% assign display_row = false %}
 
+{% assign display_row = false %}
+
+{% case include.category %}
+    {% when "all" %}
+        {% assign display_row = true %}
+    {% else %}
+        {% if series.d_category == include.category %}
+            {% assign display_row = true %}
+        {% endif %}
+{% endcase %}
+
+{% if display_row %}
     {% case include.type %}
-        {% when "category" %}
-            {% if series.d_sort_category == include.sort_category %}
-                {% assign display_row = true %}
-            {% endif %}
         {% when "collection" %}
-            {% if series.d_sort_category == include.sort_category and series.d_sort_level == include.sort_level %}
-                {% assign display_row = true %}
-            {% endif %}
+            {% assign display_row = series.d_tags | contains: include.filter %}
         {% when "availability" %}
-            {% if series.d_available == include.availability %}
-                {% assign display_row = true %}
-            {% endif %}
+            {% assign display_row = series.d_available | contains: include.filter %}
         {% when "all" %}
             {% assign display_row = true %}
         {% else %}
             {% assign display_row = false %}
     {% endcase %}
+{% endif %}
 
-    {% if display_row == true %}
+{% if display_row == true %}
+
+    {% if include.format == "standard" %}
         {% assign table_row_counter = table_row_counter | plus: 1 %}
         <tr>
             <td rowspan="4" style="width: 26%;">
@@ -80,6 +86,9 @@ file, You can obtain one at http://mozilla.org/MPL/2.0/.
         </tr>
         {% endif %}
     {% endif %}
+
+{% endif %}
+    
 {% endfor %}
 </tbody>
 </table>

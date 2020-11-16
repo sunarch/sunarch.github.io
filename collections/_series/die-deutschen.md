@@ -15,8 +15,9 @@ d_available_language:
 d_available_subtitle:
   - ""
 
-d_sort_level: "documentary"
-d_sort_category: "documentary"
+d_category: "documentary"
+d_tags:
+  - "documentary"
 
 d_watch_status: ""
 d_watch_done_seasons: ""

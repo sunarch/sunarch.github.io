@@ -1,16 +1,23 @@
 ---
 layout: "series"
-# title is set to d_title in layout
 # description is set to "series page | catalog" in layout
-permalink: "/media/series/list/TITLE"
+permalink: "/catalog/media/series/list/TITLE"
 
-d_title: ""
+title: ""
 
-d_type: ""
+d_source:
+  - ""
 d_available: ""
 
-d_sort_level: "other"
-d_sort_category: ""
+d_original_language: ""
+d_available_language:
+  - ""
+d_available_subtitle:
+  - ""
+
+d_category: ""
+d_tags:
+  - "other"
 
 d_watch_status: ""
 d_watch_done_seasons: ""
@@ -33,6 +40,8 @@ imdb_type: ""
 imdb_creators: [{name: "", link: ""}]
 imdb_image: ""
 imdb_summary: ""
+
+wikipedia_link: ""
 ---
 <!--
 This Source Code Form is subject to the terms of the Mozilla Public
