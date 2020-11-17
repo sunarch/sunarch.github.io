@@ -12,7 +12,6 @@ file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 [< games](../games.md)
 
-- [adventures](adventures.md)
 - [services](services.md)
 - [creators](creators.md)
 - [Budapest](budapest.md)
