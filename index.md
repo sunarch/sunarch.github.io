@@ -24,6 +24,7 @@ file, You can obtain one at http://mozilla.org/MPL/2.0/.
 ## projects
 
 - [easypass](/easypass) - diceware passphrase generator
+- [Dungeon Master](/dungeonmaster)
 
 ## personal
 
