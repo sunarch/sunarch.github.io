@@ -1,6 +1,6 @@
 ---
 layout: "default"
-title: "operating systems"
+title: "Windows"
 description: "knowledgebase | sunarch"
 permalink: "/kb/op-sys/windows"
 ---
@@ -14,6 +14,8 @@ file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 - [homepage](https://www.microsoft.com/en-us/windows/)
 - [Wikipedia](https://en.wikipedia.org/wiki/Microsoft_Windows)
+
+- [attributes](attributes.md)
 
 ---
 
